@@ -138,7 +138,7 @@
           </div>
         </div>
       </div>
-      
+
     </section>
     <!-- Wrapper Start -->
     <section class="room section">
@@ -340,132 +340,7 @@
           </div>
         </div>
       </div>
-    </section>
-    <!-- <div class="section main-content  clearfix">
-      <div class="tab-content">
-        <div role="tabpanel" class="tab-pane active" id="select-room">
-          <div class="container mt-5">
-            <div class="row featured">
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
-                  <img src="images/food/1-1.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Unikai Juice Mango</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0 featured-room ">
-                  <img src="images/food/1-2.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Unikai Juice Orange</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0 featured-room ">
-                  <img src="images/food/1-3.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Frooti Mango Drink</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0 featured-room ">
-                  <img src="images/food/1-4.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Kara COCO Coconut Water</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0 featured-room ">
-                  <img src="images/food/1-5.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Appy Fizz</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0 featured-room ">
-                  <img src="images/food/1-6.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Danima Butter Cookies</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0 featured-room ">
-                  <img src="images/food/1-7.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Lacasa Chocolate Negro</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0 featured-room ">
-                  <img src="images/food/1-8.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Pop Smile Popcorn</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0 featured-room ">
-                  <img src="images/food/1-9.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Euro Chips</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0 featured-room ">
-                  <img src="images/food/1-10.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Pure Assam Tea</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0 featured-room ">
-                  <img src="images/food/1-11.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Monin Syrup</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-              <div class="col-sm-12 col-12 col-lg-3 col-md-6">
-                <figure class="ed-room position-relative mb-4 mt-0 featured-room ">
-                  <img src="images/food/1-12.jpg" alt="image" class="img-fluid w-100">
-                  <figcaption class=" ">
-                    <h3 class="headline"><a href="">Olymbic Dry Cak</a></h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                  </figcaption>
-                </figure>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>   -->
-    <!-- footer Start -->
+    </section>    
     <footer class="footer pb-md-5 pb-sm-5 secondary-bg pb-0">
       <div class="container">
         <div class="row">
@@ -585,10 +460,10 @@
 
   <script src="js/script.js"></script>
   <script>
-        $(document).ready(function () {
-            addRemoveActiveClass("food");
-        });
-    </script>
+    $(document).ready(function () {
+      addRemoveActiveClass("food");
+    });
+  </script>
 
 </body>
 

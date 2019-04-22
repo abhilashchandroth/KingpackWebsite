@@ -145,83 +145,95 @@
         </section>
 
 
-        <section class="section" id="about-page">
+        <section class="service-section section">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-8 text-center">
-                        <div class="section-title">
-                            <p class="section-subtitle">Why Choose us</p>
-                            <h2 class="mb-3">Our Standard</h2>
-                            <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and
-                                Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at
-                                the coast of the Semantics</p>
-                            <span class="section-border"></span>
+                        <div class="block">
+                            <div class="section-title">
+                                <p class="section-subtitle">Our Sister Concern</p>
+                                <span class="section-border"></span>
+                            </div>
                         </div>
-                    </div>
+                    </div><!-- .col-md-7 close -->
                 </div>
 
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="mb-5">
-                            <h3 class="text-capitalize mb-3">High satisfaction</h3>
+
+                <div class="row no-gutters">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-box text-center border px-4 py-5">
+                            <img class="text-color" src="images/about/burger1.png" />
+                            <h3 class="my-3">Burger Garden</h3>
                             <p>Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. vitae molestie interdum.
                             </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="mb-5">
-                            <h3 class="text-capitalize mb-3">Delicious breakfast</h3>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-box text-center border px-4 py-5">
+                            <img class="text-color" src="images/about/kims.png" />
+                            <h3 class="my-3">KIMS Watch</h3>
                             <p>Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. vitae molestie interdum.
                             </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="mb-5">
-                            <h3 class="text-capitalize mb-3">Unparalleded service</h3>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-box text-center border px-4 py-5">
+                            <img class="text-color" src="images/about/karak.png" />
+                            <h3 class="my-3">King Karak</h3>
                             <p>Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. vitae molestie interdum.
                             </p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="mb-5 mb-lg-0">
-                            <h3 class="text-capitalize mb-3">Bar & garden with terrace</h3>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-box text-center border px-4 py-5">
+                            <img class="text-color" src="images/about/waad-market.png" />
+                            <h3 class="my-3">Waad Market</h3>
                             <p>Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. vitae molestie interdum.
                             </p>
                         </div>
                     </div>
 
 
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="mb-5 mb-lg-0">
-                            <h3 class="text-capitalize mb-3">Product Catalogue</h3>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-box text-center border px-4 py-5">
+                            <img class="text-color" src="images/about/karak.png" />
+                            <h3 class="my-3">high Quality Services</h3>
                             <p>Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. vitae molestie interdum.
                             </p>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="">
-                            <h3 class="text-capitalize mb-3">Wellness & pool</h3>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-box text-center border px-4 py-5">
+                            <img class="text-color" src="images/about/karak.png" />
+                            <h3 class="my-3">Professional Service</h3>
                             <p>Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. vitae molestie interdum.
                             </p>
                         </div>
                     </div>
-                </div>
-
-                <div class="row mt-5">
-                    <div class="col-lg-12 text-center">
-                        <h6>We provide great services along quality. Check Our <a href="service.html">Services</a></h6>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-box text-center border px-4 py-5">
+                            <img class="text-color" src="images/about/karak.png" />
+                            <h3 class="my-3">Professional Service</h3>
+                            <p>Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. vitae molestie interdum.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="service-box text-center border px-4 py-5">
+                            <img class="text-color" src="images/about/karak.png" />
+                            <h3 class="my-3">Professional Service</h3>
+                            <p>Semper ac dolor vitae accumsan. Cras interdum hendrerit lacinia. vitae molestie interdum.
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
-
-
         <!-- footer Start -->
         <?php include 'include/footer.html' ?>
         <!-- footer End -->
     </div>
-
     <?php include 'include/common-scripts.html' ?>
     <script>
         $(document).ready(function () {

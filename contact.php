@@ -242,7 +242,7 @@
                                 </ul> -->
                             </div>
 
-                            <img class="img-fluid w-100" src="images/contacts/van-sales-map1.jpg" alt="">
+                            <img class="img-fluid w-100" src="images/contacts/van-sales-map.jpg" alt="">
 
                             <div class="post-content post-excerpt mb-5 mt-4">
                                 <p>*Delivery to Restaurants & Cafteria only</p>
