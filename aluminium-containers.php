@@ -3,11 +3,8 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Eden Travel Template">
-
-    <meta name="author" content="Themefisher.com">
-
-    <title>Kingpack Group</title>
+    <meta name="description" content="Explore wide range of Aluminium Containers from our collections - Kingpack Group">    
+    <title>Aluminium Containers - Kingpack Group | Packing with passion</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,7 +20,7 @@
 
     <div class="main-wrapper ">
         <section class="overly"
-            style="background: url(images/products/aluminium-containers/bg-1.jpg);background-size: cover;background-attachment: fixed; ">
+            style="background: url(images/products/aluminium-containers/bg-1.jpg)no-repeat fixed center;background-size: cover;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -155,7 +152,7 @@
                                                 <th scope="row">1074/8576</th>
                                                 <td>1074/8576 ALUMINIUM CONTAINER SQUARE 3 DIV. + LID</td>
                                                 <td>500 PCS</td>
-                                            </tr>                                            
+                                            </tr>
                                         </tbody>
                                     </table>
                                 </div>
@@ -180,7 +177,7 @@
                                                 <th scope="col">Qty</th>
                                             </tr>
                                         </thead>
-                                        <tbody>                                            
+                                        <tbody>
                                             <tr>
                                                 <th scope="row">190</th>
                                                 <td>190 ALUMINIUM CONTAINER ROUND + LID</td>
@@ -227,10 +224,10 @@
 
     <?php include 'include/common-scripts.html' ?>
     <script>
-    $(document).ready(function () {
-      addRemoveActiveClass("products", "alu", "container");
-    });
-  </script>
+        $(document).ready(function () {
+            addRemoveActiveClass("products", "alu", "container");
+        });
+    </script>
 </body>
 
 </html>

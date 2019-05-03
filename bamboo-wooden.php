@@ -1,13 +1,11 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html>
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="Eden Travel Template">
+  <meta name="description" content="Explore Bamboo wooden products from our wide range of Paper Products">
 
-  <meta name="author" content="Themefisher.com">
-
-  <title>Kingpack Group</title>
+  <title>Bamboo Wooden Products - Kingpack Group | Packing with passion</title>
 
   <!-- Mobile Specific Meta-->
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,7 +20,7 @@
 
   <div class="main-wrapper ">
     <section class="overly"
-      style="background: url(images/products/bamboo-wooden/bg-1.jpg);background-size: cover;background-attachment: fixed; ">
+      style="background: url(images/products/bamboo-wooden/bg-1.jpg)no-repeat fixed center;background-size: cover;">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">

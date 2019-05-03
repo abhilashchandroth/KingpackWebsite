@@ -1,13 +1,11 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html>
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="Eden Travel Template">
+  <meta name="description" content="Explore foam products from our products catalogue. Check out the page for more details.">
 
-  <meta name="author" content="Themefisher.com">
-
-  <title>Eden | Hotel template</title>
+  <title>Foam Products - Kingpack Group | Packing with passion</title>
 
   <!-- Mobile Specific Meta-->
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,7 +20,7 @@
   <!-- Header Close -->
 
   <div class="main-wrapper ">
-    <section class="overly" style="background: url(images/products/paper-cups/bg-1.jpg);background-size: cover;background-attachment: fixed; ">
+    <section class="overly" style="background: url(images/products/foam-products/bg-1.jpg)no-repeat fixed center;background-size: cover;">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -57,8 +55,8 @@
                         <div class="col-md-4 col-lg-4 gallery-item">
                           
                           <h6>Foam Products</h6>                        
-                          <a href="images/products/paper-cups/Ripple-Cup.jpg" title="Foam Products">
-                            <img src="images/products/paper-cups/Ripple-Cup.jpg" alt="" class="img-fluid"/>
+                          <a href="images/products/foam-products/foam.jpg" title="Foam Products">
+                            <img src="images/products/foam-products/foam.jpg" alt="" class="img-fluid"/>
                           </a>            
                         </div>                        
                         <div class="col-md-8 col-lg-8">                          

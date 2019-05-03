@@ -23,7 +23,7 @@
 
     <div class="main-wrapper ">
         <section class="overly"
-            style="background: url(images/products/cleaning-products/bg-1.jpg);background-size: cover;background-attachment: fixed; ">
+            style="background: url(images/products/plastic-bags/bg-1.jpg)no-repeat fixed center;background-size: cover;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -61,8 +61,8 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Garage Bags</h6>
-                                    <a href="images/products/paper-cups/Ripple-Cup.jpg" title="Garage Bags">
-                                        <img src="images/products/paper-cups/Ripple-Cup.jpg" alt="" class="img-fluid" />
+                                    <a href="images/products/plastic-bags/garbage-bags.jpg" title="Garage Bags">
+                                        <img src="images/products/plastic-bags/garbage-bags.jpg" alt="" class="img-fluid" />
                                     </a>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
@@ -102,9 +102,9 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>Table Sheets/Surfa</h6>
-                                    <a href="images/products/paper-cups/White-Ripple-Cup.jpg"
+                                    <a href="images/products/plastic-bags/table-sheets.jpg"
                                         title="Table Sheets/Surfa">
-                                        <img src="images/products/paper-cups/White-Ripple-Cup.jpg" alt=""
+                                        <img src="images/products/plastic-bags/table-sheets.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
@@ -137,9 +137,9 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>HD White | LD Colour | Fancy Bag</h6>
-                                    <a href="images/products/paper-cups/kraft-paper-cup.jpg"
+                                    <a href="images/products/plastic-bags/hd-clr.jpg"
                                         title="HD White | LD Colour | Fancy Bag">
-                                        <img src="images/products/paper-cups/kraft-paper-cup.jpg" alt=""
+                                        <img src="images/products/plastic-bags/hd-clr.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
@@ -176,8 +176,8 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>UT Bags</h6>
-                                    <a href="images/products/plastic-cups-straws/plastic-straws.jpg" title="UT Bags">
-                                        <img src="images/products/plastic-cups-straws/plastic-straws.jpg" alt=""
+                                    <a href="images/products/plastic-bags/ut-bags.jpg" title="UT Bags">
+                                        <img src="images/products/plastic-bags/ut-bags.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
@@ -226,9 +226,9 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>Vegetable Bags on Roll</h6>
-                                    <a href="images/products/plastic-cups-straws/plastic-straws.jpg"
+                                    <a href="images/products/plastic-bags/veg-roll.jpg"
                                         title="Vegetable Bags on Roll">
-                                        <img src="images/products/plastic-cups-straws/plastic-straws.jpg" alt=""
+                                        <img src="images/products/plastic-bags/veg-roll.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>

@@ -1,13 +1,11 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html>
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="Kingpack Group">
+  <meta name="description" content="Explore food products from our catalogue. We've products like Appy Fiz, Kara Coco Coconut Water, Frooti, Olymbic Dry Cake etc.">
 
-  <meta name="author" content="Themefisher.com">
-
-  <title>Kingpack Group</title>
+  <title>Kingpack Food - Kingpack Group | Think food</title>
 
   <!-- Mobile Specific Meta-->
   <meta name="viewport" content="width=device-width, initial-scale=1">

@@ -22,7 +22,7 @@
   <!-- Header Close -->
 
   <div class="main-wrapper ">
-    <section class="overly bg-2">
+    <section class="overly" style="background: url(images/products/paper-products/bg-1.jpg)no-repeat fixed center;background-size: cover;">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">

@@ -3,11 +3,9 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Eden Travel Template">
+    <meta name="description" content="Explore Aluminium Foil and Cling Film from our wide range of collection.">
 
-    <meta name="author" content="Themefisher.com">
-
-    <title>Kingpack Group</title>
+    <title>Aluminium Foil, Cling Film - Kingpack Group | Packing with passion</title></title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">

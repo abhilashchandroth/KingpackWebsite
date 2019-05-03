@@ -1,13 +1,11 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html>
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Eden Travel Template">
+    <meta name="description" content="Explore Hygiene products like Vinyl Gloves Powdered,Vinyl Gloves Powder-Free,Latex Gloves,HDPE Gloves,Face Mask,APRON.">
 
-    <meta name="author" content="Themefisher.com">
-
-    <title>Eden | Hotel template</title>
+    <title>Hygiene Products - Kingpack Group | Packing with passion</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">

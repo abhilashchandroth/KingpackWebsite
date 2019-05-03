@@ -1,13 +1,11 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html>
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Eden Travel Template">
+    <meta name="description" content="Choose best products from our cleaning products catalogue. We've wide collection like Abaya Shamboo, Dishwash Lemon, Laundary Soap etc.">
 
-    <meta name="author" content="Themefisher.com">
-
-    <title>Kingpack Group</title>
+    <title>Cleaning Containers - Kingpack Group | Packing with passion</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">

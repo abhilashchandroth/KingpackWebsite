@@ -1,13 +1,11 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html>
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="Eden Travel Template">
+  <meta name="description" content="Explore Bamboo wooden products from our wide range of Products. Choose Black Base Containers, Microwave Containers and Red & Black containers from our collection.">
 
-  <meta name="author" content="Themefisher.com">
-
-  <title>Kingpack Group</title>
+  <title>Black Base Products - Kingpack Group | Packing with passion</title>
 
   <!-- Mobile Specific Meta-->
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,7 +20,7 @@
   <!-- Header Close -->
 
   <div class="main-wrapper ">
-    <section class="overly" style="background: url(images/products/black-base/bg-1.jpg)no-repeat fixed center;background-size: contain; ">
+    <section class="overly" style="background: url(images/products/black-base/bg-1.jpg)no-repeat fixed center;background-size: cover;">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -288,8 +286,8 @@
                       <div class="row product-desc">
                         <div class="col-md-4 col-lg-4 gallery-item">               
                             <h6>Red & Black Containers</h6>                        
-                            <a href="images/products/paper-cups/Zig-Zag.jpg" title="kraft paper cup">
-                              <img src="images/products/paper-cups/Zig-Zag.jpg" alt="" class="img-fluid"/>
+                            <a href="images/products/black-base/red-black.jpg" title="kraft paper cup">
+                              <img src="images/products/black-base/red-black.jpg" alt="" class="img-fluid"/>
                             </a>           
                           </div>
                           <div class="col-md-8 col-lg-8">

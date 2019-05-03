@@ -23,7 +23,7 @@
 
     <div class="main-wrapper ">
         <section class="overly"
-            style="background: url(images/products/cleaning-products/bg-1.jpg);background-size: cover;background-attachment: fixed; ">
+            style="background: url(images/products/plastic-cake-container/bg-1.jpg)no-repeat fixed center;background-size: cover;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -61,8 +61,8 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Egg Tray Clear</h6>
-                                    <a href="images/products/paper-cups/Ripple-Cup.jpg" title="Egg Tray Clear">
-                                        <img src="images/products/paper-cups/Ripple-Cup.jpg" alt="" class="img-fluid" />
+                                    <a href="images/products/plastic-cake-container/egg-tray.jpg" title="Egg Tray Clear">
+                                        <img src="images/products/plastic-cake-container/egg-tray.jpg" alt="" class="img-fluid" />
                                     </a>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
@@ -95,8 +95,8 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>Cake Container</h6>
-                                    <a href="images/products/paper-cups/White-Ripple-Cup.jpg" title="Cake Container">
-                                        <img src="images/products/paper-cups/White-Ripple-Cup.jpg" alt=""
+                                    <a href="images/products/plastic-cake-container/cake-container.jpg" title="Cake Container">
+                                        <img src="images/products/plastic-cake-container/cake-container.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
@@ -127,9 +127,9 @@
                             <br />
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
-                                    <h6>Cake Container</h6>
-                                    <a href="images/products/paper-cups/kraft-paper-cup.jpg" title="Cake Container">
-                                        <img src="images/products/paper-cups/kraft-paper-cup.jpg" alt=""
+                                    <h6>Crystal Plate</h6>
+                                    <a href="images/products/plastic-cake-container/crystal-plate.jpg" title="Cake Container">
+                                        <img src="images/products/plastic-cake-container/crystal-plate.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
@@ -161,8 +161,8 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>Cup Holder</h6>
-                                    <a href="images/products/plastic-cups-straws/plastic-straws.jpg" title="Cup Holder">
-                                        <img src="images/products/plastic-cups-straws/plastic-straws.jpg" alt=""
+                                    <a href="images/products/plastic-cake-container/juice-holder.jpg" title="Cup Holder">
+                                        <img src="images/products/plastic-cake-container/juice-holder.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
@@ -195,9 +195,9 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>Clear Tap</h6>
-                                    <a href="images/products/plastic-cups-straws/plastic-straws.jpg"
+                                    <a href="images/products/plastic-cake-container/TAP.jpg"
                                         title="Cutlery-Clear-Heavy Duty">
-                                        <img src="images/products/plastic-cups-straws/plastic-straws.jpg" alt=""
+                                        <img src="images/products/plastic-cake-container/TAP.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>

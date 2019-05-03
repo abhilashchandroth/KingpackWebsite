@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html>
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="Contact Us - Kingpack Group">
-    <title>Contact Us - Kingpack Group</title>
+    <title>Contact Us - Kingpack Group | Packing with passion</title>
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -264,7 +264,14 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-lg-3 col-md-6 mb-4 ">
+                <div class="col-lg-5 col-md-6 mb-4 ">
+                        <div class="card rounded-0 text-center room-grid">
+                           
+                                <img src="images/contacts/branch.jpg" alt="Branch"/>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 mb-4 ">
                         <div class="card rounded-0 text-center room-grid">
                             <div class="card-body py-5 bg-purple text-white">
                                 <h3>SITRA</h3>
@@ -276,9 +283,22 @@
                                 <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>36 51 44
                                         22</b></p>
                             </div>
-                        </div>
+                        </div>        
+                        <br>
+                        <div class="card rounded-0 text-center room-grid">
+                            <div class="card-body py-5 bg-purple text-white">
+                                <h3>MANAMA</h3>
+                                <a href="https://goo.gl/maps/N1fWLa3MQBHGutUV7" class="text-white" target="_blank"><b><i
+                                            class="ion-ios-location mr-2"></i>SHOP NO: 1841 ,ROAD NO :434<br>
+                                        N/R AWAL HOTEL
+                                    </b></a>
+                                    <br><br>
+                                <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>33 37 20
+                                        16</b></p>
+                            </div>
+                        </div>               
                     </div>
-                    <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="col-lg-2 col-md-6 mb-4">
                         <div class="card rounded-0 text-center room-grid">
                             <div class="card-body py-5 bg-purple text-white">
                                 <h3>HIDD</h3>
@@ -292,39 +312,7 @@
                                         59</b></p>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-4">
-                        <div class="card rounded-0 text-center room-grid">
-                            <div class="card-body py-5 bg-purple text-white">
-                                <h3>CENTRAL MARKET</h3>
-                                <a href="https://goo.gl/maps/crb8XDKQuw12" class="text-white" target="_blank"><b><i
-                                            class="ion-ios-location mr-2"></i>GATE NO 10<br>
-                                        MANAMA</b></a>
-                                <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>34 17 38
-                                        78</b>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- 3 col end -->
-
-                    <div class="col-lg-3 col-md-6 mb-0 mb-lg-0">
-                        <div class="card rounded-0 text-center room-grid">
-                            <div class="card-body py-5 bg-purple text-white">
-                                <h3>MANAMA</h3>
-                                <a href="https://goo.gl/maps/N1fWLa3MQBHGutUV7" class="text-white" target="_blank"><b><i
-                                            class="ion-ios-location mr-2"></i>SHOP NO: 1841 ,ROAD NO :434<br>
-                                        N/R AWAL HOTEL
-                                    </b></a>
-                                <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>33 37 20
-                                        16</b></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-0 mb-lg-0">
-
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-0 mb-lg-0">
+                        <br>
                         <div class="card rounded-0 text-center room-grid">
                             <div class="card-body py-5 bg-purple text-white">
                                 <h3>SANABIS</h3>
@@ -338,22 +326,39 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 mb-0 mb-lg-0">
+                    <!-- <div class="col-lg-3 col-md-6 mb-0 mb-lg-0">
+
+                    </div> -->
+                    <div class="col-lg-2 col-md-6 mb-4">
+                        <div class="card rounded-0 text-center room-grid">
+                            <div class="card-body py-5 bg-purple text-white">
+                                <h3>CENTRAL MARKET</h3>
+                                <a href="https://goo.gl/maps/crb8XDKQuw12" class="text-white" target="_blank"><b><i
+                                            class="ion-ios-location mr-2"></i>GATE NO 10<br>
+                                        MANAMA</b></a>
+                                        <br><br>
+                                <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>34 17 38
+                                        78</b>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
                         <div class="card rounded-0 text-center room-grid">
                             <div class="card-body py-5 bg-purple text-white">
                                 <h3>HAMAD TOWN</h3>
                                 <a href="https://goo.gl/maps/mKi3aZxEdqC2" class="text-white" target="_blank"><b><i
                                             class="ion-ios-location mr-2"></i>N/R KFC , SHOP NO: 321<br>
                                         BLOCK NO:1203
-                                    </b></a>
+                                    </b></a>                                   
                                 <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>66 68 00
                                         85</b></p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 mb-0 mb-lg-0">
+                    <!-- 3 col end -->                                
+                    <!-- <div class="col-lg-3 col-md-6 mb-0 mb-lg-0">
 
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>

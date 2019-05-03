@@ -23,7 +23,7 @@
 
   <div class="main-wrapper ">
     <section class="overly"
-      style="background: url(images/products/paper-cups/bg-1.jpg);background-size: cover;background-attachment: fixed; ">
+      style="background: url(images/products/other-paper-products/bg-1.jpg)no-repeat fixed center;background-size: cover;">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -43,7 +43,7 @@
               <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
               <a href="paper-products.php" class="text-blue h6">Paper Products</a>
               <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
-              <a href="#" class="text-blue h6">Other Paper Products</a>
+              <a href="#" class="text-white h6">Other Paper Products</a>
             </div>
           </div>
         </div>

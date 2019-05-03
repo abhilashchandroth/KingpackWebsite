@@ -1,13 +1,12 @@
 <!DOCTYPE html>
-<html lang="zxx">
+<html>
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="description" content="Kingpack Trading">
+	<meta name="description" content="Kingpack trading was established in the Kingdom of Bahrain in 2013 as a company involved
+								in marketing and distribution of consumable disposables and gradable food packaging products">
 
-	<meta name="author" content="kingpackgroup.com">
-
-	<title>Kingpack Group</title>
+	<title>Home Page - Kingpack Group | Packing with passion</title>
 
 	<!-- Mobile Specific Meta-->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -111,7 +110,7 @@
 		<section class="about section">
 			<div class="container">
 				<div class="row justify-content-center">
-					<div class="col-lg-8 text-center">
+					<div class="col-lg-12 text-center">
 						<div class="section-title">
 							<p class="section-subtitle">Welcome To</p>
 							<h2 class="mb-3">Kingpack Website</h2>
@@ -320,49 +319,49 @@
 			<div class="container-fluid p-0">
 				<div class="row">
 					<div class="gallery-title">
-						<a href="gallery-3.html" class="explore explore-main">Gallery</a>
+						<a href="products.php" class="explore explore-main">Products</a>
 					</div>
 				</div>
 				<div class="row no-gutters ">
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/gallery/1-1.jpg" title="Photo 1">
-								<img src="images/gallery/1.jpg" alt="" class="img-fluid w-100">
+							<a href="images/products/shelf-range.jpg" title="Photo 1">
+								<img src="images/products/shelf-range.jpg" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/gallery/1-2.jpg" title="Photo 2">
-								<img src="images/gallery/2.jpg" alt="" class="img-fluid w-100">
+							<a href="images/products/paper-products.jpg" title="Photo 2">
+								<img src="images/products/paper-products.jpg" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/gallery/1-3.jpg" title="Photo 3">
-								<img src="images/gallery/3.jpg" alt="" class="img-fluid w-100">
+							<a href="images/products/tissue.jpg" title="Photo 3">
+								<img src="images/products/tissue.jpg" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/gallery/1-4.jpg" title="Photo 2">
-								<img src="images/gallery/4.jpg" alt="" class="img-fluid w-100">
+							<a href="images/products/aluminium.jpg" title="Photo 2">
+								<img src="images/products/aluminium.jpg" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/gallery/1-5.jpg" title="Photo 2">
-								<img src="images/gallery/5.jpg" alt="" class="img-fluid w-100">
+							<a href="images/products/plastic.jpg" title="Photo 2">
+								<img src="images/products/plastic.jpg" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/gallery/1-6.jpg" title="Photo 2">
-								<img src="images/gallery/6.jpg" alt="" class="img-fluid w-100">
+							<a href="images/products/black-base.jpg" title="Photo 2">
+								<img src="images/products/black-base.jpg" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>

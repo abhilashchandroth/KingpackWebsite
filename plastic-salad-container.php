@@ -23,7 +23,7 @@
 
     <div class="main-wrapper ">
         <section class="overly"
-            style="background: url(images/products/cleaning-products/bg-1.jpg);background-size: cover;background-attachment: fixed; ">
+            style="background: url(images/products/plastic-dates-container/bg-1.jpg)no-repeat fixed center;background-size: cover;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -61,8 +61,8 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Dates Clear Container</h6>
-                                    <a href="images/products/paper-cups/Ripple-Cup.jpg" title="Dates Clear Container">
-                                        <img src="images/products/paper-cups/Ripple-Cup.jpg" alt="" class="img-fluid" />
+                                    <a href="images/products/plastic-dates-container/dates-container.jpg" title="Dates Clear Container">
+                                        <img src="images/products/plastic-dates-container/dates-container.jpg" alt="" class="img-fluid" />
                                     </a>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
@@ -108,9 +108,9 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>RSB - Salad Container</h6>
-                                    <a href="images/products/paper-cups/White-Ripple-Cup.jpg"
+                                    <a href="images/products/plastic-dates-container/RSB.jpg"
                                         title="RSB - Salad Container">
-                                        <img src="images/products/paper-cups/White-Ripple-Cup.jpg" alt=""
+                                        <img src="images/products/plastic-dates-container/RSB.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
@@ -152,9 +152,9 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>LRT - Salad Container</h6>
-                                    <a href="images/products/paper-cups/kraft-paper-cup.jpg"
+                                    <a href="images/products/plastic-dates-container/clear-salad.jpg"
                                         title="LRT - Salad Container">
-                                        <img src="images/products/paper-cups/kraft-paper-cup.jpg" alt=""
+                                        <img src="images/products/plastic-dates-container/clear-salad.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
@@ -221,9 +221,9 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>Clamshell | Hinged</h6>
-                                    <a href="images/products/plastic-cups-straws/plastic-straws.jpg"
+                                    <a href="images/products/plastic-dates-container/with-fork.jpg"
                                         title="Clamshell | Hinged">
-                                        <img src="images/products/plastic-cups-straws/plastic-straws.jpg" alt=""
+                                        <img src="images/products/plastic-dates-container/with-fork.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
@@ -260,9 +260,9 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>UT&FTH - Salad Container</h6>
-                                    <a href="images/products/plastic-cups-straws/plastic-straws.jpg"
+                                    <a href="images/products/plastic-dates-container/FTH.jpg"
                                         title="UT&FTH - Salad Container">
-                                        <img src="images/products/plastic-cups-straws/plastic-straws.jpg" alt=""
+                                        <img src="images/products/plastic-dates-container/FTH.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
