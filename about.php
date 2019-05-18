@@ -78,27 +78,33 @@
 
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <div class="about-content mt-4 mt-lg-0">
-                            <h2 class="mb-3 text-sm-center">Our Mission</h2>
-                            <blockquote class="quote-post position-relative">
-                                <p>
-                                    To provide quality food distribution services and packaging solutions at most
-                                    competitive prices.
-                                </p>
-                            </blockquote>
-                        </div>
+                        <div class="testimonial-carousel p-4">
+                            <div>
+                                <img src="images/about/mission.png" alt="" class="img-fluid  rounded-circle mr-3">
+                                <i class="ion-quote text-color mb-3 d-block"></i>
+                                <p class="mb-4">"To provide quality food distribution services and packaging
+                                    solutions at most
+                                    competitive prices."</p>
+                                <div class="user d-flex">
+
+                                </div>
+                            </div>
+                        </div>                        
                     </div>
                     <div class="col-lg-6">
-                        <div class="about-content mt-4 mt-lg-0">
-                            <h2 class="mb-3 text-sm-center">Our Vision</h2>
-                            <blockquote class="quote-post position-relative">
-                                <p>
-                                    Meeting customers' food and packaging requirements without compromising on quality
-                                    or ethics.<br />
-                                    The right product at the RIGHT TIME !
-                                </p>
-                            </blockquote>
-                        </div>
+                        <div class="p-4">
+                            <div>
+                                <img src="images/about/vision.png" alt="" class="img-fluid  rounded-circle mr-3">
+                                <i class="ion-quote text-color mb-3 d-block"></i>
+                                <p class="mb-4">"Meeting customers' food and packaging requirements without compromising
+                                    on quality
+                                    or ethics."<br />
+                                    <b>"The RIGHT PRODUCT at the RIGHT TIME !"<b></p>
+                                <div class="user d-flex">
+
+                                </div>
+                            </div>
+                        </div>                        
                     </div>
                 </div>
             </div>
@@ -123,7 +129,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="cta-box mb-5 mb-lg-0">
-                            <img src="images/about/van.png" class="text-black"/>
+                            <i class="fas fa-truck text-black"></i>
                             <h2 class="mt-2 text-black">9</h2>
                             <p class="mb-0 text-black text-uppercase">Vans Sales</p>
                         </div>

@@ -53,7 +53,7 @@
           <?php include 'include/product-categories.html' ?>
           <!-- Include product catefories- end-->
           <div class="col-md-6 col-sm-6 col-lg-8">
-            <div class="comment-form p-4">
+            <div class="comment-form pl-4">
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
 

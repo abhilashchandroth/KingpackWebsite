@@ -57,8 +57,8 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>30 Ltr</h6>
-                                    <a href="images/products/cleaning-products/Ripple-Cup.jpg" title="30 Ltr">
-                                        <img src="images/products/cleaning-products/Ripple-Cup.jpg" alt="" class="img-fluid" />
+                                    <a href="images/products/cleaning-products/abaya-shamboo.jpg" title="30 Ltr">
+                                        <img src="images/products/cleaning-products/abaya-shamboo.jpg" alt="" class="img-fluid" />
                                     </a>
                                 </div>
                                 <div class="col-md-8 col-lg-8">

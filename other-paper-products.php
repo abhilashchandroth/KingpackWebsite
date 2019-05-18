@@ -251,8 +251,8 @@
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Juice Carrier</h6>
-                  <a href="images/products/other-paper-products/doilly-paper.jpg" title="Juice Carrier">
-                    <img src="images/products/other-paper-products/doilly-paper.jpg" alt="" class="img-fluid" />
+                  <a href="images/products/other-paper-products/juice-carrier.jpg" title="Juice Carrier">
+                    <img src="images/products/other-paper-products/juice-carrier.jpg" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">

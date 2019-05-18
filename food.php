@@ -3,7 +3,8 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="Explore food products from our catalogue. We've products like Appy Fiz, Kara Coco Coconut Water, Frooti, Olymbic Dry Cake etc.">
+  <meta name="description"
+    content="Explore food products from our catalogue. We've products like Appy Fiz, Kara Coco Coconut Water, Frooti, Olymbic Dry Cake etc.">
 
   <title>Kingpack Food - Kingpack Group | Think food</title>
 
@@ -162,14 +163,24 @@
           <div class="col-lg-4 col-md-6 mb-4 ">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
-                <a href="images/food/unikai-mango-juice.jpg" title="Unikai Mango juice">
+                <!-- <a href="images/food/unikai-mango-juice.jpg" title="Unikai Mango juice">
                   <img src="images/food/unikai-mango-juice.jpg" alt="unikai-mango-juice" class="img-fluid w-100">
                 </a>
+               -->
+                <div class="food-item-slider">
+                  <!-- slider item -->
+                  <img class="hero-slider-item" src="images/food/unikai-mango-juice.jpg" />
+
+                  <!-- slider item -->
+                  <img class="hero-slider-item" src="images/food/unikai-orange-juice.jpg" />
+
+                </div>
               </div>
               <div class="card-body py-5">
                 <h3>Unikai Mango Juice</h3>
-                <h2>$150 <small>Lorem</small></h2>
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="unikai-juice.php"
+                    role="button">Explore</a></div>
+                <p class="my-4">Explore more about this food item.</p>
 
               </div>
             </div>
@@ -177,12 +188,12 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
-                <a href="images/food/unikai-orange-juice.jpg" title="Unika Orange Juice">
-                  <img src="images/food/unikai-orange-juice.jpg" alt="Unika Orange Juice" class="img-fluid w-100">
+                <a href="images/food/unikai-orange-juice.jpg" title="Cipsas Nuts">
+                  <img src="images/food/unikai-orange-juice.jpg" alt="Cipsas Nuts" class="img-fluid w-100">
                 </a>
               </div>
               <div class="card-body py-5">
-                <h3>Unika Orange Juice</h3>
+                <h3>Cipsas Nuts</h3>
                 <h2>$250 <small>Lorem</small></h2>
                 <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
 
@@ -281,13 +292,16 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
-                <a href="images/food/euro-chips.jpg" title="Euro Chips">
-                  <img src="images/food/euro-chips.jpg" alt="Euro Chips" class="img-fluid w-100">
-                </a>
+              <div class="food-item-slider">
+                  <!-- slider item -->
+                  <img class="hero-slider-item" src="images/food/euro-chips.jpg" />                  
+                  <img class="hero-slider-item" src="images/food/euro-chips-masti-masala.jpg" />
+                  <img class="hero-slider-item" src="images/food/euro-chips-salted.jpg" />
+                  <img class="hero-slider-item" src="images/food/euro-chips-tomato.jpg" />
+                </div>
               </div>
-              <div class="card-body py-5">
-                <h3>Euro Chips</h3>
-                <h2>Lorem <small>Lorem</small></h2>
+              <div class="card-body">
+                <h3>Euro Chips</h3>                
                 <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
 
               </div>
@@ -338,110 +352,10 @@
           </div>
         </div>
       </div>
-    </section>    
-    <footer class="footer pb-md-5 pb-sm-5 secondary-bg pb-0">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-3 col-md-6 col-sm-6">
-            <div class="widget footer-widget">
-              <div class="footer-logo footer-title mb-4">
-                <h2>Kingpack</h2>
-              </div>
-              <p>Kingpack trading was established in the Kingdom of Bahrain in 2013 as a company involved in marketing
-                and
-                distribution of consumable disposables and gradable food packaging products.</p>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 col-sm-6 mb-md-4 mb-sm-4">
-            <div class="widget footer-widget">
-              <h3 class="mb-4">Address</h3>
-              <ul class="list-inline footer-address">
-                <li class="list-inline-item">
-                  <i class="ion-android-call"></i>
-                  +973 35 63 14 88
-                </li>
-                <li class="list-inline-item">
-                  <i class="ion-email"></i>
-                  food@kingpackgroup.com
-                </li>
-                <li class="list-inline-item">
-                  <i class="ion-ios-location"></i>
-                  Head Office<br />
-                  <span style="padding-left: 23px;">No.839, Road No.2617</span><br />
-                  <span style="padding-left: 23px;">No. 626, Al Akar Al Gharab</span><br />
-                  <span style="padding-left: 23px;">Kingdom of Bahrin</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 col-sm-6 mb-md-4 mb-sm-4">
-            <div class="widget footer-widget">
-              <h3 class="mb-4">Quick Links</h3>
-              <ul class="list-unstyled footer-menu mb-0">
-                <li>
-                  <a href="#"><i class="ion-arrow-right-b"></i>Home</a>
-                </li>
-
-                <li>
-                  <a href="#"><i class="ion-arrow-right-b"></i>About Us</a>
-                </li>
-
-                <li>
-                  <a href="#"><i class="ion-arrow-right-b"></i>Product</a>
-                </li>
-
-                <li>
-                  <a href="#"><i class="ion-arrow-right-b"></i>Food</a>
-                </li>
-
-                <li>
-                  <a href="#"><i class="ion-arrow-right-b"></i>Contact</a>
-                </li>
-
-              </ul>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 col-sm-6">
-            <div class="widget footer-widget">
-              <h3 class="mb-4">Company</h3>
-
-              <ul class="list-unstyled footer-menu mb-0">
-                <li><a href="#">Term & Conditions </a></li>
-
-                <li><a href="#">Privacy Policy</a></li>
-
-                <li><a href="#">Site Map </a></li>
-              </ul>
-
-
-              <h4 class="my-4">Follow US</h4>
-
-              <ul class="list-inline footer-socials">
-                <li class="list-inline-item">
-                  <a href="https://www.facebook.com/KINGPACKGROUP/"><i class="ion-social-facebook"></i></a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="https://instagram.com/download/?r=2845772818"><i class="ion-social-instagram"></i></a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
-
-    <section class="footer-btm secondary-bg py-4">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="text-center">
-              &copy; Copyright Reserved to <a href="#">Kingpack</a>-2019
-            </div>
-          </div>
-        </div>
-      </div>
     </section>
-    <a href="javascript:void(0);" class="s-back-to-top js__back-to-top -is-visible"></a>
+    <!-- footer Start -->
+    <?php include 'include/food-footer.html' ?>
+    <!-- footer End -->
     <!-- footer End -->
   </div>
 

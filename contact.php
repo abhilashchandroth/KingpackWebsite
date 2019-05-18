@@ -103,7 +103,7 @@
                                 <div class="media mb-3">
                                     <div class="media-body">
                                         <h4 class="media-heading"><a href="#"><i
-                                                    class="ion-android-bus text-color mr-4"></i>Van A<br>
+                                                    class="fas fa-truck text-color mr-4"></i>Van A<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34577296</h4>
                                         </a></h4>
                                         <div class="post-meta"
@@ -116,7 +116,7 @@
                                 <div class="media mb-3">
                                     <div class="media-body">
                                         <h4 class="media-heading"><a href="#"><i
-                                                    class="ion-android-bus text-color mr-4"></i>Van B<br>
+                                                    class="fas fa-truck text-color mr-4"></i>Van B<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34577219</h4>
                                         </a></h4>
                                         <div class="post-meta"
@@ -129,7 +129,7 @@
                                 <div class="media mb-3">
                                     <div class="media-body">
                                         <h4 class="media-heading"><a href="#"><i
-                                                    class="ion-android-bus text-color mr-4"></i>Van C<br>
+                                                    class="fas fa-truck text-color mr-4"></i>Van C<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>33937693</h4>
                                         </a></h4>
                                         <div class="post-meta"
@@ -142,7 +142,7 @@
                                 <div class="media mb-3">
                                     <div class="media-body">
                                         <h4 class="media-heading"><a href="#"><i
-                                                    class="ion-android-bus text-color mr-4"></i>Van D<br>
+                                                    class="fas fa-truck text-color mr-4"></i>Van D<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34326145</h4>
                                         </a></h4>
                                         <div class="post-meta"
@@ -155,7 +155,7 @@
                                 <div class="media mb-3">
                                     <div class="media-body">
                                         <h4 class="media-heading"><a href="#"><i
-                                                    class="ion-android-bus text-color mr-4"></i>Van E<br>
+                                                    class="fas fa-truck text-color mr-4"></i>Van E<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>33417220</h4>
                                         </a></h4>
                                         <div class="post-meta"
@@ -168,7 +168,7 @@
                                 <div class="media mb-3">
                                     <div class="media-body">
                                         <h4 class="media-heading"><a href="#"><i
-                                                    class="ion-android-bus text-color mr-4"></i>Van F<br>
+                                                    class="fas fa-truck text-color mr-4"></i>Van F<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34173242</h4>
                                         </a></h4>
                                         <div class="post-meta"
@@ -181,7 +181,7 @@
                                 <div class="media mb-3">
                                     <div class="media-body">
                                         <h4 class="media-heading"><a href="#"><i
-                                                    class="ion-android-bus text-color mr-4"></i>Van G<br>
+                                                    class="fas fa-truck text-color mr-4"></i>Van G<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34052343</h4>
                                         </a></h4>
                                         <div class="post-meta"
@@ -194,7 +194,7 @@
                                 <div class="media mb-3">
                                     <div class="media-body">
                                         <h4 class="media-heading"><a href="#"><i
-                                                    class="ion-android-bus text-color mr-4"></i>Van H<br>
+                                                    class="fas fa-truck text-color mr-4"></i>Van H<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34325910</h4>
                                         </a></h4>
                                         <div class="post-meta"
@@ -207,7 +207,7 @@
                                 <div class="media mb-3">
                                     <div class="media-body">
                                         <h4 class="media-heading"><a href="#"><i
-                                                    class="ion-android-bus text-color mr-4"></i>Van I<br>
+                                                    class="fas fa-truck text-color mr-4"></i>Van I<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>35687979</h4>
                                         </a></h4>
                                         <div class="post-meta"
@@ -264,11 +264,11 @@
                 </div>
 
                 <div class="row">
-                <div class="col-lg-5 col-md-6 mb-4 ">
+                    <div class="col-lg-6 col-md-6 mb-4 ">
                         <div class="card rounded-0 text-center room-grid">
-                           
-                                <img src="images/contacts/branch.jpg" alt="Branch"/>
-                            
+
+                            <img src="images/contacts/branch.jpg" alt="Branch" />
+
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-6 mb-4 ">
@@ -283,7 +283,7 @@
                                 <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>36 51 44
                                         22</b></p>
                             </div>
-                        </div>        
+                        </div>
                         <br>
                         <div class="card rounded-0 text-center room-grid">
                             <div class="card-body py-5 bg-purple text-white">
@@ -292,11 +292,11 @@
                                             class="ion-ios-location mr-2"></i>SHOP NO: 1841 ,ROAD NO :434<br>
                                         N/R AWAL HOTEL
                                     </b></a>
-                                    <br><br>
+                                <br><br>
                                 <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>33 37 20
                                         16</b></p>
                             </div>
-                        </div>               
+                        </div>
                     </div>
                     <div class="col-lg-2 col-md-6 mb-4">
                         <div class="card rounded-0 text-center room-grid">
@@ -336,7 +336,7 @@
                                 <a href="https://goo.gl/maps/crb8XDKQuw12" class="text-white" target="_blank"><b><i
                                             class="ion-ios-location mr-2"></i>GATE NO 10<br>
                                         MANAMA</b></a>
-                                        <br><br>
+                                <br><br>
                                 <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>34 17 38
                                         78</b>
                                 </p>
@@ -349,13 +349,13 @@
                                 <a href="https://goo.gl/maps/mKi3aZxEdqC2" class="text-white" target="_blank"><b><i
                                             class="ion-ios-location mr-2"></i>N/R KFC , SHOP NO: 321<br>
                                         BLOCK NO:1203
-                                    </b></a>                                   
+                                    </b></a>
                                 <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>66 68 00
                                         85</b></p>
                             </div>
                         </div>
                     </div>
-                    <!-- 3 col end -->                                
+                    <!-- 3 col end -->
                     <!-- <div class="col-lg-3 col-md-6 mb-0 mb-lg-0">
 
                     </div> -->
@@ -383,41 +383,41 @@
                                 <div class="list-group" id="list-tab" role="tablist">
                                     <a class="list-group-item list-group-item-action" id="list-home-list"
                                         data-toggle="list" href="#list-home" role="tab" aria-controls="home">
-                                        <h4><i class="ion-android-bus text-color mr-4"></i>Van A<br>
+                                        <h4><i class="fas fa-truck text-color mr-4"></i>Van A<br>
                                             <i class="ion-ios-telephone-outline text-color mr-4"></i>34577296</h4>
                                     </a>
                                     <a class="list-group-item list-group-item-action" id="list-profile-list"
                                         data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">
-                                        <h4><i class="ion-android-bus text-color mr-4"></i>Van B<br>
+                                        <h4><i class="fas fa-truck text-color mr-4"></i>Van B<br>
                                             <i class="ion-ios-telephone-outline text-color mr-4"></i>34577219</h4>
                                     </a>
                                     <a class="list-group-item list-group-item-action" id="list-messages-list"
                                         data-toggle="list" href="#list-messages" role="tab" aria-controls="messages">
-                                        <i class="ion-android-bus text-color mr-4"></i>Van C<br>
+                                        <i class="fas fa-truck text-color mr-4"></i>Van C<br>
                                         <i class="ion-ios-telephone-outline text-color mr-4"></i>test 1</a>
                                     <a class="list-group-item list-group-item-action" id="list-settings-list"
                                         data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">
-                                        <i class="ion-android-bus text-color mr-4"></i>Van D<br>
+                                        <i class="fas fa-truck text-color mr-4"></i>Van D<br>
                                         <i class="ion-ios-telephone-outline text-color mr-4"></i>34326145</a>
                                     <a class="list-group-item list-group-item-action" id="list-settings-list"
                                         data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">
-                                        <i class="ion-android-bus text-color mr-4"></i>Van E<br>
+                                        <i class="fas fa-truck text-color mr-4"></i>Van E<br>
                                         <i class="ion-ios-telephone-outline text-color mr-4"></i>33417220</a>
                                     <a class="list-group-item list-group-item-action" id="list-settings-list"
                                         data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">
-                                        <i class="ion-android-bus text-color mr-4"></i>Van F<br>
+                                        <i class="fas fa-truck text-color mr-4"></i>Van F<br>
                                         <i class="ion-ios-telephone-outline text-color mr-4"></i>test 2</a>
                                     <a class="list-group-item list-group-item-action" id="list-settings-list"
                                         data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">
-                                        <i class="ion-android-bus text-color mr-4"></i>Van G<br>
+                                        <i class="fas fa-truck text-color mr-4"></i>Van G<br>
                                         <i class="ion-ios-telephone-outline text-color mr-4"></i>34052343</a>
                                     <a class="list-group-item list-group-item-action" id="list-settings-list"
                                         data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">
-                                        <i class="ion-android-bus text-color mr-4"></i>Van H<br>
+                                        <i class="fas fa-truck text-color mr-4"></i>Van H<br>
                                         <i class="ion-ios-telephone-outline text-color mr-4"></i>34325910</a>
                                     <a class="list-group-item list-group-item-action" id="list-settings-list"
                                         data-toggle="list" href="#list-settings" role="tab" aria-controls="settings">
-                                        <i class="ion-android-bus text-color mr-4"></i>Van I<br>
+                                        <i class="fas fa-truck text-color mr-4"></i>Van I<br>
                                         <i class="ion-ios-telephone-outline text-color mr-4"></i>test 3</a>
                                 </div>
                             </div>

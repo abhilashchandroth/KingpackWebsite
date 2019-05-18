@@ -104,9 +104,9 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
                                     <h6>Vinyl Glove Powder - Free</h6>
-                                    <a href="images/products/hygiene-products/White-Ripple-Cup.jpg"
+                                    <a href="images/products/hygiene-products/vinyl-gloves-p.jpg"
                                         title="Vinyl Glove Powder - Free">
-                                        <img src="images/products/hygiene-products/White-Ripple-Cup.jpg" alt=""
+                                        <img src="images/products/hygiene-products/vinyl-gloves-p.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>

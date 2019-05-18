@@ -27,20 +27,10 @@
 		<!-- slider -->
 		<section>
 			<div class="hero-slider">
-				<!-- slider item -->
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner3.jpg); ">
-					<div class="container">
-						<div class="row justify-content-center">
-							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
-								<h1 class="mb-3 text-capitalize"></h1>
-								<p class="mb-5"></p>
-								<!-- <a href="products.php" class="explore explore-main" data-duration-in=".3" data-animation-in="zoomIn" data-delay-in=".4">Explore now</a> -->
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- slider item -->
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner4.jpg); ">
+				
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner3.jpg); height:550px">					
+				</div>				
+				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner4.jpg); ">
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
@@ -50,60 +40,55 @@
 							</div>
 						</div>
 					</div>
-				</div>
-				<!-- slider item -->
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner5.jpg); ">
+				</div> -->
+				
+				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner5.jpg); ">
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
 								<span class="letter-spacing text-white"></span>
 								<h1 class="mb-3 text-capitalize"></h1>
-								<p class="mb-5"></p>
-								<!-- <a href="products.php" class="explore explore-main" data-duration-in=".3" data-animation-in="zoomIn" data-delay-in=".4">more details</a> -->
+								<p class="mb-5"></p>								
 							</div>
 						</div>
 					</div>
-				</div>
-				<!-- slider item -->
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner6.jpg); ">
+				</div>				 -->
+				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner6.jpg); ">
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".1">
 								<span class="letter-spacing text-white"></span>
 								<h1 class="mb-3 text-capitalize"></h1>
-								<p class="mb-5"></p>
-								<!-- <a href="products.php" class="explore explore-main" data-duration-in=".3" data-animation-in="zoomIn" data-delay-in=".4">more details</a> -->
+								<p class="mb-5"></p>								
 							</div>
 						</div>
 					</div>
 				</div>
-				<!-- slider item -->
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner7.jpg); ">
+				 -->
+				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner7.jpg); ">
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInLeft" data-delay-in=".1">
 								<span class="letter-spacing text-white"></span>
 								<h1 class="mb-3 text-capitalize"></h1>
-								<p class="mb-5"></p>
-								<!-- <a href="products.php" class="explore explore-main" data-duration-in=".3" data-animation-in="zoomIn" data-delay-in=".4">more details</a> -->
+								<p class="mb-5"></p>								
 							</div>
 						</div>
 					</div>
-				</div>
-				<!-- slider item -->
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner8.jpg); ">
+				</div> -->
+				
+				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner8.jpg); ">
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInRight"
 								data-delay-in=".1">
 								<span class="letter-spacing text-white"></span>
 								<h1 class="mb-3 text-capitalize"></h1>
-								<p class="mb-5"></p>
-								<!-- <a href="products.php" class="explore explore-main" data-duration-in=".3" data-animation-in="zoomIn" data-delay-in=".4">more details</a> -->
+								<p class="mb-5"></p>								
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</section>
 		<!-- Wrapper Start -->
@@ -147,7 +132,7 @@
 								<li><i class="flaticon-dishwasher"></i>high Quality Services</li>
 								<li><i class="flaticon-credit-card"></i>Easy Booking & Payment</li>
 								<li><i class="flaticon-restaurant"></i>Modern Equipments</li>
-								<li><i class="flaticon-chef"></i>The World's Top Chefs</li>
+								<li><i class="fas fa-user-tie"></i>The World's Top Chefs</li>
 								<li><i class="flaticon-location-pin"></i>Interesting Activities</li>
 							</ul>
 						</div>

@@ -33,7 +33,16 @@
 	});
 	$('.hero-slider').slickAnimation();
 
-
+	$('.food-item-slider').slick({
+		autoplay: true,
+		infinite: true,
+		arrows: true,
+		dots: true,
+		autoplaySpeed: 3000,
+		pauseOnFocus: false,
+		pauseOnHover: false
+	});
+	$('.hero-slider').slickAnimation();
 
 	$('.testimonial-carousel').slick({
 		slidesToShow: 1,
@@ -57,6 +66,25 @@
 		tPrev: 'Previous (Left arrow key)',
 		tNext: 'Next (Right arrow key)',
 		tCounter: '<span class="mfp-counter">%curr% of %total%</span>',
+		zoom: {
+			enabled: true,
+			duration: 300,
+			easing: 'ease-in-out',
+			opener: function (openerElement) {
+				return openerElement.is('img') ? openerElement : openerElement.find('img');
+			}
+		}
+	});
+
+	$('.food-item').magnificPopup({
+		delegate: 'a',
+		type: 'ajax',
+		gallery: {
+			enabled: true
+		},
+		mainClass: 'mfp-with-zoom',
+		navigateByImgClick: true,
+		markup: "<p>test</p>",
 		zoom: {
 			enabled: true,
 			duration: 300,
