@@ -5,9 +5,10 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="description" content="Eden Travel Template">
 
-  <meta name="author" content="Themefisher.com">
+  <meta name="author" content="Choose paper products PAPER BAGS, PAPER PLATES, SANDWICH PAPER, DOILLY PAPER, FRENCH FRIES,
+              JUICE CARRIER, PIZZA BOX, CAKE BOX">
 
-  <title>Kingpack Group</title>
+  <title>Other Paper Products - Kingpack Group</title>
 
   <!-- Mobile Specific Meta-->
   <meta name="viewport" content="width=device-width, initial-scale=1">

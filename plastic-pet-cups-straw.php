@@ -3,11 +3,10 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Eden Travel Template">
+    <meta name="description" content="PET CUPS | CLEAR PP CUPS(AO) | PP PLAIN CUPS(Y) | PLASTIC STRAW
+                            CRYSTAL GLASS | PLASTIC CUPS">
 
-    <meta name="author" content="Themefisher.com">
-
-    <title>Eden | Hotel template</title>
+    <title>Plastic Pet Cups, Strws - Kingpack Group | Packing with passion</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">

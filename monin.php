@@ -6,7 +6,7 @@
     <meta name="description"
         content="Explore food products from our catalogue. We've products like Appy Fiz, Kara Coco Coconut Water, Frooti, Olymbic Dry Cake etc.">
 
-    <title>Kingpack Food - Kingpack Group | Think food</title>
+    <title>Monin - Kingpack Group | Think food</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -87,7 +87,7 @@
 
     <div class="main-wrapper ">
         <section class="overly"
-            style="background: url(images/products/ice-cream-cups/bg-1.jpg)no-repeat fixed center;background-size: cover;">
+            style="background: url(images/food/monin/bg-1.jpg)no-repeat center;background-size: contain;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -123,11 +123,13 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
-                                    <h6>Monin</h6>
-                                    <a href="images/products/ice-cream-cups/ice-cream-cups.jpg" title="Unikai Juice<">
-                                        <img src="images/products/ice-cream-cups/ice-cream-cups.jpg" alt=""
-                                            class="img-fluid" />
-                                    </a>
+                                    <h6>Syrup</h6>
+                                    <div class="gallery-item ">
+                                        <div class="food-item-slider">
+                                            <img class="hero-slider-item" src="images/food/monin/syrup.jpg" />
+                                            <img class="hero-slider-item" src="images/food/monin/puree.jpg" />
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">
@@ -157,17 +159,19 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Monin Souse</h6>
-                                    <a href="images/products/ice-cream-cups/ice-cream-cups-white.jpg"
-                                        title="Unikai Milk">
-                                        <img src="images/products/ice-cream-cups/ice-cream-cups-white.jpg" alt=""
-                                            class="img-fluid" />
-                                    </a>
+                                    <div class="gallery-item ">
+                                        <div class="food-item-slider">
+                                            <img class="hero-slider-item" src="images/food/monin/souce-black-chocolate.jpg" />
+                                            <img class="hero-slider-item" src="images/food/monin/souce-carmel.jpg" />
+                                            <img class="hero-slider-item" src="images/food/monin/souce-white-chocolate.jpg" />
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">
                                         <thead>
                                             <tr>
-                                                <th scope="col">Flavour</th> >
+                                                <th scope="col">Flavour</th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -189,9 +193,14 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Monin - Frappe</h6>
-                                    <a href="images/products/ice-cream-cups/spoon.jpg" title="Unikai Flavoured Milk">
-                                        <img src="images/products/ice-cream-cups/spoon.jpg" alt="" class="img-fluid" />
-                                    </a>
+                                    <div class="gallery-item ">
+                                        <div class="food-item-slider">
+                                            <img class="hero-slider-item" src="images/food/monin/chocolate-frappe.jpg" />
+                                            <img class="hero-slider-item" src="images/food/monin/cofee-frappe.jpg" />
+                                            <img class="hero-slider-item" src="images/food/monin/nondiary-frappe.jpg" />
+                                            <img class="hero-slider-item" src="images/food/monin/vanilla-frappe.jpg" />
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">

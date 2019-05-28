@@ -3,11 +3,10 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Eden Travel Template">
+    <meta name="description" content="GARBAGE BAGS, TABLE SHEETS /SUFRA, HD WHITE, LD CLOUR, FANCY
+                            BAG, U T BAGS, VEGITABLE BAGS ON ROLL">
 
-    <meta name="author" content="Themefisher.com">
-
-    <title>Kingpack Group</title>
+    <title>Plastic bags, Veg Rolls - Kingpack Group | Packing with passion</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">

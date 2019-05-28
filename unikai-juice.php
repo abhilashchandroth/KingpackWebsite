@@ -6,7 +6,7 @@
     <meta name="description"
         content="Explore food products from our catalogue. We've products like Appy Fiz, Kara Coco Coconut Water, Frooti, Olymbic Dry Cake etc.">
 
-    <title>Kingpack Food - Kingpack Group | Think food</title>
+    <title>Unikai Juice - Kingpack Group | Think food</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -87,7 +87,7 @@
 
     <div class="main-wrapper ">
         <section class="overly"
-            style="background: url(images/products/ice-cream-cups/bg-1.jpg)no-repeat fixed center;background-size: cover;">
+            style="background: url(images/food/unikai-juice/bg-1.jpg)no-repeat fixed center;background-size: cover;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -124,10 +124,15 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Unikai Juice</h6>
-                                    <a href="images/products/ice-cream-cups/ice-cream-cups.jpg" title="Unikai Juice<">
-                                        <img src="images/products/ice-cream-cups/ice-cream-cups.jpg" alt=""
-                                            class="img-fluid" />
-                                    </a>
+                                    <div class="gallery-item ">
+                                        <div class="food-item-slider">
+                                            <img class="hero-slider-item" src="images/food/unikai-juice/apple.jpg" />                                            
+                                            <img class="hero-slider-item" src="images/food/unikai-juice/cocktail.jpg" />                                            
+                                            <img class="hero-slider-item" src="images/food/unikai-juice/pineapple.jpg" />                                            
+                                            <img class="hero-slider-item" src="images/food/unikai-juice/mango.jpg" />                                                                                               
+                                            <img class="hero-slider-item" src="images/food/unikai-juice/orange.jpg" />                                                                                               
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">
@@ -140,28 +145,28 @@
                                         <tbody>
                                             <tr>
                                                 <th scope="row">Orange</th>
-                                                <td>40 gm</td>
-                                                <td>160 gm</td>
+                                                <td>250 ml </td>
+                                                <td>1 ltr </td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">Mango</th>
-                                                <td>40 gm</td>
-                                                <td>160 gm</td>
+                                                <td>250 ml </td>
+                                                <td>1 ltr </td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">Cocktail</th>
-                                                <td>40 gm</td>
-                                                <td>160 gm</td>
+                                                <td>250 ml </td>
+                                                <td>1 ltr </td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">Pineapple</th>
-                                                <td>40 gm</td>
-                                                <td>160 gm</td>
+                                                <td>250 ml </td>
+                                                <td>1 ltr </td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">Apple</th>
-                                                <td>40 gm</td>
-                                                <td>160 gm</td>
+                                                <td>250 ml </td>
+                                                <td>1 ltr </td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -172,9 +177,9 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Unikai Milk</h6>
-                                    <a href="images/products/ice-cream-cups/ice-cream-cups-white.jpg"
+                                    <a href="images/food/unikai-juice/milk-lowfat.jpg"
                                         title="Unikai Milk">
-                                        <img src="images/products/ice-cream-cups/ice-cream-cups-white.jpg" alt=""
+                                        <img src="images/food/unikai-juice/milk-lowfat.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
@@ -206,9 +211,13 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Unikai Flavoured Milk</h6>
-                                    <a href="images/products/ice-cream-cups/spoon.jpg" title="Unikai Flavoured Milk">
-                                        <img src="images/products/ice-cream-cups/spoon.jpg" alt="" class="img-fluid" />
-                                    </a>
+                                    <div class="gallery-item ">
+                                        <div class="food-item-slider">
+                                            <img class="hero-slider-item" src="images/food/unikai-juice/chocolate.jpg" />                                            
+                                            <img class="hero-slider-item" src="images/food/unikai-juice/banana.jpg" />                                            
+                                            <img class="hero-slider-item" src="images/food/unikai-juice/strawberry.jpg" />                                                                                                                                        
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">
@@ -240,8 +249,8 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Unikai Coconut Juice </h6>
-                                    <a href="images/products/ice-cream-cups/spoon.jpg" title="Unikai Coconut Juice">
-                                        <img src="images/products/ice-cream-cups/spoon.jpg" alt="" class="img-fluid" />
+                                    <a href="images/food/unikai-juice/coconut.jpg" title="Unikai Coconut Juice">
+                                        <img src="images/food/unikai-juice/coconut.jpg" alt="" class="img-fluid" />
                                     </a>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
@@ -254,7 +263,7 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <th scope="row"> tropical fresh  - coconut juice </th>
+                                                <th scope="row">Tropical fresh</th>
                                                 <td>310 ml</td>
                                             </tr>                                            
                                         </tbody>

@@ -163,21 +163,13 @@
           <div class="col-lg-4 col-md-6 mb-4 ">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
-                <!-- <a href="images/food/unikai-mango-juice.jpg" title="Unikai Mango juice">
-                  <img src="images/food/unikai-mango-juice.jpg" alt="unikai-mango-juice" class="img-fluid w-100">
-                </a>
-               -->
                 <div class="food-item-slider">
-                  <!-- slider item -->
                   <img class="hero-slider-item" src="images/food/unikai-mango-juice.jpg" />
-
-                  <!-- slider item -->
                   <img class="hero-slider-item" src="images/food/unikai-orange-juice.jpg" />
-
                 </div>
               </div>
-              <div class="card-body py-5">
-                <h3>Unikai Mango Juice</h3>
+              <div class="card-body">
+                <h3>Unikai Juice</h3>
                 <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="unikai-juice.php"
                     role="button">Explore</a></div>
                 <p class="my-4">Explore more about this food item.</p>
@@ -188,15 +180,19 @@
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
-                <a href="images/food/unikai-orange-juice.jpg" title="Cipsas Nuts">
-                  <img src="images/food/unikai-orange-juice.jpg" alt="Cipsas Nuts" class="img-fluid w-100">
-                </a>
+                <div class="food-item-slider">
+                  <img class="hero-slider-item" src="images/food/cipas-nuts/crunch-cheese.jpg" />
+                  <img class="hero-slider-item" src="images/food/cipas-nuts/crunch-ketchup.jpg" />
+                  <img class="hero-slider-item" src="images/food/cipas-nuts/tomby-ketchup.jpg" />
+                  <img class="hero-slider-item" src="images/food/cipas-nuts/tomby-missy.jpg" />
+                  <img class="hero-slider-item" src="images/food/cipas-nuts/kanky.jpg" alt="" />
+                </div>
               </div>
-              <div class="card-body py-5">
+              <div class="card-body">
                 <h3>Cipsas Nuts</h3>
-                <h2>$250 <small>Lorem</small></h2>
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
-
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="cipsas-nuts.php"
+                    role="button">Explore</a></div>
+                <p class="my-4">Explore more about this food item.</p>
               </div>
             </div>
           </div>
@@ -207,11 +203,10 @@
                   <img src="images/food/frooti.jpg" alt="Frooti" class="img-fluid w-100">
                 </a>
               </div>
-              <div class="card-body py-5">
+              <div class="card-body">
                 <h3>Frooti</h3>
-                <h2>$280 <small>Lorem</small></h2>
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
-
+                <p><strong>Flavours :</strong> Mango</p>
+                <p><strong>Available :</strong> 200 ml</p>                                       
               </div>
             </div>
           </div>
@@ -224,11 +219,10 @@
                   <img src="images/food/kara-coco.jpg" alt="Kara COCO Coconut Water" class="img-fluid w-100">
                 </a>
               </div>
-              <div class="card-body py-5">
-                <h3>Kara COCO Coconut Water</h3>
-                <h2>$360 <small>Lorem</small></h2>
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
-
+              <div class="card-body">
+                <h3>Kara COCO</h3>
+                <p><strong>Flavours :</strong> Coconut Water</p>
+                <p><strong>Available :</strong> 250 ml, 330 ml, 500 ml, 1 Ltr</p>                       
               </div>
             </div>
           </div>
@@ -239,10 +233,10 @@
                   <img src="images/food/appy-fizz.jpg" alt="Appy Fizz" class="img-fluid w-100">
                 </a>
               </div>
-              <div class="card-body py-5">
+              <div class="card-body">
                 <h3>Appy Fizz</h3>
-                <h2>$200 <small>Lorem</small></h2>
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
+                <p><strong>Flavours :</strong> Apple</p>
+                <p><strong>Available :</strong> 250 ml, 500 ml</p>                
               </div>
             </div>
           </div>
@@ -253,10 +247,13 @@
                   <img src="images/food/danima-cookies.jpg" alt="Danima Butter Cookies" class="img-fluid w-100">
                 </a>
               </div>
-              <div class="card-body py-5">
-                <h3>Danima Butter Cookies</h3>
-                <h2>Lorem <small>Lorem</small></h2>
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
+              <div class="card-body">
+                <h3>Danima Cookies</h3>
+                <p class="my-4">Explore more about this food item.</p>
+                <br>
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="danima-cookies.php"
+                    role="button">Explore</a></div>
+                
               </div>
             </div>
           </div>
@@ -269,9 +266,11 @@
                 </a>
               </div>
               <div class="card-body py-5">
-                <h3>Lacasa Chocolate Negro</h3>
-                <h2>Lorem <small>Lorem</small></h2>
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
+                <h3>Lacasa Chocolate</h3>
+                <p class="my-4">Explore more about this food item.</p>                
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="lacasa-dulcinea.php"
+                    role="button">Explore</a></div>
+                
               </div>
             </div>
           </div>
@@ -282,43 +281,43 @@
                   <img src="images/food/pop-popcorn.jpg" alt="Pop Smile Popcorn" class="img-fluid w-100">
                 </a>
               </div>
-              <div class="card-body py-5">
+              <div class="card-body">
                 <h3>Pop Smile Popcorn</h3>
-                <h2>Lorem <small>Lorem</small></h2>
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
+                <p><strong>Flavours :</strong> Cheese, Salt, Carmel, Dark Chocolate</p>
+                <p><strong>Available :</strong> 60 grms, 180 grms</p>  
+                <br>                              
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
-              <div class="food-item-slider">
+                <div class="food-item-slider">
                   <!-- slider item -->
-                  <img class="hero-slider-item" src="images/food/euro-chips.jpg" />                  
-                  <img class="hero-slider-item" src="images/food/euro-chips-masti-masala.jpg" />
-                  <img class="hero-slider-item" src="images/food/euro-chips-salted.jpg" />
-                  <img class="hero-slider-item" src="images/food/euro-chips-tomato.jpg" />
+                  <img class="hero-slider-item" src="images/food/euro-chips/euro-chips.jpg" />
+                  <img class="hero-slider-item" src="images/food/euro-chips/euro-chips-masti-masala.jpg" />
+                  <img class="hero-slider-item" src="images/food/euro-chips/euro-chips-salted.jpg" />
+                  <img class="hero-slider-item" src="images/food/euro-chips/euro-chips-tomato.jpg" />
                 </div>
               </div>
               <div class="card-body">
-                <h3>Euro Chips</h3>                
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
-
+                <h3>Euro Chips</h3>
+                <p><strong>Flavours :</strong> Cream and Onion, Salt, Masti Masala, Tomato</p>
+                <p><strong>Available :</strong> 40 grms, 160 grms</p>               
               </div>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6 mb-0 mb-lg-0">
+          <div class="col-lg-4 col-md-6">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
                 <a href="images/food/pure-assam-tea.jpg" title="Pure Assam Tea">
                   <img src="images/food/pure-assam-tea.jpg" alt="Pure Assam Tea" class="img-fluid w-100">
                 </a>
               </div>
-              <div class="card-body py-5">
+              <div class="card-body">
                 <h3>Pure Assam Tea</h3>
-                <h2>Lorem <small>Lorem</small></h2>
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
+                <p><strong>Flavours :</strong> Fine tea powder-Kingpack</p>
+                <p><strong>Available :</strong> 5 kg</p>                         
               </div>
             </div>
           </div>
@@ -329,10 +328,12 @@
                   <img src="images/food/monin-syrup.jpg" alt="Monin Syrup" class="img-fluid w-100">
                 </a>
               </div>
-              <div class="card-body py-5">
+              <div class="card-body">
                 <h3>Monin Syrup</h3>
-                <h2>Lorem <small>Lorem</small></h2>
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
+                <p class="my-4">Explore more about this food item.</p>
+                <br>
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="monin.php"
+                    role="button">Explore</a></div>                
               </div>
             </div>
           </div>
@@ -343,10 +344,10 @@
                   <img src="images/food/dry-cake.jpg" alt="Olymbic Dry Cake" class="img-fluid w-100">
                 </a>
               </div>
-              <div class="card-body py-5">
-                <h3>Olymbic Dry Cak</h3>
-                <h2>Lorem <small>Lorem</small></h2>
-                <p class="my-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, provident!</p>
+              <div class="card-body">
+                <h3>Dry Cake</h3>
+                <p><strong>Flavours :</strong> Olymbic</p>
+                <p><strong>Available :</strong> 38 grms</p>                         
               </div>
             </div>
           </div>

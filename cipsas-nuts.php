@@ -6,7 +6,7 @@
     <meta name="description"
         content="Explore food products from our catalogue. We've products like Appy Fiz, Kara Coco Coconut Water, Frooti, Olymbic Dry Cake etc.">
 
-    <title>Kingpack Food - Kingpack Group | Think food</title>
+    <title>Cipsas Nuts - Kingpack Group | Think food</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -87,7 +87,7 @@
 
     <div class="main-wrapper ">
         <section class="overly"
-            style="background: url(images/products/ice-cream-cups/bg-1.jpg)no-repeat fixed center;background-size: cover;">
+            style="background: url(images/food/cipas-nuts/bg-1.jpg)no-repeat fixed center;background-size: cover;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -124,8 +124,8 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Tefos</h6>
-                                    <a href="images/products/ice-cream-cups/ice-cream-cups.jpg" title="Unikai Juice<">
-                                        <img src="images/products/ice-cream-cups/ice-cream-cups.jpg" alt=""
+                                    <a href="images/food/cipas-nuts.jpg" title="Tefos">
+                                        <img src="images/food/cipas-nuts/tefos.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
@@ -151,11 +151,12 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Crunch</h6>
-                                    <a href="images/products/ice-cream-cups/ice-cream-cups-white.jpg"
-                                        title="Unikai Milk">
-                                        <img src="images/products/ice-cream-cups/ice-cream-cups-white.jpg" alt=""
-                                            class="img-fluid" />
-                                    </a>
+                                    <div class="gallery-item ">
+                                        <div class="food-item-slider">
+                                            <img class="hero-slider-item" src="images/food/cipas-nuts/crunch-cheese.jpg" />                                            
+                                            <img class="hero-slider-item" src="images/food/cipas-nuts/crunch-ketchup.jpg" />                                                                                        
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">
@@ -191,9 +192,12 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Tomby</h6>
-                                    <a href="images/products/ice-cream-cups/spoon.jpg" title="Unikai Flavoured Milk">
-                                        <img src="images/products/ice-cream-cups/spoon.jpg" alt="" class="img-fluid" />
-                                    </a>
+                                    <div class="gallery-item ">
+                                        <div class="food-item-slider">
+                                            <img class="hero-slider-item" src="images/food/cipas-nuts/tomby-ketchup.jpg" />
+                                            <img class="hero-slider-item" src="images/food/cipas-nuts/tomby-missy.jpg" />
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">
@@ -229,8 +233,8 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Kanky</h6>
-                                    <a href="images/products/ice-cream-cups/spoon.jpg" title="Unikai Coconut Juice">
-                                        <img src="images/products/ice-cream-cups/spoon.jpg" alt="" class="img-fluid" />
+                                    <a href="images/food/cipas-nuts/kanky.jpg" title="Kanky">
+                                        <img src="images/food/cipas-nuts/kanky.jpg" alt="" class="img-fluid" />
                                     </a>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
@@ -267,8 +271,8 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Papatyos</h6>
-                                    <a href="images/products/ice-cream-cups/spoon.jpg" title="Unikai Coconut Juice">
-                                        <img src="images/products/ice-cream-cups/spoon.jpg" alt="" class="img-fluid" />
+                                    <a href="images/food/cipas-nutsspoon.jpg" title="Unikai Coconut Juice">
+                                        <img src="images/food/cipas-nutsspoon.jpg" alt="" class="img-fluid" />
                                     </a>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
@@ -305,8 +309,8 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Stick</h6>
-                                    <a href="images/products/ice-cream-cups/spoon.jpg" title="Unikai Coconut Juice">
-                                        <img src="images/products/ice-cream-cups/spoon.jpg" alt="" class="img-fluid" />
+                                    <a href="images/food/cipas-nutsspoon.jpg" title="Unikai Coconut Juice">
+                                        <img src="images/food/cipas-nutsspoon.jpg" alt="" class="img-fluid" />
                                     </a>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
@@ -343,8 +347,8 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Ondul</h6>
-                                    <a href="images/products/ice-cream-cups/spoon.jpg" title="Unikai Coconut Juice">
-                                        <img src="images/products/ice-cream-cups/spoon.jpg" alt="" class="img-fluid" />
+                                    <a href="images/food/cipas-nutsspoon.jpg" title="Unikai Coconut Juice">
+                                        <img src="images/food/cipas-nutsspoon.jpg" alt="" class="img-fluid" />
                                     </a>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
@@ -381,8 +385,8 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Crispy</h6>
-                                    <a href="images/products/ice-cream-cups/spoon.jpg" title="Unikai Coconut Juice">
-                                        <img src="images/products/ice-cream-cups/spoon.jpg" alt="" class="img-fluid" />
+                                    <a href="images/food/cipas-nuts/crispy.jpg" title="Crispy">
+                                        <img src="images/food/cipas-nuts/crispy.jpg" alt="" class="img-fluid" />
                                     </a>
                                 </div>
                                 <div class="col-md-8 col-lg-8">

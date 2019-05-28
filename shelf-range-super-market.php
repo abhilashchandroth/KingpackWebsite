@@ -3,11 +3,10 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="Eden Travel Template">
+  <meta name="description" content="ALUMINIUM PRODUCTS | BLACK BASE PRODUCTS | CLEAR PRODUCTS | FOAM PRODUCTS |
+              PAPER PRODUCTS | PLASTIC PRODUCTS">
 
-  <meta name="author" content="Themefisher.com">
-
-  <title>Kingpack Group</title>
+  <title>Shelf Range, Super Market - Kingpack Group | Packing with passion</title>
 
   <!-- Mobile Specific Meta-->
   <meta name="viewport" content="width=device-width, initial-scale=1">

@@ -6,7 +6,7 @@
     <meta name="description"
         content="Explore food products from our catalogue. We've products like Appy Fiz, Kara Coco Coconut Water, Frooti, Olymbic Dry Cake etc.">
 
-    <title>Kingpack Food - Kingpack Group | Think food</title>
+    <title>Lacasa Dulcinea | Think food</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -87,7 +87,7 @@
 
     <div class="main-wrapper ">
         <section class="overly"
-            style="background: url(images/products/ice-cream-cups/bg-1.jpg)no-repeat fixed center;background-size: cover;">
+            style="background: url(images/food/lacasa/bg-1.jpg)no-repeat center;background-size: contain;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -124,10 +124,14 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Lacasa Dulcinea</h6>
-                                    <a href="images/products/ice-cream-cups/ice-cream-cups.jpg" title="Unikai Juice<">
-                                        <img src="images/products/ice-cream-cups/ice-cream-cups.jpg" alt=""
-                                            class="img-fluid" />
-                                    </a>
+                                    <div class="gallery-item ">
+                                        <div class="food-item-slider">
+                                            <img class="hero-slider-item" src="images/food/lacasa/lacasa.jpg" />
+                                            <img class="hero-slider-item" src="images/food/lacasa/chocolate.jpg" />
+                                            <img class="hero-slider-item" src="images/food/lacasa/3.jpg" />
+                                            <img class="hero-slider-item" src="images/food/lacasa/2.jpg" />                                           
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">
@@ -139,31 +143,31 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <th scope="row">cocoa truffles</th>
+                                                <th scope="row">Cocoa Truffles</th>
                                                 <td>100 gm</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">lacasa chocalate bars </th>
+                                                <th scope="row">Lacasa Chocalate Bars </th>
                                                 <td>100 gm</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">lacasa chocalate - small pouch</th>
+                                                <th scope="row">Lacasa Chocalate - Small pouch</th>
                                                 <td>35 gm</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">lacasitos-umbrellas</th>
+                                                <th scope="row">Lacasitos-Umbrellas</th>
                                                 <td>11 gm</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">lacasitos-pencil tube</th>
+                                                <th scope="row">Lacasitos-pencil tube</th>
                                                 <td>20 gm</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">conguitos-shocobolas</th>
+                                                <th scope="row">Conguitos-Shocobolas</th>
                                                 <td>35 gm</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">filled chocalte tablets</th>
+                                                <th scope="row">Filled Chocalte tablets</th>
                                                 <td>100 gm</td>
                                             </tr>
                                         </tbody>

@@ -27,44 +27,20 @@
 		<!-- slider -->
 		<section>
 			<div class="hero-slider">
-				
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner3.jpg); height:550px">					
-				</div>				
-				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner4.jpg); ">
-					<div class="container">
-						<div class="row justify-content-center">
-							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
-								<span class="letter-spacing text-white"></span>
-								<h1 class="mb-3 text-capitalize"></h1>
-								<p class="mb-5"></p>
-							</div>
-						</div>
-					</div>
-				</div> -->
-				
-				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner5.jpg); ">
-					<div class="container">
-						<div class="row justify-content-center">
-							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
-								<span class="letter-spacing text-white"></span>
-								<h1 class="mb-3 text-capitalize"></h1>
-								<p class="mb-5"></p>								
-							</div>
-						</div>
-					</div>
-				</div>				 -->
-				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner6.jpg); ">
-					<div class="container">
-						<div class="row justify-content-center">
-							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".1">
-								<span class="letter-spacing text-white"></span>
-								<h1 class="mb-3 text-capitalize"></h1>
-								<p class="mb-5"></p>								
-							</div>
-						</div>
-					</div>
+
+				<div class="hero-slider-item bg-cover hero-section"
+					style="background: url(images/slider/banner3.jpg); height:550px">
 				</div>
-				 -->
+				<div class="hero-slider-item bg-cover hero-section"
+					style="background: url(images/slider/banner4.jpg); height:550px">
+				</div>
+				<div class="hero-slider-item bg-cover hero-section"
+					style="background: url(images/slider/banner5.jpg); height:550px">
+				</div>
+				<div class="hero-slider-item bg-cover hero-section"
+					style="background: url(images/slider/banner6.jpg); height:550px">
+				</div>
+
 				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner7.jpg); ">
 					<div class="container">
 						<div class="row justify-content-center">
@@ -76,7 +52,7 @@
 						</div>
 					</div>
 				</div> -->
-				
+
 				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner8.jpg); ">
 					<div class="container">
 						<div class="row justify-content-center">
@@ -115,9 +91,9 @@
 				<div class="row">
 					<div class="col-lg-8 col-md-6">
 						<div class="about-block">
-							<img src="images/rooms/img1.jpg" alt="" class="img-fluid shadow-sm">
+							<img src="images/home/branch1.jpg" alt="" class="img-fluid shadow-sm">
 							<div class="about-img">
-								<img src="images/rooms/img.jpg" alt="" class="img-fluid">
+								<img src="images/home/branch.jpg" alt="" class="img-fluid">
 							</div>
 						</div>
 					</div>
@@ -128,12 +104,10 @@
 							<hr>
 
 							<ul class="list-unstyled">
-								<li><i class="flaticon-menu"></i>Professional Serving</li>
 								<li><i class="flaticon-dishwasher"></i>high Quality Services</li>
-								<li><i class="flaticon-credit-card"></i>Easy Booking & Payment</li>
-								<li><i class="flaticon-restaurant"></i>Modern Equipments</li>
-								<li><i class="fas fa-user-tie"></i>The World's Top Chefs</li>
-								<li><i class="flaticon-location-pin"></i>Interesting Activities</li>
+								<li><i class="flaticon-credit-card"></i>Value for money</li>
+								<li><i class="flaticon-restaurant"></i>Wide network</li>
+								<li><i class="flaticon-dinner text-black"></i>Quality Products</li>
 							</ul>
 						</div>
 					</div>
@@ -153,80 +127,126 @@
 					</div><!-- .col-md-8 close -->
 				</div>
 				<div class="row">
-					<div class="col-lg-4 col-md-4 col-sm-6 owl-carousel">
-						<div class="card text-center border-0 rounded-0 mb-4 mb-lg-0">
-							<div class="image-container">
-								<a href="room-details.html">
-									<img src="img/970x647/04.jpg" alt="" class="img-fluid card-img-top rounded-0">
-								</a>
-							</div>
-							<div class="s-portfolio__caption">
-								<div class="g-margin-b-25--xs">
-									<h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Portfolio Item</h4>
-									<p class="g-color--white-opacity">by KeenThemes Inc.</p>
-								</div>
-								<ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-									<li>
-										<a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes"
-											class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-											<i class="ion-link"></i>
-										</a>
-									</li>
-								</ul>
-							</div>
-						</div>
+					<div class="col-sm-12 col-12 col-lg-3 col-md-6">
+						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+							<img src="images/products/shelf-range.jpg" alt="image" class="img-fluid w-100">
+							<figcaption class=" ">
+								<h6 class="headline"><a href="shelf-range-super-market.php" data-toggle="tooltip" data-placement="top"
+										title="Shelf Range | Super Market">
+										<p>Shelf Range | Super Market</p>
+									</a>
+								</h6>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="shelf-range-super-market.php"
+										role="button">Explore</a></div>
+							</figcaption>
+						</figure>
 					</div>
-					<div class="col-lg-4 col-md-4 col-sm-6">
-						<div class="card text-center border-0 rounded-0 mb-4 mb-lg-0">
-							<a href="room-details.html"><img src="img/970x647/05.jpg" alt=""
-									class="img-fluid card-img-top rounded-0"></a>
-
-							<div class="s-portfolio__caption">
-								<div class="g-margin-b-25--xs">
-									<h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Portfolio Item</h4>
-									<p class="g-color--white-opacity">by KeenThemes Inc.</p>
-								</div>
-								<ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-									<li>
-										<a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes"
-											class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-											<i class="ion-link"></i>
-										</a>
-									</li>
-								</ul>
-							</div>
-						</div>
+					<div class="col-sm-12 col-12 col-lg-3 col-md-6">
+						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+							<img src="images/products/paper-products.jpg" alt="image" class="img-fluid w-100">
+							<figcaption class=" ">
+								<h6 class="headline"><a href="paper-products.php"
+										title=">Paper Cups| Ice cream Cups| Bamboo| Wooden Products">
+										<p>Paper Products</p>
+									</a>
+								</h6>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="paper-products.php"
+										role="button">Explore</a></div>
+							</figcaption>
+						</figure>
 					</div>
-
-
-					<div class="col-lg-4 col-md-4 col-sm-6">
-						<div class="card text-center border-0 rounded-0 mb-4 mb-lg-0">
-							<a href="room-details.html"><img src="img/970x647/06.jpg" alt=""
-									class="img-fluid card-img-top rounded-0"></a>
-
-							<div class="s-portfolio__caption">
-								<div class="g-margin-b-25--xs">
-									<h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Portfolio Item</h4>
-									<p class="g-color--white-opacity">by KeenThemes Inc.</p>
-								</div>
-								<ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
-									<li>
-										<a href="https://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes"
-											class="s-icon s-icon--sm s-icon s-icon--white-bg g-radius--circle">
-											<i class="ion-link"></i>
-										</a>
-									</li>
-								</ul>
-							</div>
-						</div>
+					<div class="col-sm-12 col-12 col-lg-3 col-md-6">
+						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+							<img src="images/products/tissue.jpg" alt="image" class="img-fluid w-100">
+							<figcaption class=" ">
+								<h6 class="headline"><a href="tissue-products.php"
+										title="HAND TOWEL | NAPKIN | MAXI ROLL | TOILET ROLL | FACIAL TISSUE">
+										<p>Tissue Products</p>
+									</a>
+								</h6>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="tissue-products.php"
+										role="button">Explore</a></div>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-12 col-12 col-lg-3 col-md-6">
+						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+							<img src="images/products/aluminium.jpg" alt="image" class="img-fluid w-100">
+							<figcaption class=" ">
+								<h6 class="headline">
+									<a href=""
+										title="CLEAR CONTAINER| EGG TRAY CLEAR| CAKE CONTAINER| CAKE CONTAINER| CUP HOLER-PLASTIC| CLEAR TAP">
+										<p>Aluminium Products</p>
+									</a>
+								</h6>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="aluminium-products.php"
+										role="button">Explore</a></div>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-12 col-12 col-lg-3 col-md-6">
+						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+							<img src="images/products/plastic.jpg" alt="image" class="img-fluid w-100">
+							<figcaption class=" ">
+								<h6 class="headline">
+									<a href="" data-toggle="tooltip" data-placement="top" title="PLASTIC CUPS |PET CUPS |STRAW| PLASTIC TUBS| PLATES| MICROWAVE|CUTLERY PRODUCTS | SALAD
+                          CONTR: |CLEAR BOXES | PLASTIC BAGS | VEG ROLL">
+										<p>Plastic Products</p>
+									</a>
+								</h6>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-products.php"
+										role="button">Explore</a></div>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-12 col-12 col-lg-3 col-md-6">
+						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+							<img src="images/products/black-base.jpg" alt="image" class="img-fluid w-100">
+							<figcaption class=" ">
+								<h6 class="headline">
+									<a href="black-base.php"
+										title="BLACK BASE CONTAINERS| MICROWAVE RECT:CONTAINERS| SUSHI CONTAINERS| RED & BLACK CONTAINERS">
+										<p>Black Base Products</p>
+									</a>
+								</h6>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="black-base.php"
+										role="button">Explore</a></div>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-12 col-12 col-lg-3 col-md-6">
+						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+							<img src="images/products/FOAM.jpg" alt="image" class="img-fluid w-100">
+							<figcaption class=" ">
+								<h6 class="headline">
+									<a href="foam-products.php" title="Foam Products">
+										<p>Foam Products</p>
+									</a>
+								</h6>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="foam-products.php"
+										role="button">Explore</a></div>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-sm-12 col-12 col-lg-3 col-md-6">
+						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+							<img src="images/products/hygiene.jpg" alt="image" class="img-fluid w-100">
+							<figcaption class=" ">
+								<h6 class="headline">
+									<a href="" title="Hygiene Products">
+										<p>Hygiene Products</p>
+									</a>
+								</h6>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="hygiene-products.php"
+										role="button">Explore</a></div>
+							</figcaption>
+						</figure>
 					</div>
 				</div>
 			</div>
 		</section>
-		<!--
-		Start Blog Section
-		=========================================== -->
-		<section class="blog section">
+
+		<!-- <section class="blog section">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-8 text-center">
@@ -238,11 +258,11 @@
 							</p>
 							<span class="section-border"></span>
 						</div>
-					</div><!-- .col-md-7 close -->
+					</div>
 				</div>
 
 				<div class="row">
-					<!-- single blog post -->
+					
 					<article class="col-lg-4 col-md-4 col-sm-6 col-xs-12 clearfix ">
 						<div class="card rounded-0 pb-2 mb-4 mb-lg-0">
 							<div class="media-wrapper">
@@ -258,9 +278,7 @@
 							</div>
 						</div>
 					</article>
-					<!-- /single blog post -->
-
-					<!-- single blog post -->
+					
 					<article class="col-lg-4 col-md-4 col-sm-6 col-xs-12 clearfix ">
 						<div class="card rounded-0 pb-2 mb-4 mb-lg-0">
 							<div class="media-wrapper">
@@ -276,9 +294,7 @@
 							</div>
 						</div>
 					</article>
-					<!-- /single blog post -->
-
-					<!-- single blog post -->
+					
 					<article class="col-lg-4 col-md-4 col-sm-6 col-xs-12 clearfix ">
 						<div class="card rounded-0 pb-2 mb-4 mb-lg-0">
 							<div class="media-wrapper">
@@ -294,65 +310,65 @@
 							</div>
 						</div>
 					</article>
-					<!-- /single blog post -->
+					
 
-					<!-- end single blog post -->
-				</div> <!-- end row -->
-			</div> <!-- end container -->
-		</section> <!-- end section -->
-		<section class="gallery-feed">
+					
+				</div> 
+			</div> 
+		 </section>  -->
+		<!-- <section class="gallery-feed">
 			<div class="container-fluid p-0">
 				<div class="row">
 					<div class="gallery-title">
-						<a href="products.php" class="explore explore-main">Products</a>
+						<a href="gallery-3.html" class="btn btn-main">Sister Concern</a>
 					</div>
 				</div>
 				<div class="row no-gutters ">
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/products/shelf-range.jpg" title="Photo 1">
-								<img src="images/products/shelf-range.jpg" alt="" class="img-fluid w-100">
+							<a href="images/gallery/1-1.jpg" title="Photo 1">
+								<img src="images/about/king-karak.png" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/products/paper-products.jpg" title="Photo 2">
-								<img src="images/products/paper-products.jpg" alt="" class="img-fluid w-100">
+							<a href="images/gallery/1-2.jpg" title="Photo 2">
+								<img src="images/about/kingpack-food.png" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/products/tissue.jpg" title="Photo 3">
-								<img src="images/products/tissue.jpg" alt="" class="img-fluid w-100">
+							<a href="images/gallery/1-3.jpg" title="Photo 3">
+								<img src="images/about/kiwi-garden.png" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/products/aluminium.jpg" title="Photo 2">
-								<img src="images/products/aluminium.jpg" alt="" class="img-fluid w-100">
+							<a href="images/gallery/1-4.jpg" title="Photo 2">
+								<img src="images/about/burger-garden.png" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/products/plastic.jpg" title="Photo 2">
-								<img src="images/products/plastic.jpg" alt="" class="img-fluid w-100">
+							<a href="images/gallery/1-5.jpg" title="Photo 2">
+								<img src="images/about/waad-cateria.png" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-4 col-sm-4">
 						<div class="gallery-item">
-							<a href="images/products/black-base.jpg" title="Photo 2">
-								<img src="images/products/black-base.jpg" alt="" class="img-fluid w-100">
+							<a href="images/gallery/1-6.jpg" title="Photo 2">
+								<img src="images/about/waad-market.png" alt="" class="img-fluid w-100">
 							</a>
 						</div>
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> --> 
 		<!-- footer Start -->
 		<?php include 'include/footer.html' ?>
 		<!-- footer End -->

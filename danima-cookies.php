@@ -6,7 +6,7 @@
     <meta name="description"
         content="Explore food products from our catalogue. We've products like Appy Fiz, Kara Coco Coconut Water, Frooti, Olymbic Dry Cake etc.">
 
-    <title>Kingpack Food - Kingpack Group | Think food</title>
+    <title>Danima Cookies - Kingpack Food | Think food</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -87,7 +87,7 @@
 
     <div class="main-wrapper ">
         <section class="overly"
-            style="background: url(images/products/ice-cream-cups/bg-1.jpg)no-repeat fixed center;background-size: cover;">
+            style="background: url(images/food/danima/bg-1.jpg)no-repeat center;background-size: contain;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -124,10 +124,9 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Danima Tin</h6>
-                                    <a href="images/products/ice-cream-cups/ice-cream-cups.jpg" title="Unikai Juice<">
-                                        <img src="images/products/ice-cream-cups/ice-cream-cups.jpg" alt=""
-                                            class="img-fluid" />
-                                    </a>
+                                    <a href="images/food/danima/butter-cookies.jpg" title="Paper Cups">
+                                        <img src="images/food/danima/butter-cookies.jpg" alt="" class="img-fluid" />
+                                    </a>                                    
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">
@@ -157,11 +156,13 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Danima Plastic Packet</h6>
-                                    <a href="images/products/ice-cream-cups/ice-cream-cups-white.jpg"
-                                        title="Unikai Milk">
-                                        <img src="images/products/ice-cream-cups/ice-cream-cups-white.jpg" alt=""
-                                            class="img-fluid" />
-                                    </a>
+                                    <div class="gallery-item ">
+                                        <div class="food-item-slider">
+                                            <img class="hero-slider-item" src="images/food/danima/coconut.jpg" />                                            
+                                            <img class="hero-slider-item" src="images/food/danima/pistachio.jpg" />       
+                                            <img class="hero-slider-item" src="images/food/danima/chocochip.jpg" />                                            
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">
@@ -193,9 +194,9 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Danima Box Packet</h6>
-                                    <a href="images/products/ice-cream-cups/spoon.jpg" title="Unikai Flavoured Milk">
-                                        <img src="images/products/ice-cream-cups/spoon.jpg" alt="" class="img-fluid" />
-                                    </a>
+                                    <a href="images/food/danima/coconut.jpg" title="Paper Cups">
+                                        <img src="images/food/danima/coconut.jpg" alt="" class="img-fluid" />
+                                    </a>                                        
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">
@@ -227,9 +228,13 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Danima - Oats</h6>
-                                    <a href="images/products/ice-cream-cups/spoon.jpg" title="Unikai Coconut Juice">
-                                        <img src="images/products/ice-cream-cups/spoon.jpg" alt="" class="img-fluid" />
-                                    </a>
+                                    <div class="gallery-item ">
+                                        <div class="food-item-slider">
+                                            <img class="hero-slider-item" src="images/food/danima/blueberry.jpg" />                                            
+                                            <img class="hero-slider-item" src="images/food/danima/italion.jpg" />                                            
+                                            <img class="hero-slider-item" src="images/food/danima/cranberries.jpg" />                                            
+                                        </div>
+                                    </div>                                   
                                 </div>
                                 <div class="col-md-8 col-lg-8">
                                     <table class="table table-striped">

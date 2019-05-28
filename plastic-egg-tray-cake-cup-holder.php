@@ -3,11 +3,10 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Eden Travel Template">
+    <meta name="description" content="EGG TRAY CLEAR | CAKE CONTAINER | CAKE CONTAINER |
+                            CUP HOLER - PLASTIC | CLEAR TAP">
 
-    <meta name="author" content="Themefisher.com">
-
-    <title>Kingpack Group</title>
+    <title>Plastic Egg Tray, Cake Cup, Cup Holder - Kingpack Group | Packing with passion</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">

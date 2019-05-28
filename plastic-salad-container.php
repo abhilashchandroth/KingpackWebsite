@@ -3,11 +3,10 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Eden Travel Template">
+    <meta name="description" content="DATES CLEAR CONTAINER | RSB - SALAD CONTAINER | LRT - SALAD
+                            CONTAINER | CLAMSHELL | HINGED | UT & FTH - SALAD CONTAINER">
 
-    <meta name="author" content="Themefisher.com">
-
-    <title>Kingpack Group</title>
+    <title>Plastic Salad Container - Kingpack Group | Packing with passion</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
