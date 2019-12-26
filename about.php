@@ -123,7 +123,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="cta-box mb-5 mb-lg-0">
                             <i class="flaticon-dinner text-black"></i>
-                            <h2 class="mt-2 text-black">150</h2>
+                            <h2 class="mt-2 text-black">7000</h2>
                             <p class="mb-0 text-black text-uppercase">Products</p>
                         </div>
                     </div>
