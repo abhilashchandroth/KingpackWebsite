@@ -173,8 +173,9 @@
                         <td>5 PCS</td>
                       </tr>
                     </tbody>
-                  </table>
+                  </table>  
                 </div>
+                <br />
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Aluminium Products - Tray</h6>
                   <a href="images/products/shelfrange-supermarket/tray.jpg" title="Aluminium Products">
