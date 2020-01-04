@@ -28,17 +28,13 @@
 		<section>
 			<div class="hero-slider">
 
-				<div class="hero-slider-item bg-cover hero-section"
-					style="background: url(images/slider/banner3.jpg); height:550px">
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner3.jpg); height:550px">
 				</div>
-				<div class="hero-slider-item bg-cover hero-section"
-					style="background: url(images/slider/banner4.jpg); height:550px">
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner4.jpg); height:550px">
 				</div>
-				<div class="hero-slider-item bg-cover hero-section"
-					style="background: url(images/slider/banner5.jpg); height:550px">
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner5.jpg); height:550px">
 				</div>
-				<div class="hero-slider-item bg-cover hero-section"
-					style="background: url(images/slider/banner6.jpg); height:550px">
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner6.jpg); height:550px">
 				</div>
 
 				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner7.jpg); ">
@@ -76,12 +72,12 @@
 							<p class="section-subtitle">Welcome To</p>
 							<h2 class="mb-3">Kingpack Website</h2>
 							<p class="mb-4">Kingpack trading was established in the Kingdom of Bahrain in 2013 as a company involved
-								in marketing and distribution of consumable disposables and gradable food packaging products.The company
+								in marketing and distribution of consumable disposables and gradable food packaging products. The company
 								has been growing steadily due to its professionalism and its commitment towards its clients.
 								In Kingpack, customer satisfaction is given the utmost priority and we always strive to cater to their
 								specific needs without compromising on quality.
 								In Kingpack, employees are regarded as a valuable asset and we provide them with a positive conducive
-								work atmosphere leading to better productivity.Here , at Kingpack we work with sincerity and dedication
+								work atmosphere leading to better productivity. Here , at Kingpack we work with sincerity and dedication
 								to achieve our common goals for a better and brighter future.</p>
 							<span class="section-border"></span>
 						</div>
@@ -131,13 +127,11 @@
 						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
 							<img src="images/products/shelf-range.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
-								<h6 class="headline"><a href="shelf-range-super-market.php" data-toggle="tooltip" data-placement="top"
-										title="Shelf Range | Super Market">
+								<h6 class="headline"><a href="shelf-range-super-market.php" data-toggle="tooltip" data-placement="top" title="Shelf Range | Super Market">
 										<p>Shelf Range | Super Market</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="shelf-range-super-market.php"
-										role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="shelf-range-super-market.php" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -145,13 +139,11 @@
 						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
 							<img src="images/products/paper-products.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
-								<h6 class="headline"><a href="paper-products.php"
-										title=">Paper Cups| Ice cream Cups| Bamboo| Wooden Products">
+								<h6 class="headline"><a href="paper-products.php" title=">Paper Cups| Ice cream Cups| Bamboo| Wooden Products">
 										<p>Paper Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="paper-products.php"
-										role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="paper-products.php" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -159,13 +151,11 @@
 						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
 							<img src="images/products/tissue.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
-								<h6 class="headline"><a href="tissue-products.php"
-										title="HAND TOWEL | NAPKIN | MAXI ROLL | TOILET ROLL | FACIAL TISSUE">
+								<h6 class="headline"><a href="tissue-products.php" title="HAND TOWEL | NAPKIN | MAXI ROLL | TOILET ROLL | FACIAL TISSUE">
 										<p>Tissue Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="tissue-products.php"
-										role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="tissue-products.php" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -174,13 +164,11 @@
 							<img src="images/products/aluminium.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
 								<h6 class="headline">
-									<a href=""
-										title="CLEAR CONTAINER| EGG TRAY CLEAR| CAKE CONTAINER| CAKE CONTAINER| CUP HOLER-PLASTIC| CLEAR TAP">
+									<a href="" title="CLEAR CONTAINER| EGG TRAY CLEAR| CAKE CONTAINER| CAKE CONTAINER| CUP HOLER-PLASTIC| CLEAR TAP">
 										<p>Aluminium Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="aluminium-products.php"
-										role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="aluminium-products.php" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -194,8 +182,7 @@
 										<p>Plastic Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-products.php"
-										role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-products.php" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -204,13 +191,11 @@
 							<img src="images/products/black-base.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
 								<h6 class="headline">
-									<a href="black-base.php"
-										title="BLACK BASE CONTAINERS| MICROWAVE RECT:CONTAINERS| SUSHI CONTAINERS| RED & BLACK CONTAINERS">
+									<a href="black-base.php" title="BLACK BASE CONTAINERS| MICROWAVE RECT:CONTAINERS| SUSHI CONTAINERS| RED & BLACK CONTAINERS">
 										<p>Black Base Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="black-base.php"
-										role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="black-base.php" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -223,8 +208,7 @@
 										<p>Foam Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="foam-products.php"
-										role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="foam-products.php" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -237,15 +221,66 @@
 										<p>Hygiene Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="hygiene-products.php"
-										role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="hygiene-products.php" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
 				</div>
 			</div>
 		</section>
+		<section class="testimonial position-relative section">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-lg-5">
+						<div class="section-title ">
+							<p class="section-subtitle text-left">Testimonial</p>
+							<h2 class="mb-4 text-left">Customers Satisfaction</h2>
+							<span class="section-border m-0 mt-4"></span>
+						</div>
+					</div>
 
+					<div class="col-lg-7">
+						<div class="testimonial-carousel p-4">
+							<div>
+								<i class="ion-quote text-color mb-3 d-block"></i>
+								<p class="mb-4">"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
+								<div class="user d-flex">
+									<img src="images/avater.jpg" alt="" class="img-fluid  rounded-circle mr-3">
+									<p class="pb-0 mt-2">Rose Ray <span class="d-block">CEO-Themefisher</span></p>
+								</div>
+							</div>
+
+							<div>
+								<i class="ion-quote text-color mb-3 d-block"></i>
+								<p class="mb-4">"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
+								<div class="user d-flex">
+									<img src="images/avater.jpg" alt="" class="img-fluid  rounded-circle mr-3">
+									<p class="pb-0 mt-2">Rose Ray <span class="d-block">CEO-Themefisher</span></p>
+								</div>
+							</div>
+
+							<div>
+								<i class="ion-quote text-color mb-3 d-block"></i>
+								<p class="mb-4">"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
+								<div class="user d-flex">
+									<img src="images/avater.jpg" alt="" class="img-fluid  rounded-circle mr-3">
+									<p class="pb-0 mt-2">Rose Ray <span class="d-block">CEO-Themefisher</span></p>
+								</div>
+							</div>
+
+							<div>
+								<i class="ion-quote text-color mb-3 d-block"></i>
+								<p class="mb-4">"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
+								<div class="user d-flex">
+									<img src="images/avater.jpg" alt="" class="img-fluid rounded-circle mr-3">
+									<p class="pb-0 mt-2">Rose Ray <span class="d-block">CEO-Themefisher</span></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
 		<!-- <section class="blog section">
 			<div class="container">
 				<div class="row justify-content-center">
@@ -368,7 +403,7 @@
 					</div>
 				</div>
 			</div>
-		</section> --> 
+		</section> -->
 		<!-- footer Start -->
 		<?php include 'include/footer.html' ?>
 		<!-- footer End -->
@@ -391,7 +426,7 @@
 	<script src="plugins/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
 	<script src="js/script.js"></script>
 	<script>
-		$(document).ready(function () {
+		$(document).ready(function() {
 			addRemoveActiveClass("home");
 		});
 	</script>

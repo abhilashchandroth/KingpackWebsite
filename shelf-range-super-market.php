@@ -137,6 +137,8 @@
                     </tbody>
                   </table>
                 </div>
+              </div>
+              <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Aluminium Products - Round</h6>
                   <a href="images/products/shelfrange-supermarket/container-round.jpg" title="Aluminium Products">
@@ -171,11 +173,12 @@
                       <tr>
                         <td>5130 ALU. - ROUND CONTAINER + LID</td>
                         <td>5 PCS</td>
-                      </tr>
+                      </tr>                      
                     </tbody>
-                  </table>  
+                  </table>
                 </div>
-                <br />
+              </div>
+              <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Aluminium Products - Tray</h6>
                   <a href="images/products/shelfrange-supermarket/tray.jpg" title="Aluminium Products">
@@ -207,11 +210,19 @@
                         <td>OV3 ALUMINIUM TRAY</td>
                         <td>2 PCS</td>
                       </tr>
+                      <tr>
+                       <br/>
+                      </tr>
                     </tbody>
                   </table>
                 </div>
+              </div>
+              <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Aluminium Products - 100 PCS/PKT</h6>
+                  <a href="images/products/shelfrange-supermarket/aluminium.jpg" title="Aluminium Products">
+                    <img src="images/products/shelfrange-supermarket/aluminium.jpg" alt="" class="img-fluid" />
+                  </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
                   <table class="table table-striped">
@@ -258,6 +269,7 @@
                         <td>5080 ALU. - ROUND CONTAINER + LID</td>
                         <td>100 PCS</td>
                       </tr>
+
                     </tbody>
                   </table>
                 </div>
@@ -323,6 +335,8 @@
                     </tbody>
                   </table>
                 </div>
+              </div>
+              <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Black Base Products-PPFC </h6>
                   <a href="images/products/shelfrange-supermarket/black-base-ppfc.JPG" title="Black Base Products">
@@ -426,6 +440,8 @@
                     </tbody>
                   </table>
                 </div>
+              </div>
+              <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Clear Products - Microwave</h6>
                   <a href="images/products/shelfrange-supermarket/clear-microwave.jpg" title="Clear Products">
@@ -468,6 +484,8 @@
                     </tbody>
                   </table>
                 </div>
+              </div>
+              <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Clear Products - Salad|Portion</h6>
                   <a href="images/products/shelfrange-supermarket/salad.jpg" title="Clear Products">
@@ -574,6 +592,8 @@
                     </tbody>
                   </table>
                 </div>
+              </div>
+              <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Clear Products - UT|Red & Black</h6>
                   <a href="images/products/shelfrange-supermarket/red & black.jpg" title="Clear Products">
@@ -758,6 +778,8 @@
                     </tbody>
                   </table>
                 </div>
+              </div>
+              <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Paper Products - Bags | Boards</h6>
                   <a href="images/products/shelfrange-supermarket/paper-bags.jpg" title="Paper Products">

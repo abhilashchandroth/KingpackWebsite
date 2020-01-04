@@ -280,6 +280,7 @@
                   </table>
                 </div>
               </div>
+              <br />
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Pizza Box</h6>

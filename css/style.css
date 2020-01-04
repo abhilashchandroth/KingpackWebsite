@@ -8,7 +8,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", sans-serif;
+  font-family: "Nunito Sans", sans-serif;
+  color: black;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -32,7 +33,7 @@ h4 {
 }
 
 p {
-  color: #7b7b7b;
+  color: black;
   font-size: 15px;
   font-family: "Nunito Sans", sans-serif;
 }
@@ -1508,6 +1509,7 @@ input[type=checkbox], input[type=radio] {
 
 .ed-room {
   color: #333;
+  border-style: groove;
 }
 
 .ed-room img {
@@ -2957,4 +2959,8 @@ input[type=checkbox], input[type=radio] {
 }
 .table-striped thead tr th{
   color: #fff;
+}
+.table-striped tbody tr td{
+  color: black;
+  font-weight: bold;
 }

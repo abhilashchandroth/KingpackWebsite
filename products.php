@@ -20,7 +20,7 @@
   <!-- Header Close -->
 
   <div class="main-wrapper ">
-    <section class="overly bg-2">
+    <section class="overly" style="background: url(images/backgrounds/products/bg-1.jpg)no-repeat fixed center;background-size: cover;">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
@@ -51,7 +51,7 @@
             <div class="container">
               <div class="row featured">
                 <div class="col-sm-12 col-12 col-lg-4 col-md-6">
-                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
                     <img src="images/products/shelf-range.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline"><a href="shelf-range-super-market.php" data-toggle="tooltip" data-placement="top" title="Shelf Range | Super Market">
@@ -64,7 +64,7 @@
                   </figure>
                 </div>
                 <div class="col-sm-12 col-12 col-lg-4 col-md-6">
-                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
                     <img src="images/products/paper-products.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline"><a href="paper-products.php" title=">Paper Cups| Ice cream Cups| Bamboo| Wooden Products">
@@ -77,7 +77,7 @@
                   </figure>
                 </div>
                 <div class="col-sm-12 col-12 col-lg-4 col-md-6">
-                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
                     <img src="images/products/tissue.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline"><a href="tissue-products.php" title="HAND TOWEL | NAPKIN | MAXI ROLL | TOILET ROLL | FACIAL TISSUE">
@@ -90,7 +90,7 @@
                   </figure>
                 </div>
                 <div class="col-sm-12 col-12 col-lg-4 col-md-6">
-                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
                     <img src="images/products/aluminium.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline">
@@ -104,7 +104,7 @@
                   </figure>
                 </div>
                 <div class="col-sm-12 col-12 col-lg-4 col-md-6">
-                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
                     <img src="images/products/plastic.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline">
@@ -119,7 +119,7 @@
                   </figure>
                 </div>
                 <div class="col-sm-12 col-12 col-lg-4 col-md-6">
-                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
                     <img src="images/products/black-base.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline">
@@ -133,7 +133,7 @@
                   </figure>
                 </div>
                 <div class="col-sm-12 col-12 col-lg-4 col-md-6">
-                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
                     <img src="images/products/FOAM.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline">
@@ -147,7 +147,7 @@
                   </figure>
                 </div>
                 <div class="col-sm-12 col-12 col-lg-4 col-md-6">
-                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
                     <img src="images/products/hygiene.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline">
@@ -161,7 +161,7 @@
                   </figure>
                 </div>
                 <div class="col-sm-12 col-12 col-lg-4 col-md-6">
-                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
+                  <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
                     <img src="images/products/cleaning.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline">
