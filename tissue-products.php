@@ -125,8 +125,8 @@
                       <div class="row product-desc">
                       <div class="col-md-4 col-lg-4 gallery-item">               
                           <h6>Maxi Roll</h6>                        
-                          <a href="images/products/tissue-productskraft-paper-cup.jpg" title="Maxi Roll">
-                            <img src="images/products/tissue-productskraft-paper-cup.jpg" alt="" class="img-fluid"/>
+                          <a href="images/products/tissue-products/kraft-paper-cup.jpg" title="Maxi Roll">
+                            <img src="images/products/tissue-products/kraft-paper-cup.jpg" alt="" class="img-fluid"/>
                           </a>           
                         </div>
                         <div class="col-md-8 col-lg-8">
@@ -179,8 +179,8 @@
                       <div class="row product-desc">
                         <div class="col-md-4 col-lg-4 gallery-item">               
                           <h6>Facial Tissue</h6>                         
-                            <a href="images/products/tissue-productsZig-Zag.jpg" title="Facial Tissue">
-                              <img src="images/products/tissue-productsZig-Zag.jpg" alt="" class="img-fluid"/>
+                            <a href="images/products/tissue-products/Zig-Zag.jpg" title="Facial Tissue">
+                              <img src="images/products/tissue-products/Zig-Zag.jpg" alt="" class="img-fluid"/>
                             </a>           
                           </div>
                           <div class="col-md-8 col-lg-8">

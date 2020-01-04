@@ -57,8 +57,8 @@
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Aluminium Products-SQR</h6>
-                  <a href="images/products/shelfrange-supermarket/container-square.jpg" title="Aluminium Products">
-                    <img src="images/products/shelfrange-supermarket/container-square.jpg" alt="" class="img-fluid" />
+                  <a href="images/products/shelfrange-supermarket/container-square.JPG" title="Aluminium Products">
+                    <img src="images/products/shelfrange-supermarket/container-square.JPG" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
@@ -141,8 +141,8 @@
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Aluminium Products - Round</h6>
-                  <a href="images/products/shelfrange-supermarket/container-round.jpg" title="Aluminium Products">
-                    <img src="images/products/shelfrange-supermarket/container-round.jpg" alt="" class="img-fluid" />
+                  <a href="images/products/shelfrange-supermarket/container-round.JPG" title="Aluminium Products">
+                    <img src="images/products/shelfrange-supermarket/container-round.JPG" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
@@ -181,8 +181,8 @@
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Aluminium Products - Tray</h6>
-                  <a href="images/products/shelfrange-supermarket/tray.jpg" title="Aluminium Products">
-                    <img src="images/products/shelfrange-supermarket/tray.jpg" alt="" class="img-fluid" />
+                  <a href="images/products/shelfrange-supermarket/tray.JPG" title="Aluminium Products">
+                    <img src="images/products/shelfrange-supermarket/tray.JPG" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">

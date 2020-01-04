@@ -81,7 +81,7 @@
 
                 <div class="col-sm-12 col-12 col-lg-4 col-md-6">
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
-                    <img src="images/products/plastic-products/plastic-cutlery.jpg" alt="image" class="img-fluid w-100">
+                    <img src="images/products/plastic-products/plastic-cutlery.JPG" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                     <h6 class="headline"><a href="plastic-cutlery.php" data-toggle="tooltip" data-placement="top" title="Spoon | Cutlery">
                         <p>Spoon | Cutlery</p>

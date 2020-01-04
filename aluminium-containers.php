@@ -57,14 +57,14 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Aluminium Container - Square</h6>
-                                    <a href="images/products/aluminium-containers/container-square 1.jpg"
+                                    <a href="images/products/aluminium-containers/container-square-1.jpg"
                                         title="Aluminium Container - Square">
-                                        <img src="images/products/aluminium-containers/container-square 1.jpg" alt=""
+                                        <img src="images/products/aluminium-containers/container-square-1.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
-                                    <a href="images/products/aluminium-containers/container-square 2.jpg"
+                                    <a href="images/products/aluminium-containers/container-square-2.jpg"
                                         title="Aluminium Container - Square">
-                                        <img src="images/products/aluminium-containers/container-square 2.jpg" alt=""
+                                        <img src="images/products/aluminium-containers/container-square-2.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>
