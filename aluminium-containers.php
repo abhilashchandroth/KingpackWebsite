@@ -62,6 +62,7 @@
                                         <img src="images/products/aluminium-containers/container-square-1.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
+                                    <br>
                                     <a href="images/products/aluminium-containers/container-square-2.jpg"
                                         title="Aluminium Container - Square">
                                         <img src="images/products/aluminium-containers/container-square-2.jpg" alt=""
@@ -162,9 +163,9 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Aluminium Container - Round</h6>
-                                    <a href="images/products/aluminium-containers/container-round.jpg"
+                                    <a href="images/products/aluminium-containers/container-round.JPG"
                                         title="Aluminium Container - Round">
-                                        <img src="images/products/aluminium-containers/container-round.jpg" alt=""
+                                        <img src="images/products/aluminium-containers/container-round.JPG" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>

@@ -58,8 +58,8 @@
                 <div class="col-md-4 col-lg-4 gallery-item">
 
                   <h6>Paper Cups</h6>
-                  <a href="images/products/paper-cups/paper-cups.jpg" title="Paper Cups">
-                    <img src="images/products/paper-cups/paper-cups.jpg" alt="" class="img-fluid" />
+                  <a href="images/products/paper-cups/paper-cups.JPG" title="Paper Cups">
+                    <img src="images/products/paper-cups/paper-cups.JPG" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
