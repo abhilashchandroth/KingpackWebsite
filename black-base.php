@@ -59,12 +59,12 @@
                             <img src="images/products/black-base/black-base-containers.JPG" alt="" class="img-fluid"/>
                           </a> 
                           <br>
-                          <a href="images/products/black-base/black-base-containers-2.JPG" title="Black Base Containers">
-                            <img src="images/products/black-base/black-base-containers-2.JPG" alt="" class="img-fluid"/>
+                          <a href="images/products/black-base/black-base-containers-2.jpg" title="Black Base Containers">
+                            <img src="images/products/black-base/black-base-containers-2.jpg" alt="" class="img-fluid"/>
                           </a> 
                           <br>
-                          <a href="images/products/black-base/black-base-containers-3.JPG" title="Black Base Containers">
-                            <img src="images/products/black-base/black-base-containers-3.JPG" alt="" class="img-fluid"/>
+                          <a href="images/products/black-base/black-base-containers-3.jpg" title="Black Base Containers">
+                            <img src="images/products/black-base/black-base-containers-3.jpg" alt="" class="img-fluid"/>
                           </a>            
                         </div>                        
                         <div class="col-md-8 col-lg-8">                          
@@ -257,8 +257,8 @@
                       <div class="row product-desc">
                       <div class="col-md-4 col-lg-4 gallery-item">               
                           <h6>Sushi Containers</h6>                        
-                          <a href="images/products/black-base/sushi-containers.jpg" title="Sushi Containers">
-                            <img src="images/products/black-base/sushi-containers.jpg" alt="" class="img-fluid"/>
+                          <a href="images/products/black-base/sushi-containers.JPG" title="Sushi Containers">
+                            <img src="images/products/black-base/sushi-containers.JPG" alt="" class="img-fluid"/>
                           </a>           
                         </div>
                         <div class="col-md-8 col-lg-8">
