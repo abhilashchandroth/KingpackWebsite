@@ -18,8 +18,7 @@
     <!-- Header Close -->
 
     <div class="main-wrapper ">
-        <section class="overly "
-            style="background: url(images/backgrounds/contact/bg1.jpg) no-repeat fixed center;background-size: contain;">
+        <section class="overly " style="background: url(images/backgrounds/contact/bg1.jpg) no-repeat fixed center;background-size: contain;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -55,8 +54,11 @@
                                 <span style="padding-left: 48px;">Kingdom of Bahrin</span>
                             </li>
                             <li class="mb-2">
-                                <i
-                                    class="ion-ios-email-outline text-color mr-4"></i><span>sales@kingpackgroup.com</span>
+                                <i class="ion-ios-email-outline text-color mr-4"></i>
+                                info@kingpackgroup.com
+                            </li>
+                            <li class="mb-2">
+                                <i class="ion-ios-email-outline text-color mr-4"></i><span>sales@kingpackgroup.com</span>
                             </li>
                             <li class="mb-2">
                                 <i class="ion-android-phone-portrait text-color mr-4"></i><span>+973 345 12 123</span>
@@ -73,21 +75,17 @@
                         <h2 class="mb-4">Follow Us</h2>
                         <ul class="social-icons list-inline">
                             <li class="list-inline-item">
-                                <a href="https://www.facebook.com/KINGPACKGROUP/"><i
-                                        class="ion-social-facebook-outline"></i></a>
+                                <a href="https://www.facebook.com/KINGPACKGROUP/"><i class="ion-social-facebook-outline"></i></a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="https://instagram.com/download/?r=2845772818"><i
-                                        class="ion-social-instagram-outline"></i></a>
+                                <a href="https://instagram.com/download/?r=2845772818"><i class="ion-social-instagram-outline"></i></a>
                             </li>
                         </ul>
                     </div>
 
                     <div class="col-lg-8">
                         <h3 class="mt-4 mt-lg-0 mb-3">We Also Count In Google Map</h3>
-                        <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3581.7032893443006!2d50.59936641440215!3d26.141215683465855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49ab8b89d1dea9%3A0x5cde0b90d89827ea!2sKingpack+Trading!5e0!3m2!1sen!2sin!4v1554019127075!5m2!1sen!2sin"
-                            width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3581.7032893443006!2d50.59936641440215!3d26.141215683465855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49ab8b89d1dea9%3A0x5cde0b90d89827ea!2sKingpack+Trading!5e0!3m2!1sen!2sin!4v1554019127075!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -102,12 +100,10 @@
                                 <h3 class="widget-title mb-3 pb-4">Our VAN Sales Lists</h3>
                                 <div class="media mb-3">
                                     <div class="media-body">
-                                        <h4 class="media-heading"><a href="#"><i
-                                                    class="fas fa-truck text-color mr-4"></i>Van A<br>
+                                        <h4 class="media-heading"><a href="#"><i class="fas fa-truck text-color mr-4"></i>Van A<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34577296</h4>
                                         </a></h4>
-                                        <div class="post-meta"
-                                            title="MANAMA, GUDAIBIYA, SALMANIYA, HOORA, EXIBITION ROAD, RASSALMAN, KARBABAD, ADLIYA, MUHARRAQ, HALA, CASINO, MUHARRAQ/SOUQ">
+                                        <div class="post-meta" title="MANAMA, GUDAIBIYA, SALMANIYA, HOORA, EXIBITION ROAD, RASSALMAN, KARBABAD, ADLIYA, MUHARRAQ, HALA, CASINO, MUHARRAQ/SOUQ">
                                             <i class="ion-ios-location text-color mr-4"></i>MANAMA, GUDAIBIYA ...
                                         </div>
                                     </div>
@@ -115,12 +111,10 @@
 
                                 <div class="media mb-3">
                                     <div class="media-body">
-                                        <h4 class="media-heading"><a href="#"><i
-                                                    class="fas fa-truck text-color mr-4"></i>Van B<br>
+                                        <h4 class="media-heading"><a href="#"><i class="fas fa-truck text-color mr-4"></i>Van B<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34577219</h4>
                                         </a></h4>
-                                        <div class="post-meta"
-                                            title="SITRA ,BUDAYYA ,SAAR ,BARBAAR ,KARANA ,JANOOSAAN ,SHAKURA,DIRAZ,">
+                                        <div class="post-meta" title="SITRA ,BUDAYYA ,SAAR ,BARBAAR ,KARANA ,JANOOSAAN ,SHAKURA,DIRAZ,">
                                             <i class="ion-ios-location text-color mr-4"></i>SITRA, BUDAYYA , ...
                                         </div>
                                     </div>
@@ -128,12 +122,10 @@
 
                                 <div class="media mb-3">
                                     <div class="media-body">
-                                        <h4 class="media-heading"><a href="#"><i
-                                                    class="fas fa-truck text-color mr-4"></i>Van C<br>
+                                        <h4 class="media-heading"><a href="#"><i class="fas fa-truck text-color mr-4"></i>Van C<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>33937693</h4>
                                         </a></h4>
-                                        <div class="post-meta"
-                                            title="JIDDALI,TUBLI,SANAD,WEST EKAR,EAST EKAR,MAMEER ,NUWAIDARATH,JARDAB">
+                                        <div class="post-meta" title="JIDDALI,TUBLI,SANAD,WEST EKAR,EAST EKAR,MAMEER ,NUWAIDARATH,JARDAB">
                                             <i class="ion-ios-location text-color mr-4"></i>JIDDALI, TUBLI ...
                                         </div>
                                     </div>
@@ -141,12 +133,10 @@
 
                                 <div class="media mb-3">
                                     <div class="media-body">
-                                        <h4 class="media-heading"><a href="#"><i
-                                                    class="fas fa-truck text-color mr-4"></i>Van D<br>
+                                        <h4 class="media-heading"><a href="#"><i class="fas fa-truck text-color mr-4"></i>Van D<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34326145</h4>
                                         </a></h4>
-                                        <div class="post-meta"
-                                            title="SALMABAD ,ZAYID TOWN ,AMA UNIVERSITY ,SAHALA ,JABALAKHISHBI ,KHAMMIS ,BILAD AL KHADEEM ,MUSALLA ,JIDDAFS ,SANABIS ,DIAH">
+                                        <div class="post-meta" title="SALMABAD ,ZAYID TOWN ,AMA UNIVERSITY ,SAHALA ,JABALAKHISHBI ,KHAMMIS ,BILAD AL KHADEEM ,MUSALLA ,JIDDAFS ,SANABIS ,DIAH">
                                             <i class="ion-ios-location text-color mr-4"></i>SALMABAD ,ZAYID TOWN...
                                         </div>
                                     </div>
@@ -154,12 +144,10 @@
 
                                 <div class="media mb-3">
                                     <div class="media-body">
-                                        <h4 class="media-heading"><a href="#"><i
-                                                    class="fas fa-truck text-color mr-4"></i>Van E<br>
+                                        <h4 class="media-heading"><a href="#"><i class="fas fa-truck text-color mr-4"></i>Van E<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>33417220</h4>
                                         </a></h4>
-                                        <div class="post-meta"
-                                            title="HIDD ,SAMAHEEJ ,DAIR ,NEW GALALI ,GALALI ,BUSAITEEN">
+                                        <div class="post-meta" title="HIDD ,SAMAHEEJ ,DAIR ,NEW GALALI ,GALALI ,BUSAITEEN">
                                             <i class="ion-ios-location text-color mr-4"></i>HIDD ,SAMAHEEJ ...
                                         </div>
                                     </div>
@@ -167,12 +155,10 @@
 
                                 <div class="media mb-3">
                                     <div class="media-body">
-                                        <h4 class="media-heading"><a href="#"><i
-                                                    class="fas fa-truck text-color mr-4"></i>Van F<br>
+                                        <h4 class="media-heading"><a href="#"><i class="fas fa-truck text-color mr-4"></i>Van F<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34173242</h4>
                                         </a></h4>
-                                        <div class="post-meta"
-                                            title="EAST RIFFA ,WEST RIFFA  ,BUKHWARA ,HAJIYATH,ABDULLA CENTER,ASKER">
+                                        <div class="post-meta" title="EAST RIFFA ,WEST RIFFA  ,BUKHWARA ,HAJIYATH,ABDULLA CENTER,ASKER">
                                             <i class="ion-ios-location text-color mr-4"></i>EAST RIFFA ,WEST RIFFA ...
                                         </div>
                                     </div>
@@ -180,12 +166,10 @@
 
                                 <div class="media mb-3">
                                     <div class="media-body">
-                                        <h4 class="media-heading"><a href="#"><i
-                                                    class="fas fa-truck text-color mr-4"></i>Van G<br>
+                                        <h4 class="media-heading"><a href="#"><i class="fas fa-truck text-color mr-4"></i>Van G<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34052343</h4>
                                         </a></h4>
-                                        <div class="post-meta"
-                                            title="HAMAD TOWN,BOORI,AALI,KAEZAKKAN ,DUMISTHAN ,MALKIYA ,SADAD ,ZALLAQ,DAR KULAIB">
+                                        <div class="post-meta" title="HAMAD TOWN,BOORI,AALI,KAEZAKKAN ,DUMISTHAN ,MALKIYA ,SADAD ,ZALLAQ,DAR KULAIB">
                                             <i class="ion-ios-location text-color mr-4"></i>HAMAD TOWN, BOORI ...
                                         </div>
                                     </div>
@@ -193,12 +177,10 @@
 
                                 <div class="media mb-3">
                                     <div class="media-body">
-                                        <h4 class="media-heading"><a href="#"><i
-                                                    class="fas fa-truck text-color mr-4"></i>Van H<br>
+                                        <h4 class="media-heading"><a href="#"><i class="fas fa-truck text-color mr-4"></i>Van H<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34325910</h4>
                                         </a></h4>
-                                        <div class="post-meta"
-                                            title="ARAD ,ARD SEEF MALL ,HALATH,UMMAL AL HASSAM ,JUFFAIR ,ASRY ,ZINJ">
+                                        <div class="post-meta" title="ARAD ,ARD SEEF MALL ,HALATH,UMMAL AL HASSAM ,JUFFAIR ,ASRY ,ZINJ">
                                             <i class="ion-ios-location text-color mr-4"></i>ARAD , ARD SEEF MALL...
                                         </div>
                                     </div>
@@ -206,12 +188,10 @@
 
                                 <div class="media mb-3">
                                     <div class="media-body">
-                                        <h4 class="media-heading"><a href="#"><i
-                                                    class="fas fa-truck text-color mr-4"></i>Van I<br>
+                                        <h4 class="media-heading"><a href="#"><i class="fas fa-truck text-color mr-4"></i>Van I<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>35687979</h4>
                                         </a></h4>
-                                        <div class="post-meta"
-                                            title="HYPER MARKET ,SUPER MARKET ,A CLASS MARKET ,STAR HOTELS ,MINISTRY,CATERING SECTION">
+                                        <div class="post-meta" title="HYPER MARKET ,SUPER MARKET ,A CLASS MARKET ,STAR HOTELS ,MINISTRY,CATERING SECTION">
                                             <i class="ion-ios-location text-color mr-4"></i>HYPER MARKET ,SUPER...
                                         </div>
                                     </div>
@@ -245,7 +225,7 @@
                             <img class="img-fluid w-100" src="images/contacts/van-sales-map.jpg" alt="">
 
                             <div class="post-content post-excerpt mb-5 mt-4">
-                                <p>*Delivery to Restaurants & Cafteria only</p>
+                                <p>*Delivery to Restaurants & Cafeteria only</p>
                             </div>
                         </div>
                     </div>
@@ -275,8 +255,7 @@
                         <div class="card rounded-0 text-center room-grid">
                             <div class="card-body py-5 bg-purple text-white">
                                 <h3>SITRA</h3>
-                                <a href="https://goo.gl/maps/sfzUvL8S8iJ2" class="text-white" target="_blank"><b><i
-                                            class="ion-ios-location mr-2"></i>SHOP NO:839 ,
+                                <a href="https://goo.gl/maps/sfzUvL8S8iJ2" class="text-white" target="_blank"><b><i class="ion-ios-location mr-2"></i>SHOP NO:839 ,
                                         ROAD NO:2617<br />
                                         BLOCK NO:626 ,
                                         WEST EKAR</b></a>
@@ -288,8 +267,7 @@
                         <div class="card rounded-0 text-center room-grid">
                             <div class="card-body py-5 bg-purple text-white">
                                 <h3>MANAMA</h3>
-                                <a href="https://goo.gl/maps/N1fWLa3MQBHGutUV7" class="text-white" target="_blank"><b><i
-                                            class="ion-ios-location mr-2"></i>SHOP NO: 1841 ,ROAD NO :434<br>
+                                <a href="https://goo.gl/maps/N1fWLa3MQBHGutUV7" class="text-white" target="_blank"><b><i class="ion-ios-location mr-2"></i>SHOP NO: 1841 ,ROAD NO :434<br>
                                         N/R AWAL HOTEL
                                     </b></a>
                                 <br><br>
@@ -302,8 +280,7 @@
                         <div class="card rounded-0 text-center room-grid">
                             <div class="card-body py-5 bg-purple text-white">
                                 <h3>HIDD</h3>
-                                <a href="https://goo.gl/maps/LXM9QrQcFZPxW3VRA" class="text-white" target="_blank"><b><i
-                                            class="ion-ios-location mr-2"></i>SHOP NO:102 ,
+                                <a href="https://goo.gl/maps/LXM9QrQcFZPxW3VRA" class="text-white" target="_blank"><b><i class="ion-ios-location mr-2"></i>SHOP NO:102 ,
                                         ROAD NO:5 <br />
                                         BLOCK NO : 108 ,
                                         HIDD
@@ -316,8 +293,7 @@
                         <div class="card rounded-0 text-center room-grid">
                             <div class="card-body py-5 bg-purple text-white">
                                 <h3>SANABIS</h3>
-                                <a href="https://goo.gl/maps/zd5z9jbRDY92" class="text-white" target="_blank"><b><i
-                                            class="ion-ios-location mr-2"></i>SHOP NO: B1909 ,ROAD NO: 0644<br>
+                                <a href="https://goo.gl/maps/zd5z9jbRDY92" class="text-white" target="_blank"><b><i class="ion-ios-location mr-2"></i>SHOP NO: B1909 ,ROAD NO: 0644<br>
                                         BLOCK NO : 406 , SANABIS
                                     </b></a>
                                 <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>34 21 24
@@ -333,25 +309,12 @@
                         <div class="card rounded-0 text-center room-grid">
                             <div class="card-body py-5 bg-purple text-white">
                                 <h3>CENTRAL MARKET</h3>
-                                <a href="https://goo.gl/maps/crb8XDKQuw12" class="text-white" target="_blank"><b><i
-                                            class="ion-ios-location mr-2"></i>GATE NO 10<br>
+                                <a href="https://goo.gl/maps/crb8XDKQuw12" class="text-white" target="_blank"><b><i class="ion-ios-location mr-2"></i>GATE NO 10<br>
                                         MANAMA</b></a>
                                 <br><br>
                                 <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>34 17 38
                                         78</b>
                                 </p>
-                            </div>
-                        </div>
-                        <br>
-                        <div class="card rounded-0 text-center room-grid">
-                            <div class="card-body py-5 bg-purple text-white">
-                                <h3>HAMAD TOWN</h3>
-                                <a href="https://goo.gl/maps/mKi3aZxEdqC2" class="text-white" target="_blank"><b><i
-                                            class="ion-ios-location mr-2"></i>N/R KFC , SHOP NO: 321<br>
-                                        BLOCK NO:1203
-                                    </b></a>
-                                <p class="my-4 text-white"><b><i class="ion-ios-telephone-outline mr-2"></i>66 68 00
-                                        85</b></p>
                             </div>
                         </div>
                     </div>
@@ -442,7 +405,7 @@
 
     <?php include 'include/common-scripts.html' ?>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function() {
             addRemoveActiveClass("contacts");
         });
     </script>
