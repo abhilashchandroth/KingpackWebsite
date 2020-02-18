@@ -57,6 +57,14 @@
                           <h6>Foam Products</h6>                        
                           <a href="images/products/foam-products/foam.jpg" title="Foam Products">
                             <img src="images/products/foam-products/foam.jpg" alt="" class="img-fluid"/>
+                          </a> 
+                          <br>
+                          <a href="images/products/foam-products/foam-2.jpg" title="Foam Products">
+                            <img src="images/products/foam-products/foam-2.jpg" alt="" class="img-fluid"/>
+                          </a> 
+                          <br>
+                          <a href="images/products/foam-products/foam-3.jpg" title="Foam Products">
+                            <img src="images/products/foam-products/foam-3.jpg" alt="" class="img-fluid"/>
                           </a>            
                         </div>                        
                         <div class="col-md-8 col-lg-8">                          

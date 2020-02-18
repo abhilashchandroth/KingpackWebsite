@@ -253,7 +253,12 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   color: #292929;
   font-weight: 300;
 }
-
+.address-text span {
+  font-size: 18px;
+  color: #292929;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 600;
+}
 .page-wrapper {
   padding: 70px 0;
 }

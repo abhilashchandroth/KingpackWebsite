@@ -89,7 +89,7 @@
     <section>
       <div class="hero-slider">
         <!-- slider item -->
-        <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner9.jpg); ">
+        <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner14.jpg)no-repeat center;background-size: contain; ">
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
@@ -101,7 +101,7 @@
           </div>
         </div>
         <!-- slider item -->
-        <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner10.jpg); ">
+        <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner13.jpg); ">
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
@@ -112,8 +112,8 @@
             </div>
           </div>
         </div>
-        <!-- slider item -->
-        <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner11.jpg); ">
+        
+        <!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner11.jpg); ">
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
@@ -124,7 +124,7 @@
             </div>
           </div>
         </div>
-        <!-- slider item -->
+        
         <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner12.jpg); ">
           <div class="container">
             <div class="row justify-content-center">
@@ -136,7 +136,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
     </section>
     <!-- Wrapper Start -->
@@ -160,7 +160,7 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6 mb-4 ">
+          <!-- <div class="col-lg-4 col-md-6 mb-4 ">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
                 <div class="food-item-slider">
@@ -176,7 +176,7 @@
 
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
@@ -196,7 +196,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 mb-4">
+          <!-- <div class="col-lg-4 col-md-6 mb-4">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
                 <a href="images/food/frooti.jpg" title="Frooti">
@@ -209,10 +209,10 @@
                 <p><strong>Available :</strong> 200 ml</p>                                       
               </div>
             </div>
-          </div>
+          </div> -->
           <!-- 3 col end -->
 
-          <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+          <!-- <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
                 <a href="images/food/kara-coco.jpg" title="Kara COCO Coconut Water">
@@ -256,9 +256,9 @@
                 
               </div>
             </div>
-          </div>
+          </div> -->
 
-          <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+          <!-- <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
                 <a href="images/food/lacasa.jpg" title="Lacasa Chocolate Negro">
@@ -293,7 +293,7 @@
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
                 <div class="food-item-slider">
-                  <!-- slider item -->
+                   slider item 
                   <img class="hero-slider-item" src="images/food/euro-chips/euro-chips.jpg" />
                   <img class="hero-slider-item" src="images/food/euro-chips/euro-chips-masti-masala.jpg" />
                   <img class="hero-slider-item" src="images/food/euro-chips/euro-chips-salted.jpg" />
@@ -306,7 +306,7 @@
                 <p><strong>Available :</strong> 40 grms, 160 grms</p>               
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="col-lg-4 col-md-6">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">

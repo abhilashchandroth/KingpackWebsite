@@ -46,29 +46,27 @@
                 <div class="row">
                     <div class="col-md-4 col-sm-12">
                         <h2 class="mb-4">Contact Us</h2>
-                        <ul class="address-block mb-5 list-unstyled">
+                        <ul class="address-block mb-5 list-unstyled address-text">
                             <li class="mb-2">
-                                <i class="ion-ios-location-outline text-color mr-4"></i>Head Office<br>
+                                <span><i class="ion-ios-location-outline text-color mr-4"></i>Head Office</s><br>
                                 <span style="padding-left: 48px;">No.839, Road No.2617</span><br>
                                 <span style="padding-left: 48px;">No. 626, Al Akar Al Gharab</span><br>
                                 <span style="padding-left: 48px;">Kingdom of Bahrin</span>
                             </li>
                             <li class="mb-2">
-                                <i class="ion-ios-email-outline text-color mr-4"></i>
-                                info@kingpackgroup.com
+                            <span><i class="ion-ios-email-outline text-color mr-4"></i>info@kingpackgroup.com</span>
                             </li>
                             <li class="mb-2">
-                                <i class="ion-ios-email-outline text-color mr-4"></i><span>sales@kingpackgroup.com</span>
+                                <span><i class="ion-ios-email-outline text-color mr-4"></i>sales@kingpackgroup.com</span>
                             </li>
                             <li class="mb-2">
-                                <i class="ion-android-phone-portrait text-color mr-4"></i><span>+973 345 12 123</span>
+                                <span><i class="ion-android-phone-portrait text-color mr-4"></i>+973 345 12 123</span>
                             </li>
                             <li class="mb-2">
-                                <img src="images/contacts/phone.png" class="text-color mr-4" />
-                                <span>+973 77 17 78 42 </span>
+                            <span><img src="images/contacts/phone.png" class="text-color mr-4" />+973 77 17 78 42 </span>
                             </li>
                             <li class="mb-2">
-                                <i class="ion-social-whatsapp text-color mr-4"></i><span>+973 34 57 58 59</span>
+                             <span><i class="ion-social-whatsapp text-color mr-4"></i>+973 34 57 58 59</span>
                             </li>
                         </ul>
 

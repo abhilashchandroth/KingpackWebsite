@@ -112,40 +112,31 @@
 
         <section class="section cta" id="cta">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="cta-box mb-5 mb-lg-0">
-                            <i class="flaticon-chef text-black"></i>
-                            <h2 class="mt-2 text-black">250</h2>
-                            <p class="mb-0 text-black text-uppercase">Staffs</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="row">                    
+                    <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="cta-box mb-5 mb-lg-0">
                             <i class="flaticon-dinner text-black"></i>
                             <h2 class="mt-2 text-black">7000</h2>
                             <p class="mb-0 text-black text-uppercase">Products</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="cta-box mb-5 mb-lg-0">
                             <i class="fas fa-truck text-black"></i>
-                            <h2 class="mt-2 text-black">9</h2>
+                            <h2 class="mt-2 text-black">10</h2>
                             <p class="mb-0 text-black text-uppercase">Vans Sales</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="cta-box ">
                             <i class="flaticon-restaurant text-black"></i>
-                            <h2 class="mt-2 text-black">6</h2>
+                            <h2 class="mt-2 text-black">5</h2>
                             <p class="mb-0 text-black text-uppercase">Branches</p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-
-
         <section class="service-section section">
             <div class="container">
                 <div class="row justify-content-center">

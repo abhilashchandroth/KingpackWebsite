@@ -21,7 +21,7 @@
 
     <div class="main-wrapper ">
         <section class="overly"
-            style="background: url(images/products/hygiene-products/bg-1.jpg);background-size: cover;background-attachment: fixed; ">
+            style="background: url(images/products/hygiene-products/bg-1.jpg)no-repeat center;background-size: contain;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
