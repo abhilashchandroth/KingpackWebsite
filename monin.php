@@ -126,8 +126,7 @@
                                     <h6>Syrup</h6>
                                     <div class="gallery-item ">
                                         <div class="food-item-slider">
-                                            <img class="hero-slider-item" src="images/food/monin/syrup.jpg" />
-                                            <img class="hero-slider-item" src="images/food/monin/puree.jpg" />
+                                            <img class="hero-slider-item" src="images/food/monin/syrup.jpg" />                                            
                                         </div>
                                     </div>
                                 </div>
@@ -144,7 +143,32 @@
                                                 <th scope="row">syrup</th>
                                                 <td>700 ml</td>
                                                 <td>1 ltr</td>
+                                            </tr>                                            
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="row product-desc">
+                                <div class="col-md-4 col-lg-4 gallery-item">
+
+                                    <h6>Pure</h6>
+                                    <div class="gallery-item ">
+                                        <div class="food-item-slider">
+                                            <img class="hero-slider-item" src="images/food/monin/puree-1.jpg" />
+                                            <img class="hero-slider-item" src="images/food/monin/puree-2.jpg" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-8 col-lg-8">
+                                    <table class="table table-striped">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Flavour</th>
+                                                <th scope="col" colspan="2">Qty</th>
                                             </tr>
+                                        </thead>
+                                        <tbody>                                            
                                             <tr>
                                                 <th scope="row">puree</th>
                                                 <td>700 ml</td>
