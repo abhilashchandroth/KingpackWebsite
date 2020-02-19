@@ -73,10 +73,10 @@
                         <h2 class="mb-4">Follow Us</h2>
                         <ul class="social-icons list-inline">
                             <li class="list-inline-item">
-                                <a href="https://www.facebook.com/KINGPACKGROUP/"><i class="ion-social-facebook-outline"></i></a>
+                                <a href="https://www.facebook.com/KINGPACKGROUP/" target="_blank"><i class="ion-social-facebook-outline"></i></a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="https://instagram.com/kingpack_bahrain?igshid=rfvts501x37f"><i class="ion-social-instagram-outline"></i></a>
+                                <a href="https://instagram.com/kingpack_bahrain?igshid=rfvts501x37f" target="_blank"><i class="ion-social-instagram-outline"></i></a>
                             </li>
                         </ul>
                     </div>
