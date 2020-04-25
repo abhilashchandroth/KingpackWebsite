@@ -27,15 +27,59 @@
 		<!-- slider -->
 		<section>
 			<div class="hero-slider">
-
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner1.jpg); height:auto; max-width: 100%">
+				<!-- slider item -->
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner1.jpg)no-repeat center;background-size: contain; ">
+					<div class="container">
+						<div class="row justify-content-center">
+							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
+								<h1 class="mb-3 text-capitalize"></h1>
+								<p class="mb-5"></p>
+								<!-- <a href="products.php" class="explore explore-main" data-duration-in=".3" data-animation-in="zoomIn" data-delay-in=".4">Explore now</a> -->
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner4.jpg); ">
+					<div class="container">
+						<div class="row justify-content-center">
+							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
+								<span class="letter-spacing text-white"></span>
+								<h1 class="mb-3 text-capitalize"></h1>
+								<p class="mb-5"></p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner2.jpg); ">
+					<div class="container">
+						<div class="row justify-content-center">
+							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
+								<span class="letter-spacing text-white"></span>
+								<h1 class="mb-3 text-capitalize"></h1>
+								<p class="mb-5"></p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner6.jpg); ">
+					<div class="container">
+						<div class="row justify-content-center">
+							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
+								<span class="letter-spacing text-white"></span>
+								<h1 class="mb-3 text-capitalize"></h1>
+								<p class="mb-5"></p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner1.jpg); height:auto; max-width: 100%">
 				</div>
 				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner4.jpg); height:auto; max-width: 100%">
 				</div>
 				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner2.jpg); height:auto; max-width: 100%">
 				</div>
 				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner6.jpg); height:auto; max-width: 100%">
-				</div>
+				</div> -->
 
 				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner7.jpg); ">
 					<div class="container">
