@@ -28,13 +28,13 @@
 		<section>
 			<div class="hero-slider">
 
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner3.jpg); height:550px">
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner1.jpg); height:auto; max-width: 100%">
 				</div>
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner4.jpg); height:550px">
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner4.jpg); height:auto; max-width: 100%">
 				</div>
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner5.jpg); height:550px">
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner2.jpg); height:auto; max-width: 100%">
 				</div>
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner6.jpg); height:550px">
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner6.jpg); height:auto; max-width: 100%">
 				</div>
 
 				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner7.jpg); ">
@@ -88,9 +88,9 @@
 					<div class="col-lg-8 col-md-6">
 						<div class="about-block">
 							<img src="images/home/branch1.jpg" alt="" class="img-fluid shadow-sm">
-							<div class="about-img">
+							<!-- <div class="about-img">
 								<img src="images/home/branch.jpg" alt="" class="img-fluid">
-							</div>
+							</div> -->
 						</div>
 					</div>
 

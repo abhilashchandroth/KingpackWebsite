@@ -2969,3 +2969,14 @@ input[type=checkbox], input[type=radio] {
   color: black;
   font-weight: bold;
 }
+
+.table-striped-food thead tr{
+  background-color: #e21556;
+}
+.table-striped-food thead tr th{
+  color: #fff;
+}
+.table-striped-food tbody tr td{
+  color: black;
+  font-weight: bold;
+}

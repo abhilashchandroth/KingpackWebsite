@@ -134,7 +134,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-8 col-lg-8">
-                                    <table class="table table-striped">
+                                    <table class="table table-striped-food">
                                         <thead>
                                             <tr>
                                                 <th scope="col">Flavour</th>

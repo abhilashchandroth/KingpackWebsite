@@ -151,8 +151,7 @@
                   products to hotels, cafeterias and Karak shops (HORECA).
                   We have also launched our own custom made tea powder under the brand name "FINE TEA ".It is a
                   specially blended tea powder provided to all Karak shops.
-                  In 2019, we took up exclusive franchisee and distribution rights of the following products,Appy
-                  Fizz,Mango Frooti ,Unikai,Euro Chips,Kara Coco,Lacassa,Pop Smile,Dry Cake,Danima ,and Monin.
+                  In 2019, we took up exclusive franchisee and distribution rights of the products Dry Cake and Monin.
                 </p>
                 <span class="section-border"></span>
             </div>
@@ -160,23 +159,23 @@
         </div>
 
         <div class="row">
-          <!-- <div class="col-lg-4 col-md-6 mb-4 ">
+          <div class="col-lg-4 col-md-6 mb-4 ">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
-                <div class="food-item-slider">
-                  <img class="hero-slider-item" src="images/food/unikai-mango-juice.jpg" />
-                  <img class="hero-slider-item" src="images/food/unikai-orange-juice.jpg" />
-                </div>
+              <div class="food-item-slider">
+                  <img src="images/food/samver-tea/samver-tea.jpg" alt="Karkadi" class="img-fluid w-100">
+              </div>
               </div>
               <div class="card-body">
-                <h3>Unikai Juice</h3>
-                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="unikai-juice.php"
-                    role="button">Explore</a></div>
+                <h3>Samaver Tea</h3>
                 <p class="my-4">Explore more about this food item.</p>
+                <br>
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="samaver-tea.php"
+                    role="button">Explore</a></div>
 
               </div>
             </div>
-          </div> -->
+          </div>
           <div class="col-lg-4 col-md-6 mb-4">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
@@ -190,123 +189,13 @@
               </div>
               <div class="card-body">
                 <h3>Cipsas Nuts</h3>
-                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="cipsas-nuts.php"
-                    role="button">Explore</a></div>
-                <p class="my-4">Explore more about this food item.</p>
-              </div>
-            </div>
-          </div>
-          <!-- <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card rounded-0 text-center room-grid">
-              <div class="gallery-item ">
-                <a href="images/food/frooti.jpg" title="Frooti">
-                  <img src="images/food/frooti.jpg" alt="Frooti" class="img-fluid w-100">
-                </a>
-              </div>
-              <div class="card-body">
-                <h3>Frooti</h3>
-                <p><strong>Flavours :</strong> Mango</p>
-                <p><strong>Available :</strong> 200 ml</p>                                       
-              </div>
-            </div>
-          </div> -->
-          <!-- 3 col end -->
-
-          <!-- <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
-            <div class="card rounded-0 text-center room-grid">
-              <div class="gallery-item ">
-                <a href="images/food/kara-coco.jpg" title="Kara COCO Coconut Water">
-                  <img src="images/food/kara-coco.jpg" alt="Kara COCO Coconut Water" class="img-fluid w-100">
-                </a>
-              </div>
-              <div class="card-body">
-                <h3>Kara COCO</h3>
-                <p><strong>Flavours :</strong> Coconut Water</p>
-                <p><strong>Available :</strong> 250 ml, 330 ml, 500 ml, 1 Ltr</p>                       
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card rounded-0 text-center room-grid">
-              <div class="gallery-item ">
-                <a href="images/food/appy-fizz.jpg" title="Appy Fizz">
-                  <img src="images/food/appy-fizz.jpg" alt="Appy Fizz" class="img-fluid w-100">
-                </a>
-              </div>
-              <div class="card-body">
-                <h3>Appy Fizz</h3>
-                <p><strong>Flavours :</strong> Apple</p>
-                <p><strong>Available :</strong> 250 ml, 500 ml</p>                
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card rounded-0 text-center room-grid">
-              <div class="gallery-item ">
-                <a href="images/food/danima-cookies.jpg" title="Danima Butter Cookies">
-                  <img src="images/food/danima-cookies.jpg" alt="Danima Butter Cookies" class="img-fluid w-100">
-                </a>
-              </div>
-              <div class="card-body">
-                <h3>Danima Cookies</h3>
                 <p class="my-4">Explore more about this food item.</p>
                 <br>
-                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="danima-cookies.php"
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="cipsas-nuts.php"
                     role="button">Explore</a></div>
-                
-              </div>
-            </div>
-          </div> -->
-
-          <!-- <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
-            <div class="card rounded-0 text-center room-grid">
-              <div class="gallery-item ">
-                <a href="images/food/lacasa.jpg" title="Lacasa Chocolate Negro">
-                  <img src="images/food/lacasa.jpg" alt="Lacasa Chocolate Negro" class="img-fluid w-100">
-                </a>
-              </div>
-              <div class="card-body py-5">
-                <h3>Lacasa Chocolate</h3>
-                <p class="my-4">Explore more about this food item.</p>                
-                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="lacasa-dulcinea.php"
-                    role="button">Explore</a></div>
-                
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card rounded-0 text-center room-grid">
-              <div class="gallery-item ">
-                <a href="images/food/pop-popcorn.jpg" title="Pop Smile Popcorn">
-                  <img src="images/food/pop-popcorn.jpg" alt="Pop Smile Popcorn" class="img-fluid w-100">
-                </a>
-              </div>
-              <div class="card-body">
-                <h3>Pop Smile Popcorn</h3>
-                <p><strong>Flavours :</strong> Cheese, Salt, Carmel, Dark Chocolate</p>
-                <p><strong>Available :</strong> 60 grms, 180 grms</p>  
-                <br>                              
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card rounded-0 text-center room-grid">
-              <div class="gallery-item ">
-                <div class="food-item-slider">
-                   slider item 
-                  <img class="hero-slider-item" src="images/food/euro-chips/euro-chips.jpg" />
-                  <img class="hero-slider-item" src="images/food/euro-chips/euro-chips-masti-masala.jpg" />
-                  <img class="hero-slider-item" src="images/food/euro-chips/euro-chips-salted.jpg" />
-                  <img class="hero-slider-item" src="images/food/euro-chips/euro-chips-tomato.jpg" />
-                </div>
-              </div>
-              <div class="card-body">
-                <h3>Euro Chips</h3>
-                <p><strong>Flavours :</strong> Cream and Onion, Salt, Masti Masala, Tomato</p>
-                <p><strong>Available :</strong> 40 grms, 160 grms</p>               
-              </div>
-            </div>
-          </div> -->
           <div class="col-lg-4 col-md-6">
             <div class="card rounded-0 text-center room-grid">
               <div class="gallery-item ">
@@ -318,6 +207,100 @@
                 <h3>Pure Assam Tea</h3>
                 <p><strong>Flavours :</strong> Fine tea powder-Kingpack</p>
                 <p><strong>Available :</strong> 5 kg</p>                         
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card rounded-0 text-center room-grid">
+              <div class="gallery-item ">
+                <a href="images/food/karkadi-tea.jpg" title="Karkadi">
+                  <img src="images/food/karkadi-tea.jpg" alt="Karkadi" class="img-fluid w-100">
+                </a>
+              </div>
+              <div class="card-body">
+                <h3>Karkadi Tea</h3> 
+                <br>                  
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card rounded-0 text-center room-grid">
+              <div class="gallery-item ">
+                <a href="images/food/sahlab/sahlab.jpg" title="Sahlab">
+                  <img src="images/food/sahlab/sahlab.jpg" alt="Sahlab" class="img-fluid w-100">
+                </a>
+              </div>
+              <div class="card-body">
+                <h3>Sahlab</h3> 
+                <br>                          
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card rounded-0 text-center room-grid">
+              <div class="gallery-item ">
+                <a href="images/food/ginger-mix.jpg" title="Ginger Powder">
+                  <img src="images/food/ginger-mix.jpg" alt="Ginger Powder" class="img-fluid w-100">
+                </a>
+              </div>
+              <div class="card-body">
+                <h3>Ginger Powder</h3> 
+                <br>                      
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card rounded-0 text-center room-grid">
+              <div class="gallery-item ">
+                <a href="images/food/jannaty.jpg" title="Jannaty">
+                  <img src="images/food/jannaty.jpg" alt="Jannaty" class="img-fluid w-100">
+                </a>
+              </div>
+              <div class="card-body">
+                <h3>Jannaty</h3> 
+                <br>                      
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card rounded-0 text-center room-grid">
+              <div class="gallery-item ">
+                <a href="images/food/zinger-mix.jpg" title="Zinger Mix">
+                  <img src="images/food/zinger-mix.jpg" alt="Zinger Mix" class="img-fluid w-100">
+                </a>
+              </div>
+              <div class="card-body">
+                <h3>Zinger Mix</h3> 
+                <br>                      
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card rounded-0 text-center room-grid">
+              <div class="gallery-item ">
+                <a href="images/food/cardamom.jpg" title="Cardamom">
+                  <img src="images/food/cardamom.jpg" alt="Cardamom" class="img-fluid w-100">
+                </a>
+              </div>
+              <div class="card-body">
+                <h3>Cardamom</h3> 
+                <br>                      
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <div class="card rounded-0 text-center room-grid">
+              <div class="gallery-item ">
+                <a href="images/food/badam-powder.jpg" title="Badam Drink">
+                  <img src="images/food/badam-powder.jpg" alt="Badam-Drink" class="img-fluid w-100">
+                </a>
+              </div>
+              <div class="card-body">
+                <h3>Badam Drink</h3> 
+                <p class="my-4">Explore more about this food item.</p>
+                <br>
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="badam-drink.php"
+                    role="button">Explore</a></div>                               
               </div>
             </div>
           </div>

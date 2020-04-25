@@ -163,9 +163,11 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="service-box text-center border px-4 py-5">
+                        <br>
                             <img class="text-color" src="images/about/kingpack-food.png" />
+                            <br>
                             <h3 class="my-3">Kingpack Food</h3>
-                            <p class="mb-3 strong">"Good food good time"</p>
+                            <p class="mb-4 strong">"Good food good time"</p>
                             <p>We are a distribution company consisting of seven van sales persons. We distribute
                                 various food items to all cafeterias and exclusively to Karak shops also.
                                 <br><br><br><br><br>

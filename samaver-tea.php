@@ -6,7 +6,7 @@
     <meta name="description"
         content="Explore food products from our catalogue. We've products like Appy Fiz, Kara Coco Coconut Water, Frooti, Olymbic Dry Cake etc.">
 
-    <title>Cipsas Nuts - Kingpack Group | Think food</title>
+    <title>Samaver Tea - Kingpack Group | Think food</title>
 
     <!-- Mobile Specific Meta-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -91,7 +91,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h1 class="text-white py-100">Cipsas Nuts</h1>
+                        <h1 class="text-white py-100">Samaver Tea</h1>
                     </div>
                 </div>
             </div>
@@ -104,7 +104,7 @@
                             <span><i class="ion-arrow-right-b text-white mx-1" aria-hidden="true"></i></span>
                             <a href="food.php" class="text-blue h6">Food</a>
                             <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
-                            <a href="#" class="text-white h6">Cipsas Nuts</a>
+                            <a href="#" class="text-white h6">Samver Tea</a>
                         </div>
                     </div>
                 </div>
