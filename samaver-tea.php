@@ -3,8 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description"
-        content="Explore food products from our catalogue. We've products like Appy Fiz, Kara Coco Coconut Water, Frooti, Olymbic Dry Cake etc.">
+    <meta name="description" content="Explore food products from our catalogue. We've products like Appy Fiz, Kara Coco Coconut Water, Frooti, Olymbic Dry Cake etc.">
 
     <title>Samaver Tea - Kingpack Group | Think food</title>
 
@@ -71,10 +70,8 @@
 
         <nav class="navbar navbar-expand-lg bg-white w-100 p-0" id="navbar">
             <div class="container">
-                <a class="navbar-brand" href="index.html"><img src="images/logo-food.png" alt="Eden"
-                        class="img-fluid"></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample09"
-                    aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation">
+                <a class="navbar-brand" href="index.html"><img src="images/logo-food.png" alt="Eden" class="img-fluid"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample09" aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="fa fa-bars"></span>
                 </button>
                 <!--Include menu -start -->
@@ -86,8 +83,7 @@
     <!-- Header Close -->
 
     <div class="main-wrapper ">
-        <section class="overly"
-            style="background: url(images/food/cipas-nuts/bg-1.jpg)no-repeat fixed center;background-size: cover;">
+        <section class="overly" style="background: url(images/food/samver-tea/bg-1.jpg)no-repeat fixed center;background-size: cover;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -118,305 +114,49 @@
                     <!-- Include product catefories- start-->
                     <?php include 'include/food-categories.html' ?>
                     <!-- Include product catefories- end-->
-                    <div class="col-md-6 col-sm-6 col-lg-8">
-                        <div class="comment-form pl-4">
-                            <div class="row product-desc">
-                                <div class="col-md-4 col-lg-4 gallery-item">
-
-                                    <h6>Tefos</h6>
-                                    <a href="images/food/cipas-nuts.jpg" title="Tefos">
-                                        <img src="images/food/cipas-nuts/tefos.jpg" alt=""
-                                            class="img-fluid" />
-                                    </a>
+                    <div class="col-lg-8 mb-4 mb-lg-0">
+                        <div class="container">
+                            <div class="row featured">
+                                <div class="col-sm-12 col-12 col-lg-4 col-md-6">
+                                    <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
+                                        <img src="images/food/samver-tea/honey.jpg" alt="image" class="img-fluid w-100">
+                                        <figcaption class=" ">
+                                            <h6 class="headline">
+                                                    <p>Honey</p>
+                                            </h6>
+                                        </figcaption>
+                                    </figure>
                                 </div>
-                                <div class="col-md-8 col-lg-8">
-                                    <table class="table table-striped-food">
-                                        <thead>
-                                            <tr>
-                                                <th scope="col">Flavour</th>
-                                                <th scope="col" colspan="3">Qty</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <th scope="row">tefos </th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
+                                <div class="col-sm-12 col-12 col-lg-4 col-md-6">
+                                    <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
+                                        <img src="images/food/samver-tea/rose-water.jpg" alt="image" class="img-fluid w-100">
+                                        <figcaption class=" ">
+                                            <h6 class="headline">
+                                                    <p>Rose Water</p>
+                                            </h6>
+                                        </figcaption>
+                                    </figure>
                                 </div>
-                            </div>
-                            <br />
-                            <div class="row product-desc">
-                                <div class="col-md-4 col-lg-4 gallery-item">
-
-                                    <h6>Crunch</h6>
-                                    <div class="gallery-item ">
-                                        <div class="food-item-slider">
-                                            <img class="hero-slider-item" src="images/food/cipas-nuts/crunch-cheese.jpg" />                                            
-                                            <img class="hero-slider-item" src="images/food/cipas-nuts/crunch-ketchup.jpg" />                                                                                        
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-8 col-lg-8">
-                                    <table class="table table-striped-food">
-                                        <thead>
-                                            <tr>
-                                                <th scope="col">Flavour</th>
-                                                <th scope="col">Qty</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <th scope="row">tako-herbal</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">cheese</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">ketchep</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">chicken </th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-                            <br />
-                            <div class="row product-desc">
-                                <div class="col-md-4 col-lg-4 gallery-item">
-
-                                    <h6>Tomby</h6>
-                                    <div class="gallery-item ">
-                                        <div class="food-item-slider">
-                                            <img class="hero-slider-item" src="images/food/cipas-nuts/tomby-ketchup.jpg" />
-                                            <img class="hero-slider-item" src="images/food/cipas-nuts/tomby-missy.jpg" />
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-8 col-lg-8">
-                                    <table class="table table-striped-food">
-                                        <thead>
-                                            <tr>
-                                                <th scope="col">Flavour</th>
-                                                <th scope="col" colspan="2">Qty</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <th scope="row">tako-herbal</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">cheese</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">ketchep</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">chicken</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-                            <br />
-                            <div class="row product-desc">
-                                <div class="col-md-4 col-lg-4 gallery-item">
-
-                                    <h6>Kanky</h6>
-                                    <a href="images/food/cipas-nuts/kanky.jpg" title="Kanky">
-                                        <img src="images/food/cipas-nuts/kanky.jpg" alt="" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="col-md-8 col-lg-8">
-                                    <table class="table table-striped-food">
-                                        <thead>
-                                            <tr>
-                                                <th scope="col">Flavour</th>
-                                                <th scope="col">Qty</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <th scope="row">tako-herbal</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">cheese</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">ketchep</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">chicken</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-                            <br />
-                            <div class="row product-desc">
-                                <div class="col-md-4 col-lg-4 gallery-item">
-
-                                    <h6>Papatyos</h6>
-                                    <a href="images/food/cipas-nutsspoon.jpg" title="Unikai Coconut Juice">
-                                        <img src="images/food/cipas-nutsspoon.jpg" alt="" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="col-md-8 col-lg-8">
-                                    <table class="table table-striped-food">
-                                        <thead>
-                                            <tr>
-                                                <th scope="col">Flavour</th>
-                                                <th scope="col">Qty</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <th scope="row">tako-herbal</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">cheese</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">ketchep</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">chicken</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-                            <br />
-                            <div class="row product-desc">
-                                <div class="col-md-4 col-lg-4 gallery-item">
-
-                                    <h6>Stick</h6>
-                                    <a href="images/food/cipas-nutsspoon.jpg" title="Unikai Coconut Juice">
-                                        <img src="images/food/cipas-nutsspoon.jpg" alt="" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="col-md-8 col-lg-8">
-                                    <table class="table table-striped-food">
-                                        <thead>
-                                            <tr>
-                                                <th scope="col">Flavour</th>
-                                                <th scope="col">Qty</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <th scope="row">tako-herbal</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">cheese</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">ketchep</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">chicken</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-                            <br />
-                            <div class="row product-desc">
-                                <div class="col-md-4 col-lg-4 gallery-item">
-
-                                    <h6>Ondul</h6>
-                                    <a href="images/food/cipas-nutsspoon.jpg" title="Unikai Coconut Juice">
-                                        <img src="images/food/cipas-nutsspoon.jpg" alt="" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="col-md-8 col-lg-8">
-                                    <table class="table table-striped-food">
-                                        <thead>
-                                            <tr>
-                                                <th scope="col">Flavour</th>
-                                                <th scope="col">Qty</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <th scope="row">tako-herbal</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">cheese</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">ketchep</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">chicken</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-                            <br />
-                            <div class="row product-desc">
-                                <div class="col-md-4 col-lg-4 gallery-item">
-
-                                    <h6>Crispy</h6>
-                                    <a href="images/food/cipas-nuts/crispy.jpg" title="Crispy">
-                                        <img src="images/food/cipas-nuts/crispy.jpg" alt="" class="img-fluid" />
-                                    </a>
-                                </div>
-                                <div class="col-md-8 col-lg-8">
-                                    <table class="table table-striped-food">
-                                        <thead>
-                                            <tr>
-                                                <th scope="col">Flavour</th>
-                                                <th scope="col">Qty</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <th scope="row">tako-herbal</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">cheese</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">ketchep</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">chicken</th>
-                                                <td>5 kg</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </div>
+                                <div class="col-sm-12 col-12 col-lg-4 col-md-6">
+                                    <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
+                                        <img src="images/food/samver-tea/zaffran.jpg" alt="image" class="img-fluid w-100">
+                                        <figcaption class=" ">
+                                            <h6 class="headline">
+                                                    <p>Zaffran</p>                                                
+                                            </h6>
+                                        </figcaption>
+                                    </figure>
+                                </div>  
+                                <div class="col-sm-12 col-12 col-lg-4 col-md-6">
+                                    <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden rounded">
+                                        <img src="images/food/samver-tea/tomato-ketchup.jpg" alt="image" class="img-fluid w-100">
+                                        <figcaption class=" ">
+                                            <h6 class="headline">
+                                                    <p>Tomato Ketchup</p>                                                
+                                            </h6>
+                                        </figcaption>
+                                    </figure>
+                                </div>                                                                                                                                                                                           
                             </div>
                         </div>
                     </div>
@@ -441,7 +181,7 @@
 
     <script src="js/script.js"></script>
     <script>
-        $(document).ready(function () {
+        $(document).ready(function() {
             addRemoveActiveClass("food");
         });
     </script>

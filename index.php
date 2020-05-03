@@ -28,6 +28,17 @@
 		<section>
 			<div class="hero-slider">
 				<!-- slider item -->
+				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner.jpg)no-repeat center;background-size: contain; ">
+					<div class="container">
+						<div class="row justify-content-center">
+							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
+								<h1 class="mb-3 text-capitalize"></h1>
+								<p class="mb-5"></p>
+								<!-- <a href="products.php" class="explore explore-main" data-duration-in=".3" data-animation-in="zoomIn" data-delay-in=".4">Explore now</a> -->
+							</div>
+						</div>
+					</div>
+				</div>
 				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner1.jpg)no-repeat center;background-size: contain; ">
 					<div class="container">
 						<div class="row justify-content-center">
@@ -121,7 +132,7 @@
 								In Kingpack, customer satisfaction is given the utmost priority and we always strive to cater to their
 								specific needs without compromising on quality.
 								In Kingpack, employees are regarded as a valuable asset and we provide them with a positive conducive
-								work atmosphere leading to better productivity. Here , at Kingpack we work with sincerity and dedication
+								work atmosphere leading to better productivity. Here, at Kingpack we work with sincerity and dedication
 								to achieve our common goals for a better and brighter future.</p>
 							<span class="section-border"></span>
 						</div>
@@ -276,9 +287,8 @@
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-lg-5">
-						<div class="section-title ">
-							<p class="section-subtitle text-left">Testimonial</p>
-							<h2 class="mb-4 text-left">Customers Satisfaction</h2>
+						<div class="section-title ">							
+							<h2 class="mb-4 text-left">Our Clients</h2>
 							<span class="section-border m-0 mt-4"></span>
 						</div>
 					</div>

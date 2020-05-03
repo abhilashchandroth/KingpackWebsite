@@ -63,7 +63,7 @@
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
-                  <table class="table table-striped-food">
+                  <table class="table table-striped">
                     <thead>
                       <tr>
                         <th scope="col">Code</th>
@@ -106,7 +106,7 @@
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
-                  <table class="table table-striped-food">
+                  <table class="table table-striped">
                     <thead>
                       <tr>
                         <th scope="col">Code</th>
