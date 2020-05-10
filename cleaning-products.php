@@ -26,7 +26,7 @@
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h1 class="text-white py-100">ABAYA SHAMPOO | DISHWASH LEMON | HAND WASH LEMON | LAUNDRY
-                            DETERGENT | PINE DISNIFICANT</h1>
+                            DETERGENT | PINE DISINFECTANT </h1>
                     </div>
                 </div>
             </div>
@@ -98,7 +98,7 @@
                                             </tr>
                                             <tr>
                                                 <th scope="row">PD30</th>
-                                                <td>PINE DISNIFICANT</td>
+                                                <td>PINE DISINFECTANT </td>
                                                 <td>30 LTR</td>
                                             </tr>
                                             <tr>
@@ -113,7 +113,7 @@
                                             </tr>
                                             <tr>
                                                 <th scope="row">RD30</th>
-                                                <td>ROSE DISNIFICANT</td>
+                                                <td>ROSE DISINFECTANT </td>
                                                 <td>30 LTR</td>
                                             </tr>
                                         </tbody>
@@ -172,12 +172,12 @@
                                             </tr>
                                             <tr>
                                                 <th scope="row">PD4</th>
-                                                <td>PINE DISNIFICANT</td>
+                                                <td>PINE DISINFECTANT </td>
                                                 <td>4 LTR</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">RD556</th>
-                                                <td>ROSE DISNIFICANT #556</td>
+                                                <td>ROSE DISINFECTANT  #556</td>
                                                 <td>4 LTR</td>
                                             </tr>
                                             <tr>

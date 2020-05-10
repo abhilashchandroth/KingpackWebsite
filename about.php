@@ -113,25 +113,25 @@
         <section class="section cta" id="cta">
             <div class="container">
                 <div class="row">                    
-                    <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="col-lg-4 col-md-6 col-sm-6 text-purple">
                         <div class="cta-box mb-5 mb-lg-0">
-                            <i class="flaticon-dinner text-black"></i>
-                            <h2 class="mt-2 text-black">7000</h2>
-                            <p class="mb-0 text-black text-uppercase">Products</p>
+                            <i class="flaticon-dinner "></i>
+                            <h2 class="mt-2 text-purple">7000</h2>
+                            <p class="mb-0 text-purple text-uppercase">Products</p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="col-lg-4 col-md-6 col-sm-6 text-purple">
                         <div class="cta-box mb-5 mb-lg-0">
-                            <i class="fas fa-truck text-black"></i>
-                            <h2 class="mt-2 text-black">10</h2>
-                            <p class="mb-0 text-black text-uppercase">Vans Sales</p>
+                            <i class="fas fa-truck"></i>
+                            <h2 class="mt-2 text-purple">10</h2>
+                            <p class="mb-0 text-uppercase text-purple">Vans Sales</p>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="col-lg-4 col-md-6 col-sm-6 text-purple">
                         <div class="cta-box ">
                             <i class="flaticon-restaurant text-black"></i>
-                            <h2 class="mt-2 text-black">5</h2>
-                            <p class="mb-0 text-black text-uppercase">Branches</p>
+                            <h2 class="mt-2 text-purple">5</h2>
+                            <p class="mb-0 text-purple text-uppercase">Branches</p>
                         </div>
                     </div>
                 </div>
@@ -211,7 +211,7 @@
                         <div class="service-box text-center border px-4 py-5">
                             <img class="text-color" src="images/about/waad-market.png" />
                             <h3 class="my-3">WAAD Market</h3>
-                            <p>This is our retail supermarket branch having 3 outlets in Bahrain.
+                            <p>Our retail supermarket branch having 3 outlets in Bahrain.
                                 <br><br><br>
                             </p>
                         </div>
@@ -220,7 +220,7 @@
                         <div class="service-box text-center border px-4 py-5">
                             <img class="text-color" src="images/about/waad-fruits.png" />
                             <h5 class="my-3" style="font-size:1rem!important">WAAD Fruits & Vegetables</h5>
-                            <p>This is our retail division dealing in daily fresh fruits and vegetable supply and
+                            <p>Our retail division dealing in daily fresh fruits and vegetable supply and
                                 distribution.
                                 <br><br><br>
                             </p>

@@ -154,22 +154,22 @@
                               </tr>
                               <tr>
                                 <th scope="row">KP10</th>
-                                <td>KP10 FORM BOX </td>
+                                <td>KP10 FOAM   BOX </td>
                                 <td>1 X 250PCS</td>      
                               </tr>
                               <tr>
                                 <th scope="row">SG4</th>
-                                <td>SG4 FORM TRAY </td>
+                                <td>SG4 FOAM   TRAY </td>
                                 <td>1 X 1000PCS</td>     
                               </tr>
                               <tr>
                                 <th scope="row">6 OZCP</th>
-                                <td>6OZ FORM CUP </td>
+                                <td>6OZ FOAM   CUP </td>
                                 <td>1 X 1000PCS</td>      
                               </tr>
                               <tr>
                                 <th scope="row">8 OZCP</th>
-                                <td>8OZ FORM CUP</td>
+                                <td>8OZ FOAM  CUP</td>
                                 <td>1 X 1000PCS</td>     
                               </tr>
                               <tr>

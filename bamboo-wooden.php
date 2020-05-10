@@ -118,7 +118,7 @@
                       </tr>
                       <tr>
                         <th scope="row">WCS</th>
-                        <td>WOODEN COFFEE STIRER </td>
+                        <td>WOODEN COFFEE STIRRER </td>
                         <td>500 PCS X20 PKT </td>
                       </tr>
                     </tbody>
@@ -189,7 +189,7 @@
                       </tr>
                       <tr>
                         <th scope="row">WCS</th>
-                        <td>WOODEN COFFEE STIRER </td>
+                        <td>WOODEN COFFEE STIRRER </td>
                         <td>500 PCS X20 PKT </td>
                       </tr>
                     </tbody>

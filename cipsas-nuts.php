@@ -168,19 +168,19 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <th scope="row">tako-herbal</th>
+                                                <th scope="row">Tako-herbal</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">cheese</th>
+                                                <th scope="row">Cheese</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">ketchep</th>
+                                                <th scope="row">Ketchup</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">chicken </th>
+                                                <th scope="row">Chicken </th>
                                                 <td>5 kg</td>
                                             </tr>
                                         </tbody>
@@ -209,19 +209,19 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <th scope="row">tako-herbal</th>
+                                                <th scope="row">Tako-herbal</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">cheese</th>
+                                                <th scope="row">Cheese</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">ketchep</th>
+                                                <th scope="row">Ketchup</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">chicken</th>
+                                                <th scope="row">Chicken</th>
                                                 <td>5 kg</td>
                                             </tr>
                                         </tbody>
@@ -247,19 +247,19 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <th scope="row">tako-herbal</th>
+                                                <th scope="row">Tako-herbal</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">cheese</th>
+                                                <th scope="row">Cheese</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">ketchep</th>
+                                                <th scope="row">Ketchup</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">chicken</th>
+                                                <th scope="row">Chicken</th>
                                                 <td>5 kg</td>
                                             </tr>
                                         </tbody>
@@ -285,19 +285,19 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <th scope="row">tako-herbal</th>
+                                                <th scope="row">Tako-herbal</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">cheese</th>
+                                                <th scope="row">Cheese</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">ketchep</th>
+                                                <th scope="row">Ketchup</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">chicken</th>
+                                                <th scope="row">Chicken</th>
                                                 <td>5 kg</td>
                                             </tr>
                                         </tbody>
@@ -323,19 +323,19 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <th scope="row">tako-herbal</th>
+                                                <th scope="row">Tako-herbal</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">cheese</th>
+                                                <th scope="row">Cheese</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">ketchep</th>
+                                                <th scope="row">Ketchup</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">chicken</th>
+                                                <th scope="row">Chicken</th>
                                                 <td>5 kg</td>
                                             </tr>
                                         </tbody>
@@ -361,19 +361,19 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <th scope="row">tako-herbal</th>
+                                                <th scope="row">Tako-herbal</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">cheese</th>
+                                                <th scope="row">Cheese</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">ketchep</th>
+                                                <th scope="row">Ketchup</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">chicken</th>
+                                                <th scope="row">Chicken</th>
                                                 <td>5 kg</td>
                                             </tr>
                                         </tbody>
@@ -399,19 +399,19 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <th scope="row">tako-herbal</th>
+                                                <th scope="row">Tako-herbal</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">cheese</th>
+                                                <th scope="row">Cheese</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">ketchep</th>
+                                                <th scope="row">Ketchup</th>
                                                 <td>5 kg</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">chicken</th>
+                                                <th scope="row">Chicken</th>
                                                 <td>5 kg</td>
                                             </tr>
                                         </tbody>

@@ -2959,6 +2959,9 @@ input[type=checkbox], input[type=radio] {
 .bg-purple{
   background-color: #82124d!important;
 }
+.text-purple{
+  color: #82124d!important;
+}
 .table-striped thead tr{
   background-color: #3d000a;
 }

@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="Explore Hygiene products like Vinyl Gloves Powdered,Vinyl Gloves Powder-Free,Latex Gloves,HDPE Gloves,Face Mask,APRON.">
+    <meta name="description" content="Explore Hygiene products like Vinyl Gloves Powdered,Vinyl Gloves Powder Free,Latex Gloves,HDPE Gloves,Face Mask,APRON.">
 
     <title>Hygiene Products - Kingpack Group | Packing with passion</title>
 
@@ -25,7 +25,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h1 class="text-white py-100">VINYL GLOVES POWDERD | VINYL GLOVES POWDER -FREE | LATEX GLOVES |
+                        <h1 class="text-white py-100">VINYL GLOVES POWDERED | VINYL GLOVES POWDER FREE | LATEX GLOVES |
                             HDPE GLOVES | FACE MASK | HAIRNET CAP | APRON</h1>
                     </div>
                 </div>
@@ -74,25 +74,25 @@
                                         <tbody>
                                             <tr>
                                                 <th scope="row">VGPDS</th>
-                                                <td>VINYL GLOVES POWDERD </td>
+                                                <td>VINYL GLOVES POWDERED </td>
                                                 <td>Small</td>
                                                 <td>100 PCS X10 PKT</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">VGPDM</th>
-                                                <td>VINYL GLOVES POWDERD </td>
+                                                <td>VINYL GLOVES POWDERED </td>
                                                 <td>MEDIUM</td>
                                                 <td>100 PCS X10 PKT</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">VGPDL</th>
-                                                <td>VINYL GLOVES POWDERD </td>
+                                                <td>VINYL GLOVES POWDERED </td>
                                                 <td>LARGE</td>
                                                 <td>100 PCS X10 PKT</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">VGPDXL</th>
-                                                <td>VINYL GLOVES POWDERD </td>
+                                                <td>VINYL GLOVES POWDERED </td>
                                                 <td>X-LARGE</td>
                                                 <td>100 PCS X10 PKT</td>
                                             </tr>

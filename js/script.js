@@ -33,6 +33,17 @@
 	});
 	$('.hero-slider').slickAnimation();
 
+	$('.autoplay').slick({
+		autoplay: true,
+		infinite: true,
+		arrows: true,
+		dots: true,
+		autoplaySpeed: 7000,
+		pauseOnFocus: false,
+		pauseOnHover: false
+	});
+	$('.autoplay').slickAnimation();
+
 	$('.food-item-slider').slick({
 		autoplay: true,
 		infinite: true,

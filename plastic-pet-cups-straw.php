@@ -77,37 +77,37 @@
                                         <tbody>
                                             <tr>
                                                 <th scope="row">PET8</th>
-                                                <td>CLEAR TUMBER 8oz - PET</td>
+                                                <td>CLEAR TUMBLER 8oz - PET</td>
                                                 <td>50PCS X 20PKT</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">PET10</th>
-                                                <td>CLEAR TUMBER 10oz - PET </td>
+                                                <td>CLEAR TUMBLER 10oz - PET </td>
                                                 <td>50PCS X 20PKT</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">PET12</th>
-                                                <td>CLEAR TUMBER 12oz - PET </td>
+                                                <td>CLEAR TUMBLER 12oz - PET </td>
                                                 <td>50PCS X 20PKT</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">PET14</th>
-                                                <td>CLEAR TUMBER 14oz - PET </td>
+                                                <td>CLEAR TUMBLER 14oz - PET </td>
                                                 <td>50PCS X 20PKT</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">PET16</th>
-                                                <td>CLEAR TUMBER 16oz - PET</td>
+                                                <td>CLEAR TUMBLER 16oz - PET</td>
                                                 <td>50PCS X 20PKT</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">PET20</th>
-                                                <td>CLEAR TUMBER 20oz - PET</td>
+                                                <td>CLEAR TUMBLER 20oz - PET</td>
                                                 <td>50PCS X 20PKT</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">PET24</th>
-                                                <td>CLEAR TUMBER 24oz - PET</td>
+                                                <td>CLEAR TUMBLER 24oz - PET</td>
                                                 <td>50PCS X 20PKT</td>
                                             </tr>
                                         </tbody>
@@ -219,7 +219,7 @@
                                             </tr>
                                             <tr>
                                                 <th scope="row">FLXW6</th>
-                                                <td>6MM PAPER WRAPID STRAW</td>
+                                                <td>6MM PAPER WRAPPED STRAW</td>
                                                 <td>500PCS X 20PKT</td>
                                             </tr>
                                             <tr>

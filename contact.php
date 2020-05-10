@@ -82,7 +82,7 @@
                     </div>
 
                     <div class="col-lg-8">
-                        <h3 class="mt-4 mt-lg-0 mb-3">We Also Count In Google Map</h3>
+                        <h3 class="mt-4 mt-lg-0 mb-3">You can Find us on Google Map</h3>
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3581.7032893443006!2d50.59936641440215!3d26.141215683465855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49ab8b89d1dea9%3A0x5cde0b90d89827ea!2sKingpack+Trading!5e0!3m2!1sen!2sin!4v1554019127075!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
@@ -222,9 +222,6 @@
 
                             <img class="img-fluid w-100" src="images/contacts/van-sales-map.jpg" alt="">
 
-                            <div class="post-content post-excerpt mb-5 mt-4">
-                                <p>*Delivery to Restaurants & Cafeteria only</p>
-                            </div>
                         </div>
                     </div>
                 </div>

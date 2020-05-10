@@ -74,7 +74,7 @@
                     <tbody>                     
                       <tr>
                         <th scope="row">4 OZ ICEC</th>
-                        <td>4 OZ (120 ML) PAPR ICE CREAM CUP</td>
+                        <td>4 OZ (120 ML) PAPER ICE CREAM CUP</td>
                         <td>1000 Pcs</td>
                       </tr>
                       <tr>
@@ -89,7 +89,7 @@
                       </tr>
                       <tr>
                         <th scope="row">12 OZ ICEC</th>
-                        <td>12 OZ (360 ML) PAPER ICE CREAMM CUP + LID</td>
+                        <td>12 OZ (360 ML) PAPER ICE CREAM CUP + LID</td>
                         <td>1000 Pcs</td>
                       </tr>
                       <tr>
@@ -122,7 +122,7 @@
                     <tbody>
                       <tr>
                         <th scope="row">4 OZ ICECW</th>
-                        <td>4 OZ (120 ML) PAPR ICE CREAM CUP</td>
+                        <td>4 OZ (120 ML) PAPER ICE CREAM CUP</td>
                         <td>1000 Pcs</td>
                       </tr>
                       <tr>
@@ -137,7 +137,7 @@
                       </tr>
                       <tr>
                         <th scope="row">12 OZ ICECW</th>
-                        <td>12 OZ (360 ML) PAPER ICE CREAMM CUP + LID</td>
+                        <td>12 OZ (360 ML) PAPER ICE CREAM CUP + LID</td>
                         <td>1000 Pcs</td>
                       </tr>
                       <tr>

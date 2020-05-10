@@ -5,7 +5,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="description" content="Eden Travel Template">
 
-  <meta name="author" content="Choose paper products PAPER BAGS, PAPER PLATES, SANDWICH PAPER, DOILLY PAPER, FRENCH FRIES,
+  <meta name="author" content="Choose paper products PAPER BAGS, PAPER PLATES, SANDWICH PAPER, DOILY PAPER, FRENCH FRIES,
               JUICE CARRIER, PIZZA BOX, CAKE BOX">
 
   <title>Other Paper Products - Kingpack Group</title>
@@ -28,7 +28,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h1 class="text-white py-100">PAPER BAGS | PAPER PLATES | SANDWICH PAPER | DOILLY PAPER | FRENCH FRIES |
+            <h1 class="text-white py-100">PAPER BAGS | PAPER PLATES | SANDWICH PAPER | DOILY PAPER | FRENCH FRIES |
               JUICE CARRIER | PIZZA BOX | CAKE BOX </h1>
           </div>
         </div>
@@ -157,7 +157,7 @@
                       </tr>
                       <tr>
                         <th scope="row">GRCPRF72X50</th>
-                        <td>GRACE PROOF PAPER 72 CM X 50 CM</td>
+                        <td>GREASE PROOF PAPER 72 CM X 50 CM</td>
                         <td>500 Pcs</td>
                       </tr>
                     </tbody>
@@ -184,7 +184,7 @@
                     <tbody>
                       <tr>
                         <th scope="row">DLYP3.5R</th>
-                        <td>DOILLY PAPER ROUND 3.5" ,4'',4.5'',5.5'',6.5'',7.5'', 8.5'',9.5'',10.5'',14.5''</td>
+                        <td>DOILY PAPER ROUND 3.5" ,4'',4.5'',5.5'',6.5'',7.5'', 8.5'',9.5'',10.5'',14.5''</td>
                         <td>250PCS X 8 PKT</td>
                       </tr>
                       <tr>
@@ -194,12 +194,12 @@
                       </tr>
                       <tr>
                         <th scope="row">DLYP8.5X12OW</th>
-                        <td>DOILLY PAPER 8.5" X12" OWEL SHAPE</td>
+                        <td>DOILY PAPER 8.5" X12" OWEL SHAPE</td>
                         <td>250PCS X 8 PKT</td>
                       </tr>
                       <tr>
                         <th scope="row">DLYP10.5X14OW</th>
-                        <td>DOILLY PAPER 10.5" X 14" OWEL </td>
+                        <td>DOILY PAPER 10.5" X 14" OWEL </td>
                         <td>250PCS X 4 PKT</td>
                       </tr>
                     </tbody>
@@ -236,7 +236,7 @@
                       </tr>
                       <tr>
                         <th scope="row">12 OZFRCUP</th>
-                        <td>12 OZ FRENCH FREIS POUCH CUPCO</td>
+                        <td>12 OZ FRENCH FRIES POUCH CUPCO</td>
                         <td>1000 PCS</td>
                       </tr>
                       <tr>

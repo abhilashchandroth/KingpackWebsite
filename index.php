@@ -31,7 +31,7 @@
 				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner.jpg)no-repeat center;background-size: contain; ">
 					<div class="container">
 						<div class="row justify-content-center">
-							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
+							<div class="col-lg-8 text-center" data-duration-in=".1" data-animation-in="fadeInDown" data-delay-in=".05">
 								<h1 class="mb-3 text-capitalize"></h1>
 								<p class="mb-5"></p>
 								<!-- <a href="products.php" class="explore explore-main" data-duration-in=".3" data-animation-in="zoomIn" data-delay-in=".4">Explore now</a> -->
@@ -50,7 +50,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner4.jpg); ">
+				<!-- <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner4.jpg); ">
 					<div class="container">
 						<div class="row justify-content-center">
 							<div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
@@ -60,7 +60,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 				<div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner2.jpg); ">
 					<div class="container">
 						<div class="row justify-content-center">
@@ -125,7 +125,8 @@
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
 							<p class="section-subtitle">Welcome To</p>
-							<h2 class="mb-3">Kingpack Website</h2>
+							<h2 class="mb-3">Kingpack</h2>
+							<h6 class="mb-3">---Packing with passion---</h6>
 							<p class="mb-4">Kingpack trading was established in the Kingdom of Bahrain in 2013 as a company involved
 								in marketing and distribution of consumable disposables and gradable food packaging products. The company
 								has been growing steadily due to its professionalism and its commitment towards its clients.
@@ -169,8 +170,7 @@
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-8 text-center">
-						<div class="section-title">
-							<p class="section-subtitle">Luxurious</p>
+						<div class="section-title">							
 							<h2 class="mb-3">Featured Products</h2>
 							<p class="mb-4">See some of the featured products from our wide range of categories.</p>
 							<span class="section-border"></span>
@@ -272,8 +272,8 @@
 							<img src="images/products/hygiene.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
 								<h6 class="headline">
-									<a href="" title="Hygiene Products">
-										<p>Hygiene Products</p>
+									<a href="hygiene-products.php" title="Hygiene Products">
+										<p>Hygiene & Cleaning Products</p>
 									</a>
 								</h6>
 								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="hygiene-products.php" role="button">Explore</a></div>
@@ -283,57 +283,34 @@
 				</div>
 			</div>
 		</section>
-		<section class="testimonial position-relative section">
-			<div class="container">
-				<div class="row align-items-center">
-					<div class="col-lg-5">
-						<div class="section-title ">							
-							<h2 class="mb-4 text-left">Our Clients</h2>
-							<span class="section-border m-0 mt-4"></span>
-						</div>
-					</div>
+		<section class="testimonial">
+		<!-- <div class="autoplay">
 
-					<div class="col-lg-7">
-						<div class="testimonial-carousel p-4">
-							<div>
-								<i class="ion-quote text-color mb-3 d-block"></i>
-								<p class="mb-4">"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
-								<div class="user d-flex">
-									<img src="images/avater.jpg" alt="" class="img-fluid  rounded-circle mr-3">
-									<p class="pb-0 mt-2">Rose Ray <span class="d-block">CEO-Themefisher</span></p>
-								</div>
-							</div>
-
-							<div>
-								<i class="ion-quote text-color mb-3 d-block"></i>
-								<p class="mb-4">"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
-								<div class="user d-flex">
-									<img src="images/avater.jpg" alt="" class="img-fluid  rounded-circle mr-3">
-									<p class="pb-0 mt-2">Rose Ray <span class="d-block">CEO-Themefisher</span></p>
-								</div>
-							</div>
-
-							<div>
-								<i class="ion-quote text-color mb-3 d-block"></i>
-								<p class="mb-4">"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
-								<div class="user d-flex">
-									<img src="images/avater.jpg" alt="" class="img-fluid  rounded-circle mr-3">
-									<p class="pb-0 mt-2">Rose Ray <span class="d-block">CEO-Themefisher</span></p>
-								</div>
-							</div>
-
-							<div>
-								<i class="ion-quote text-color mb-3 d-block"></i>
-								<p class="mb-4">"This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."</p>
-								<div class="user d-flex">
-									<img src="images/avater.jpg" alt="" class="img-fluid rounded-circle mr-3">
-									<p class="pb-0 mt-2">Rose Ray <span class="d-block">CEO-Themefisher</span></p>
-								</div>
-							</div>
-						</div>
-					</div>
+				<div class="col-lg-3 col-12 col-md-6 col-sm-12">
+				<img class="text-color" src="images/about/king-karak.png" />
 				</div>
-			</div>
+				<div class="col-lg-3 col-12 col-md-6 col-sm-12">
+				<img class="text-color" src="images/about/kingpack-food.png" />
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-12">
+				<img class="text-color" src="images/about/kiwi-garden.png" />
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-12">
+				<img class="text-color" src="images/about/burger-garden.png" />
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-12">
+				<img class="text-color" src="images/about/waad-cateria.png" />
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-12">
+				<img class="text-color" src="images/about/waad-market.png" />
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-12">
+				<img class="text-color" src="images/about/waad-fruits.png" />
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-12">
+				<img class="text-color" src="images/about/kims.png" />
+				</div>
+			</div> -->
 		</section>
 		<!-- <section class="blog section">
 			<div class="container">

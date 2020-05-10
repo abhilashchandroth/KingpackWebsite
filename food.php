@@ -89,7 +89,7 @@
     <section>
       <div class="hero-slider">
         <!-- slider item -->
-        <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/banner14.jpg)no-repeat center;background-size: contain; ">
+        <div class="hero-slider-item bg-cover hero-section" style="background: url(images/slider/bg-11.jpg)no-repeat center;background-size: contain; ">
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-lg-8 text-center" data-duration-in=".3" data-animation-in="fadeInDown" data-delay-in=".1">
