@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="CUTLERY-WHITE-NORMAL, TEA SPOON, ICE CREAM SPOON ,
-                            CUTLERY-CLEAR-NORMAL, CUTLERY-CLEAR- HEAVY DUTY, CUTLERY- SET - WHITE &BLACK">
+                            CUTLERY-CLEAR-NORMAL, CUTLERY-CLEAR- HEAVY DUTY, CUTLERY- SET - WHITE & BLACK">
 
     <title>Plastic Cutlery - Kingpack Group | Packing with passion</title>
 
@@ -27,7 +27,7 @@
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h1 class="text-white py-100">CUTLERY-WHITE-NORMAL | TEA SPOON | ICE CREAM SPOON |
-                            CUTLERY-CLEAR-NORMAL | CUTLERY-CLEAR- HEAVY DUTY | CUTLERY- SET - WHITE &BLACK</h1>
+                            CUTLERY-CLEAR-NORMAL | CUTLERY-CLEAR- HEAVY DUTY | CUTLERY- SET - WHITE & BLACK</h1>
                     </div>
                 </div>
             </div>

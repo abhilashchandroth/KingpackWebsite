@@ -75,7 +75,7 @@
                                             <tr>
                                                 <th scope="row">VGPDS</th>
                                                 <td>VINYL GLOVES POWDERED </td>
-                                                <td>Small</td>
+                                                <td>SMALL</td>
                                                 <td>100 PCS X10 PKT</td>
                                             </tr>
                                             <tr>
@@ -124,7 +124,7 @@
                                             <tr>
                                                 <th scope="row">VGPFS</th>
                                                 <td>VINYL GLOVES POWDER -FREE</td>
-                                                <td>Small</td>
+                                                <td>SMALL</td>
                                                 <td>100 PCS X10 PKT</td>
                                             </tr>
                                             <tr>
@@ -172,7 +172,7 @@
                                             <tr>
                                                 <th scope="row">LTXS</th>
                                                 <td>LATEX GLOVES</td>
-                                                <td>Small</td>
+                                                <td>SMALL</td>
                                                 <td>100 PCS X10 PKT</td>
                                             </tr>
                                             <tr>

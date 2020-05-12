@@ -123,7 +123,7 @@
                         <td>5 PCS</td>
                       </tr>
                       <tr>
-                        <td>1074 SQR CONTAINER + LID 3DIVISION </td>
+                        <td>1074 SQR CONTAINER + LID 3 DIVISION </td>
                         <td>5 PCS</td>
                       </tr>
                       <tr>
@@ -313,7 +313,7 @@
                         <td>5 PCS</td>
                       </tr>
                       <tr>
-                        <td>9333 - 39 OZ 3DIVISION ROUND BLACK BASE +LID</td>
+                        <td>9333 - 39 OZ 3 DIVISION ROUND BLACK BASE +LID</td>
                         <td>5 PCS</td>
                       </tr>
                       <tr>
@@ -478,7 +478,7 @@
                         <td>10 PCS</td>
                       </tr>
                       <tr>
-                        <td>M/WAV CONT RECT1000ML + LID</td>
+                        <td>M/WAV CONT RECT 1000ML + LID</td>
                         <td>10 PCS</td>
                       </tr>
                     </tbody>
@@ -808,7 +808,7 @@
                         <td>50 PCS</td>
                       </tr>
                       <tr>
-                        <td>G4 PAPER BAGE WHITE </td>
+                        <td>G4 PAPER BAG WHITE </td>
                         <td>30 PCS</td>
                       </tr>
                       <tr>

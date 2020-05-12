@@ -146,7 +146,7 @@
                                             </tr>
                                             <tr>
                                                 <th scope="row">AFLW37.5</th>
-                                                <td>ALUMINIUM FOIL LEWRAP 45 X 37.5</td>
+                                                <td>ALUMINIUM FOIL LE WRAP 45 X 37.5</td>
                                                 <td>24 ROLL</td>
                                             </tr>
                                             <tr>

@@ -101,7 +101,7 @@
                                         <h4 class="media-heading"><a href="#"><i class="fas fa-truck text-color mr-4"></i>Van A<br>
                                                 <i class="ion-ios-telephone-outline text-color mr-4"></i>34577296</h4>
                                         </a></h4>
-                                        <div class="post-meta" title="MANAMA, GUDAIBIYA, SALMANIYA, HOORA, EXIBITION ROAD, RASSALMAN, KARBABAD, ADLIYA, MUHARRAQ, HALA, CASINO, MUHARRAQ/SOUQ">
+                                        <div class="post-meta" title="MANAMA, GUDAIBIYA, SALMANIYA, HOORA, EXHIBITION ROAD, RASSALMAN, KARBABAD, ADLIYA, MUHARRAQ, HALA, CASINO, MUHARRAQ/SOUQ">
                                             <i class="ion-ios-location text-color mr-4"></i>MANAMA, GUDAIBIYA ...
                                         </div>
                                     </div>

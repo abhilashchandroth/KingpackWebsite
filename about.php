@@ -62,7 +62,7 @@
                                 In Kingpack, customer satisfaction is given the utmost priority and we always strive to
                                 cater to their specific needs without compromising on quality.
                                 In Kingpack, employees are regarded as a valuable asset and we provide them with a
-                                positive conducive work atmosphere leading to better productivity.Here , at Kingpack we
+                                positive conducive work atmosphere leading to better productivity.Here, at Kingpack we
                                 work with sincerity and dedication to achieve our common goals for a better and brighter
                                 future.</p>
                             </p>
@@ -180,7 +180,7 @@
                             <img class="text-color" src="images/about/kiwi-garden.png" />
                             <h3 class="my-3">Kiwi Garden</h3>
                             <p class="mb-3 strong">"Freshness at it's best"</p>
-                            <p>We cater fresh fruit juices, exotic cocktails , sorbets, etc. We have 5 branches at
+                            <p>We cater fresh fruit juices, exotic cocktails, sorbets, etc. We have 5 branches at
                                 various locations across Bahrain.
                                 <br><br><br><br><br><br>
                             </p>

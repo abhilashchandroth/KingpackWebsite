@@ -109,7 +109,7 @@
                       </tr>
                       <tr>
                         <th scope="row">9333</th>
-                        <td>9333 - 39 OZ 3DIVISION ROUND BLACK BASE + LID</td>
+                        <td>9333 - 39 OZ 3 DIVISION ROUND BLACK BASE + LID</td>
                         <td>150 Pcs</td>
                       </tr>
                       <tr>

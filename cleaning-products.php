@@ -172,12 +172,12 @@
                                             </tr>
                                             <tr>
                                                 <th scope="row">PD4</th>
-                                                <td>PINE DISINFECTANT </td>
+                                                <td>PINE DISINFECTANT</td>
                                                 <td>4 LTR</td>
                                             </tr>
                                             <tr>
                                                 <th scope="row">RD556</th>
-                                                <td>ROSE DISINFECTANT  #556</td>
+                                                <td>ROSE DISINFECTANT</td>
                                                 <td>4 LTR</td>
                                             </tr>
                                             <tr>

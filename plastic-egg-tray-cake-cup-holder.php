@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="description" content="EGG TRAY CLEAR | CAKE CONTAINER | CAKE CONTAINER |
+    <meta name="description" content="EGG TRAY CLEAR | CAKE CONTAINER |
                             CUP HOLER - PLASTIC | CLEAR TAP">
 
     <title>Plastic Egg Tray, Cake Cup, Cup Holder - Kingpack Group | Packing with passion</title>

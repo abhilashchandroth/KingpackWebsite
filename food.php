@@ -149,7 +149,7 @@
                 <p class="mb-4">As part of the business expansion and diversification of the KingPack conglomerate, we
                   started our new FMCG venture, called KINGPACK FOOD. Our services involve distribution of diverse food
                   products to hotels, cafeterias and Karak shops (HORECA).
-                  We have also launched our own custom made tea powder under the brand name "FINE TEA ".It is a
+                  We have also launched our own custom made tea powder under the brand name "FINE TEA ". It is a
                   specially blended tea powder provided to all Karak shops.
                   In 2019, we took up exclusive franchisee and distribution rights of the products Dry Cake and Monin.
                 </p>

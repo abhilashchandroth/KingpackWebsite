@@ -226,7 +226,7 @@
                                             </tr>
                                             <tr>
                                                 <th scope="row">7PLT3DVN</th>
-                                                <td>7" (#18) 3DIVISION PLATE</td>
+                                                <td>7" (#18) 3 DIVISION PLATE</td>
                                                 <td>50PCS X 10PKT</td>
                                             </tr>
                                             <tr>

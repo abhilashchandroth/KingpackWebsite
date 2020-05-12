@@ -94,7 +94,7 @@
                       </tr>
                       <tr>
                         <th scope="row">7 OZ KPWOH</th>
-                        <td>7OZ WITH OUT HANDLE</td>
+                        <td>7OZ WITHOUT HANDLE</td>
                         <td>50PCS X20PKT</td>
                       </tr>
                       <tr>

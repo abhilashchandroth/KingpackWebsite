@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="GARBAGE BAGS, TABLE SHEETS /SUFRA, HD WHITE, LD CLOUR, FANCY
-                            BAG, U T BAGS, VEGITABLE BAGS ON ROLL">
+                            BAG, U T BAGS, VEGETABLE BAGS ON ROLL">
 
     <title>Plastic bags, Veg Rolls - Kingpack Group | Packing with passion</title>
 
@@ -27,7 +27,7 @@
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h1 class="text-white py-100">GARBAGE BAGS | TABLE SHEETS /SUFRA | HD WHITE | LD CLOUR | FANCY
-                            BAG | U T BAGS | VEGITABLE BAGS ON ROLL</h1>
+                            BAG | U T BAGS | VEGETABLE BAGS ON ROLL</h1>
                     </div>
                 </div>
             </div>
@@ -59,8 +59,8 @@
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
-                                    <h6>Garage Bags</h6>
-                                    <a href="images/products/plastic-bags/garbage-bags.jpg" title="Garage Bags">
+                                    <h6>Garbage Bags</h6>
+                                    <a href="images/products/plastic-bags/garbage-bags.jpg" title="Garbage Bags">
                                         <img src="images/products/plastic-bags/garbage-bags.jpg" alt="" class="img-fluid" />
                                     </a>
                                 </div>
@@ -100,9 +100,9 @@
                             <br />
                             <div class="row product-desc">
                                 <div class="col-md-4 col-lg-4 gallery-item">
-                                    <h6>Table Sheets/Surfa</h6>
+                                    <h6>Table Sheets/Sufra</h6>
                                     <a href="images/products/plastic-bags/table-sheets.jpg"
-                                        title="Table Sheets/Surfa">
+                                        title="Table Sheets/Sufra">
                                         <img src="images/products/plastic-bags/table-sheets.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
@@ -117,15 +117,15 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td>SUPRA ROLL KP ( 5 IN 1 )</td>
+                                                <td>SUFRA ROLL KP ( 5 IN 1 )</td>
                                                 <td>15SHEET X 5ROLL</td>
                                             </tr>
                                             <tr>
-                                                <td>SUPRA ROLL KP</td>
+                                                <td>SUFRA ROLL KP</td>
                                                 <td>30SHEET X 10ROLL</td>
                                             </tr>
                                             <tr>
-                                                <td>4 KG SUPRA ROLL KP</td>
+                                                <td>4 KG SUFRA ROLL KP</td>
                                                 <td>1 ROLL</td>
                                             </tr>
                                         </tbody>
@@ -152,11 +152,11 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td>LD COLOR SMALL,MEDIUM, LARGE & XL</td>
+                                                <td>LD COLOR SMALL, MEDIUM, LARGE & XL</td>
                                                 <td>15KG</td>
                                             </tr>
                                             <tr>
-                                                <td>HD WHITE BAG SMALL,MEDIUM , LARGE & XL</td>
+                                                <td>HD WHITE BAG SMALL, MEDIUM , LARGE & XL</td>
                                                 <td>15KG</td>
                                             </tr>
                                             <tr>
@@ -164,7 +164,7 @@
                                                 <td>15KG</td>
                                             </tr>
                                             <tr>
-                                                <td>FANCY BAG SMALL,MDM,LARGE,X-L</td>
+                                                <td>FANCY BAG SMALL, MEDIUM, LARGE, X-L</td>
                                                 <td>100PCS X10PKT</td>
                                             </tr>
                                         </tbody>
@@ -241,11 +241,11 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td>VEGITABLE ROLL -CLEAR-SMKY</td>
+                                                <td>VEGETABLE ROLL -CLEAR-SMKY</td>
                                                 <td>6 KG</td>
                                             </tr>
                                             <tr>
-                                                <td>VEGITABLE ROLL -CLEAR</td>
+                                                <td>VEGETABLE ROLL -CLEAR</td>
                                                 <td>7 KG </td>
                                             </tr>
                                         </tbody>

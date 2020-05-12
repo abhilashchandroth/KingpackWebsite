@@ -238,7 +238,7 @@
                                         <tbody>
                                             <tr>
                                                 <th scope="row">HSCC</th>
-                                                <td>HINGID SALAD CONTAINER CLEAR WITH FORK</td>
+                                                <td>HINGED SALAD CONTAINER CLEAR WITH FORK</td>
                                                 <td>1 X 150PCS</td>
                                             </tr>
                                             <tr>
@@ -277,7 +277,7 @@
                                         <tbody>
                                             <tr>
                                                 <th scope="row">1HC</th>
-                                                <td>OPL CLEAR 1 H ,2-H, 3-H,5-H,6-H</td>
+                                                <td>OPL CLEAR 1-H ,2-H, 3-H,5-H,6-H</td>
                                                 <td>2000 PCS</td>
                                             </tr>
                                             <tr>

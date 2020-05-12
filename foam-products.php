@@ -134,7 +134,7 @@
                               </tr>
                               <tr>
                                 <th scope="row">9PLTSPK</th>
-                                <td>9 "FOAM PLATE S-PACK</td>
+                                <td>9" FOAM PLATE S-PACK</td>
                                 <td>1 X 500PCS</td>      
                               </tr>
                               <tr>
@@ -194,7 +194,7 @@
                               </tr>
                               <tr>
                                 <th scope="row">10PLT3D</th>
-                                <td>10" 3DIVISION FOAM PLATE</td>
+                                <td>10" 3 DIVISION FOAM PLATE</td>
                                 <td>250 PCS</td>      
                               </tr>                             
                             </tbody>
