@@ -18,7 +18,7 @@
     <!-- Header Close -->
 
     <div class="main-wrapper ">
-        <section class="overly " style="background: url(images/backgrounds/contact/bg1.jpg) no-repeat fixed center;background-size: contain;">
+        <section class="overly " style="background: url(images/backgrounds/reach-us/bg1.jpg) no-repeat fixed center;background-size: contain;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
