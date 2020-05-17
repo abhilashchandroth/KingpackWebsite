@@ -31,7 +31,7 @@
     
         <nav class="navbar navbar-expand-lg bg-white w-100 p-0" id="navbar">
             <div class="container">
-              <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="Eden" class="img-fluid"></a>
+              <a class="navbar-brand" href="index"><img src="images/logo.png" alt="Eden" class="img-fluid"></a>
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample09" aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="fa fa-bars"></span>
               </button>

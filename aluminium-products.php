@@ -33,9 +33,9 @@
         <div class="row ">
           <div class="col-lg-12 text-center">
             <div class="page-breadcumb py-2">
-              <a href="index.php" class="text-blue h6">Home</a>
+              <a href="index" class="text-blue h6">Home</a>
               <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
-              <a href="products.php" class="text-blue h6">Products</a>
+              <a href="products" class="text-blue h6">Products</a>
               <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
               <a href="#" class="text-white h6">Aluminium Products</a>
             </div>
@@ -56,11 +56,11 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/aluminium-products/cling-film.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                    <h6 class="headline"><a href="aluminium-foil-cling-film.php" data-toggle="tooltip" data-placement="top" title="Plastic Cups| Pet Cups">
+                    <h6 class="headline"><a href="aluminium-foil-cling-film" data-toggle="tooltip" data-placement="top" title="Plastic Cups| Pet Cups">
                         <p>ALUMINIUM FOIL | CLING FILM </p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="aluminium-foil-cling-film.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="aluminium-foil-cling-film"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>
@@ -69,11 +69,11 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/aluminium-products/alu-container.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                    <h6 class="headline"><a href="aluminium-containers.php" data-toggle="tooltip" data-placement="top" title="Plastic Tubs | Plates">
+                    <h6 class="headline"><a href="aluminium-containers" data-toggle="tooltip" data-placement="top" title="Plastic Tubs | Plates">
                         <p>ALUMINIUM CONTAINER - SQUARE | ROUND</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="aluminium-containers.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="aluminium-containers"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>
@@ -83,11 +83,11 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/aluminium-products/alu-platter.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                    <h6 class="headline"><a href="aluminium-wrap-platter-pot.php" data-toggle="tooltip" data-placement="top" title="Spoon | Cutlery">
+                    <h6 class="headline"><a href="aluminium-wrap-platter-pot" data-toggle="tooltip" data-placement="top" title="Spoon | Cutlery">
                         <p>BURGER FOIL WRAP | ALUMINIUM PLATTER | ALUMINIUM POT</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="aluminium-wrap-platter-pot.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="aluminium-wrap-platter-pot"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>

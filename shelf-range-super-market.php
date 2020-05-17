@@ -36,9 +36,9 @@
         <div class="row ">
           <div class="col-lg-12 text-center">
             <div class="page-breadcumb py-2">
-              <a href="index.php" class="text-blue h6">Home</a>
+              <a href="index" class="text-blue h6">Home</a>
               <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
-              <a href="products.php" class="text-blue h6">Products</a>
+              <a href="products" class="text-blue h6">Products</a>
               <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
               <a href="#" class="text-white h6">Shelf Range | Super Market</a>
             </div>

@@ -157,7 +157,7 @@
                             <p class="mb-3 strong">"The original Karak taste of Bahrain"</p>
                             <p>We have 54 King Karak tea outlets all across Bahrain and we are continually expanding
                                 into new territories and more branches. We also have international KING KARAK branches
-                                in Dubai , Kuwait and Qatar.
+                                in Dubai, Kuwait and Qatar.
                             </p>
                         </div>
                     </div>
@@ -180,7 +180,7 @@
                             <img class="text-color" src="images/about/kiwi-garden.png" />
                             <h3 class="my-3">Kiwi Garden</h3>
                             <p class="mb-3 strong">"Freshness at it's best"</p>
-                            <p>We cater fresh fruit juices, exotic cocktails, sorbets, etc. We have 5 branches at
+                            <p>We cater fresh fruit juices, exotic cocktails, sorbets etc. We have 5 branches at
                                 various locations across Bahrain.
                                 <br><br><br><br><br><br>
                             </p>

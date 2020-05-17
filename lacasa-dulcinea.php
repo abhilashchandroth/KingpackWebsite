@@ -100,9 +100,9 @@
                 <div class="row ">
                     <div class="col-lg-12 text-center">
                         <div class="page-breadcumb py-2">
-                            <a href="index.php" class="text-blue h6">Home</a>
+                            <a href="index" class="text-blue h6">Home</a>
                             <span><i class="ion-arrow-right-b text-white mx-1" aria-hidden="true"></i></span>
-                            <a href="food.php" class="text-blue h6">Food</a>
+                            <a href="food" class="text-blue h6">Food</a>
                             <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
                             <a href="#" class="text-white h6">Lacasa Dulcinea</a>
                         </div>

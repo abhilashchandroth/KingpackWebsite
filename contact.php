@@ -31,7 +31,7 @@
                 <div class="row ">
                     <div class="col-lg-12 text-center">
                         <div class="page-breadcumb py-2">
-                            <a href="indec.php" class="text-blue h6">Home</a>
+                            <a href="indec" class="text-blue h6">Home</a>
                             <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
                             <a href="#" class="text-white h6">Contact Us</a>
                         </div>
@@ -54,10 +54,10 @@
                                 <span style="padding-left: 48px;">Kingdom of Bahrin</span>
                             </li>
                             <li class="mb-2">
-                            <span><i class="ion-ios-email-outline text-color mr-4"></i>info@kingpackgroup.com</span>
+                            <span><i class="ion-ios-email-outline text-color mr-4"></i><a href="mailto:info@kingpackgroup.com">info@kingpackgroup.com</a></span>
                             </li>
                             <li class="mb-2">
-                                <span><i class="ion-ios-email-outline text-color mr-4"></i>sales@kingpackgroup.com</span>
+                                <span><i class="ion-ios-email-outline text-color mr-4"></i><a href="mailto:sales@kingpackgroup.com">sales@kingpackgroup.com</a></span>
                             </li>
                             <li class="mb-2">
                                 <span><i class="ion-android-phone-portrait text-color mr-4"></i>+973 345 12 123</span>

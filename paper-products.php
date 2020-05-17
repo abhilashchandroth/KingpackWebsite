@@ -33,9 +33,9 @@
         <div class="row ">
           <div class="col-lg-12 text-center">
             <div class="page-breadcumb py-2">
-              <a href="index.php" class="text-blue h6">Home</a>
+              <a href="index" class="text-blue h6">Home</a>
               <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
-              <a href="products.php" class="text-blue h6">Products</a>
+              <a href="products" class="text-blue h6">Products</a>
               <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
               <a href="#" class="text-white h6">Paper Products</a>
 
@@ -58,12 +58,12 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/paper-products/paper-cups.JPG" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                      <h6 class="headline"><a href="paper-cups.php" data-toggle="tooltip" data-placement="top"
+                      <h6 class="headline"><a href="paper-cups" data-toggle="tooltip" data-placement="top"
                           title="Paper cups">
                           <p>Paper cups</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="paper-cups.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="paper-cups"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>
@@ -72,11 +72,11 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/paper-products/ice-cream-cups.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                      <h6 class="headline"><a href="ice-cream-cups.php" title="Ice cream Cups">
+                      <h6 class="headline"><a href="ice-cream-cups" title="Ice cream Cups">
                           <p>Ice cream Cups</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="ice-cream-cups.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="ice-cream-cups"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>
@@ -85,11 +85,11 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/paper-products/bamboo-wooden.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                      <h6 class="headline"><a href="bamboo-wooden.php" title="Bamboo|Wooden Products">
+                      <h6 class="headline"><a href="bamboo-wooden" title="Bamboo|Wooden Products">
                           <p>Bamboo | Wooden Products</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="bamboo-wooden.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="bamboo-wooden"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>
@@ -99,11 +99,11 @@
                     <img src="images/products/paper-products/popcorn-cups.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline">
-                        <a href="pop-corn-cake-cups.php" title="Popcorn | Cake Cups">
+                        <a href="pop-corn-cake-cups" title="Popcorn | Cake Cups">
                           <p>Popcorn | Cake Cups</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="pop-corn-cake-cups.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="pop-corn-cake-cups"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>
@@ -113,12 +113,12 @@
                     <img src="images/products/paper-products/other-products.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline">
-                        <a href="other-paper-products.php" data-toggle="tooltip" data-placement="top" title="Other Products
+                        <a href="other-paper-products" data-toggle="tooltip" data-placement="top" title="Other Products
                           ">
                           <p>Other Products</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="other-paper-products.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="other-paper-products"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>

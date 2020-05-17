@@ -33,9 +33,9 @@
         <div class="row ">
           <div class="col-lg-12 text-center">
             <div class="page-breadcumb py-2">
-              <a href="index.php" class="text-blue h6">Home</a>
+              <a href="index" class="text-blue h6">Home</a>
               <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
-              <a href="products.php" class="text-blue h6">Products</a>
+              <a href="products" class="text-blue h6">Products</a>
               <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
               <a href="#" class="text-white h6">Plastic Products</a>
             </div>
@@ -56,11 +56,11 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/plastic-products/pet-cups.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                    <h6 class="headline"><a href="plastic-pet-cups-straw.php" data-toggle="tooltip" data-placement="top" title="Plastic Cups| Pet Cups">
+                    <h6 class="headline"><a href="plastic-pet-cups-straw" data-toggle="tooltip" data-placement="top" title="Plastic Cups| Pet Cups">
                         <p>Plastic Cups| Pet Cups | Straws</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-pet-cups-straw.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-pet-cups-straw"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>
@@ -69,11 +69,11 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/plastic-products/tub.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                    <h6 class="headline"><a href="plastic-tubs-trays-microwave.php" data-toggle="tooltip" data-placement="top" title="Plastic Tubs | Plates">
+                    <h6 class="headline"><a href="plastic-tubs-trays-microwave" data-toggle="tooltip" data-placement="top" title="Plastic Tubs | Plates">
                         <p>Plastic Tubs | Plates</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-tubs-trays-microwave.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-tubs-trays-microwave"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>
@@ -83,11 +83,11 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/plastic-products/plastic-cutlery.JPG" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                    <h6 class="headline"><a href="plastic-cutlery.php" data-toggle="tooltip" data-placement="top" title="Spoon | Cutlery">
+                    <h6 class="headline"><a href="plastic-cutlery" data-toggle="tooltip" data-placement="top" title="Spoon | Cutlery">
                         <p>Spoon | Cutlery</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-cutlery.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-cutlery"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>
@@ -97,11 +97,11 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/plastic-products/salad-container.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                    <h6 class="headline"><a href="plastic-salad-container.php" data-toggle="tooltip" data-placement="top" title="Salad Container|Clear Boxes">
+                    <h6 class="headline"><a href="plastic-salad-container" data-toggle="tooltip" data-placement="top" title="Salad Container|Clear Boxes">
                         <p>Salad Container|Clear Boxes</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-salad-container.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-salad-container"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>
@@ -110,11 +110,11 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/plastic-products/plastic-bags.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                    <h6 class="headline"><a href="plastic-bags-veg-rolls.php" data-toggle="tooltip" data-placement="top" title="Plastic Bags | Veg Roll">
+                    <h6 class="headline"><a href="plastic-bags-veg-rolls" data-toggle="tooltip" data-placement="top" title="Plastic Bags | Veg Roll">
                         <p>Plastic Bags | Veg Roll</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-bags-veg-rolls.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-bags-veg-rolls"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>
@@ -123,11 +123,11 @@
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
                     <img src="images/products/plastic-products/egg-container.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
-                    <h6 class="headline"><a href="plastic-egg-tray-cake-cup-holder.php" data-toggle="tooltip" data-placement="top" title="Plastic Egg Tray | Cake | Cup Holder">
+                    <h6 class="headline"><a href="plastic-egg-tray-cake-cup-holder" data-toggle="tooltip" data-placement="top" title="Plastic Egg Tray | Cake | Cup Holder">
                         <p>Plastic Egg Tray | Cake | Cup Holder</p>
                         </a>
                       </h6>
-                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-egg-tray-cake-cup-holder.php"
+                      <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-egg-tray-cake-cup-holder"
                           role="button">Explore</a></div>
                     </figcaption>
                   </figure>

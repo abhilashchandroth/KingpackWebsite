@@ -182,11 +182,11 @@
 						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
 							<img src="images/products/shelf-range.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
-								<h6 class="headline"><a href="shelf-range-super-market.php" data-toggle="tooltip" data-placement="top" title="Shelf Range | Super Market">
+								<h6 class="headline"><a href="shelf-range-super-market" data-toggle="tooltip" data-placement="top" title="Shelf Range | Super Market">
 										<p>Shelf Range | Super Market</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="shelf-range-super-market.php" role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="shelf-range-super-market" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -194,11 +194,11 @@
 						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
 							<img src="images/products/paper-products.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
-								<h6 class="headline"><a href="paper-products.php" title=">Paper Cups| Ice cream Cups| Bamboo| Wooden Products">
+								<h6 class="headline"><a href="paper-products" title=">Paper Cups| Ice cream Cups| Bamboo| Wooden Products">
 										<p>Paper Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="paper-products.php" role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="paper-products" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -206,11 +206,11 @@
 						<figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
 							<img src="images/products/tissue.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
-								<h6 class="headline"><a href="tissue-products.php" title="HAND TOWEL | NAPKIN | MAXI ROLL | TOILET ROLL | FACIAL TISSUE">
+								<h6 class="headline"><a href="tissue-products" title="HAND TOWEL | NAPKIN | MAXI ROLL | TOILET ROLL | FACIAL TISSUE">
 										<p>Tissue Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="tissue-products.php" role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="tissue-products" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -223,7 +223,7 @@
 										<p>Aluminium Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="aluminium-products.php" role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="aluminium-products" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -237,7 +237,7 @@
 										<p>Plastic Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-products.php" role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="plastic-products" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -246,11 +246,11 @@
 							<img src="images/products/black-base.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
 								<h6 class="headline">
-									<a href="black-base.php" title="BLACK BASE CONTAINERS| MICROWAVE RECT:CONTAINERS| SUSHI CONTAINERS| RED & BLACK CONTAINERS">
+									<a href="black-base" title="BLACK BASE CONTAINERS| MICROWAVE RECT:CONTAINERS| SUSHI CONTAINERS| RED & BLACK CONTAINERS">
 										<p>Black Base Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="black-base.php" role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="black-base" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -259,11 +259,11 @@
 							<img src="images/products/FOAM.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
 								<h6 class="headline">
-									<a href="foam-products.php" title="Foam Products">
+									<a href="foam-products" title="Foam Products">
 										<p>Foam Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="foam-products.php" role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="foam-products" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>
@@ -272,11 +272,11 @@
 							<img src="images/products/hygiene.jpg" alt="image" class="img-fluid w-100">
 							<figcaption class=" ">
 								<h6 class="headline">
-									<a href="hygiene-products.php" title="Hygiene Products">
+									<a href="hygiene-products" title="Hygiene Products">
 										<p>Hygiene & Cleaning Products</p>
 									</a>
 								</h6>
-								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="hygiene-products.php" role="button">Explore</a></div>
+								<div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="hygiene-products" role="button">Explore</a></div>
 							</figcaption>
 						</figure>
 					</div>

@@ -149,7 +149,7 @@
                 <p class="mb-4">As part of the business expansion and diversification of the KingPack conglomerate, we
                   started our new FMCG venture, called KINGPACK FOOD. Our services involve distribution of diverse food
                   products to hotels, cafeterias and Karak shops (HORECA).
-                  We have also launched our own custom made tea powder under the brand name "FINE TEA ". It is a
+                  We have also launched our own custom made tea powder under the brand name "FINE TEA". It is a
                   specially blended tea powder provided to all Karak shops.
                   In 2019, we took up exclusive franchisee and distribution rights of the products Dry Cake and Monin.
                 </p>
@@ -170,7 +170,7 @@
                 <h3>Samaver Tea</h3>
                 <p class="my-4">Explore more about this food item.</p>
                 <br>
-                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="samaver-tea.php"
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="samaver-tea"
                     role="button">Explore</a></div>
 
               </div>
@@ -191,7 +191,7 @@
                 <h3>Cipsas Nuts</h3>
                 <p class="my-4">Explore more about this food item.</p>
                 <br>
-                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="cipsas-nuts.php"
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="cipsas-nuts"
                     role="button">Explore</a></div>
               </div>
             </div>
@@ -299,7 +299,7 @@
                 <h3>Badam Drink</h3> 
                 <p class="my-4">Explore more about this food item.</p>
                 <br>
-                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="badam-drink.php"
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="badam-drink"
                     role="button">Explore</a></div>                               
               </div>
             </div>
@@ -315,7 +315,7 @@
                 <h3>Monin Syrup</h3>
                 <p class="my-4">Explore more about this food item.</p>
                 <br>
-                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="monin.php"
+                <div class="ed-member"><a class="btn btn-outline-primary btn-sm" href="monin"
                     role="button">Explore</a></div>                
               </div>
             </div>
