@@ -31,7 +31,7 @@
                 <div class="row ">
                     <div class="col-lg-12 text-center">
                         <div class="page-breadcumb py-2">
-                            <a href="indec" class="text-blue h6">Home</a>
+                            <a href="index" class="text-blue h6">Home</a>
                             <span><i class="ion-arrow-right-b text-white mx-1 h6" aria-hidden="true"></i></span>
                             <a href="#" class="text-white h6">Contact Us</a>
                         </div>
