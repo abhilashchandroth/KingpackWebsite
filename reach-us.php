@@ -49,9 +49,10 @@
                         <ul class="address-block mb-5 list-unstyled address-text">
                             <li class="mb-2">
                                 <span><i class="ion-ios-location-outline text-color mr-4"></i>Head Office</s><br>
-                                <span style="padding-left: 48px;">No.839, Road No.2617</span><br>
-                                <span style="padding-left: 48px;">No. 626, Al Akar Al Gharab</span><br>
-                                <span style="padding-left: 48px;">Kingdom of Bahrin</span>
+                                <span style="padding-left: 48px;">Building No. 975, Road No. 5218</span><br>
+                                <span style="padding-left: 48px;">Block No. 952</span><br>
+                                <span style="padding-left: 48px;">Ras Zuwayed(ALBA AREA)</span><br>
+                                <span style="padding-left: 48px;">Kingdom of Bahrain</span>
                             </li>
                             <li class="mb-2">
                             <span><i class="ion-ios-email-outline text-color mr-4"></i><a href="mailto:info@kingpackgroup.com">info@kingpackgroup.com</a></span>
@@ -83,7 +84,7 @@
 
                     <div class="col-lg-8">
                         <h3 class="mt-4 mt-lg-0 mb-3">You can Find us on Google Map</h3>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3581.7032893443006!2d50.59936641440215!3d26.141215683465855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49ab8b89d1dea9%3A0x5cde0b90d89827ea!2sKingpack+Trading!5e0!3m2!1sen!2sin!4v1554019127075!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3583.0462439637276!2d50.62126581502796!3d26.097409083485513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjbCsDA1JzUwLjciTiA1MMKwMzcnMjQuNCJF!5e0!3m2!1sen!2sin!4v1610281440445!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                     </div>
                 </div>
             </div>

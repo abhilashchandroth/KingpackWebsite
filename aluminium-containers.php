@@ -163,9 +163,9 @@
                                 <div class="col-md-4 col-lg-4 gallery-item">
 
                                     <h6>Aluminium Container - Round</h6>
-                                    <a href="images/products/aluminium-containers/container-round.JPG"
+                                    <a href="images/products/aluminium-containers/container-round.jpg"
                                         title="Aluminium Container - Round">
-                                        <img src="images/products/aluminium-containers/container-round.JPG" alt=""
+                                        <img src="images/products/aluminium-containers/container-round.jpg" alt=""
                                             class="img-fluid" />
                                     </a>
                                 </div>

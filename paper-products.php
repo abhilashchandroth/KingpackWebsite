@@ -56,7 +56,7 @@
               <div class="row">
                 <div class="col-sm-12 col-12 col-lg-4 col-md-6">
                   <figure class="ed-room position-relative mb-4 mt-0-highlight featured-room overflow-hidden">
-                    <img src="images/products/paper-products/paper-cups.JPG" alt="image" class="img-fluid w-100">
+                    <img src="images/products/paper-products/paper-cups.jpg" alt="image" class="img-fluid w-100">
                     <figcaption class=" ">
                       <h6 class="headline"><a href="paper-cups" data-toggle="tooltip" data-placement="top"
                           title="Paper cups">

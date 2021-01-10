@@ -57,8 +57,8 @@
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Aluminium Products-SQR</h6>
-                  <a href="images/products/shelfrange-supermarket/container-square.JPG" title="Aluminium Products">
-                    <img src="images/products/shelfrange-supermarket/container-square.JPG" alt="" class="img-fluid" />
+                  <a href="images/products/shelfrange-supermarket/container-square.jpg" title="Aluminium Products">
+                    <img src="images/products/shelfrange-supermarket/container-square.jpg" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
@@ -141,8 +141,8 @@
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Aluminium Products - Round</h6>
-                  <a href="images/products/shelfrange-supermarket/container-round.JPG" title="Aluminium Products">
-                    <img src="images/products/shelfrange-supermarket/container-round.JPG" alt="" class="img-fluid" />
+                  <a href="images/products/shelfrange-supermarket/container-round.jpg" title="Aluminium Products">
+                    <img src="images/products/shelfrange-supermarket/container-round.jpg" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
@@ -181,8 +181,8 @@
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Aluminium Products - Tray</h6>
-                  <a href="images/products/shelfrange-supermarket/tray.JPG" title="Aluminium Products">
-                    <img src="images/products/shelfrange-supermarket/tray.JPG" alt="" class="img-fluid" />
+                  <a href="images/products/shelfrange-supermarket/tray.jpg" title="Aluminium Products">
+                    <img src="images/products/shelfrange-supermarket/tray.jpg" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
@@ -279,8 +279,8 @@
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Black Base Products </h6>
-                  <a href="images/products/shelfrange-supermarket/black-base.JPG" title="Black Base Products">
-                    <img src="images/products/shelfrange-supermarket/black-base.JPG" alt="" class="img-fluid" />
+                  <a href="images/products/shelfrange-supermarket/black-base.jpg" title="Black Base Products">
+                    <img src="images/products/shelfrange-supermarket/black-base.jpg" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
@@ -339,8 +339,8 @@
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Black Base Products-PPFC </h6>
-                  <a href="images/products/shelfrange-supermarket/black-base-ppfc.JPG" title="Black Base Products">
-                    <img src="images/products/shelfrange-supermarket/black-base-ppfc.JPG" alt="" class="img-fluid" />
+                  <a href="images/products/shelfrange-supermarket/black-base-ppfc.jpg" title="Black Base Products">
+                    <img src="images/products/shelfrange-supermarket/black-base-ppfc.jpg" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
@@ -746,8 +746,8 @@
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Paper Products</h6>
-                  <a href="images/products/shelfrange-supermarket/paper-cup.JPG" title="Paper Products">
-                    <img src="images/products/shelfrange-supermarket/paper-cup.JPG" alt="" class="img-fluid" />
+                  <a href="images/products/shelfrange-supermarket/paper-cup.jpg" title="Paper Products">
+                    <img src="images/products/shelfrange-supermarket/paper-cup.jpg" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
@@ -888,8 +888,8 @@
               <div class="row product-desc">
                 <div class="col-md-4 col-lg-4 gallery-item">
                   <h6>Plastic Products</h6>
-                  <a href="images/products/shelfrange-supermarket/plastic.JPG" title="Plastic Products">
-                    <img src="images/products/shelfrange-supermarket/plastic.JPG" alt="" class="img-fluid" />
+                  <a href="images/products/shelfrange-supermarket/plastic.jpg" title="Plastic Products">
+                    <img src="images/products/shelfrange-supermarket/plastic.jpg" alt="" class="img-fluid" />
                   </a>
                 </div>
                 <div class="col-md-8 col-lg-8">
